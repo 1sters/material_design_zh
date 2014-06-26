@@ -11,7 +11,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 原文文档：
 http://www.google.com/design/spec/material-design/introduction.html
 
-# 参与步骤：
+# 参与步骤（页尾有详细的过程演示）
 * fork主仓库（https://github.com/1sters/material_design_zh）
 * 按照章节（页面）认领翻译(每次申请一个章节)，在下面还没有被人申请的章节，写上（@你的github），给主仓库的master分支提pull request；
 * 提的pull request 被确认，合并到主仓库后，代表你申请的章节*占位*完成，开始翻译；
@@ -80,3 +80,51 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html)
   * [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html)
 
+
+#协作过程演示
+
+## fork主仓库
+打开https://github.com/1sters/material_design_zh ，fork一份自己的仓库；
+
+## 初始化本地仓库
+iceskysls-MacBook-Pro:1sters iceskysl$ git clone git@github.com:IceskYsl/material_design_zh.git
+Cloning into 'material_design_zh'...
+remote: Counting objects: 3, done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 3 (delta 0)
+Receiving objects: 100% (3/3), done.
+Checking connectivity... done.
+iceskysls-MacBook-Pro:1sters iceskysl$ cd material_design_zh
+
+## 创建并切换工作分支
+iceskysls-MacBook-Pro:material_design_zh iceskysl$ git branch ing
+iceskysls-MacBook-Pro:material_design_zh iceskysl$ git checkout ing
+Switched to branch 'ing'
+
+## 添加远程主仓库
+iceskysls-MacBook-Pro:material_design_zh iceskysl$ git remote add upstream https://github.com/1sters/material_design_zh.git
+iceskysls-MacBook-Pro:material_design_zh iceskysl$ git remote -v
+origin	git@github.com:IceskYsl/material_design_zh.git (fetch)
+origin	git@github.com:IceskYsl/material_design_zh.git (push)
+upstream	https://github.com/1sters/material_design_zh.git (fetch)
+upstream	https://github.com/1sters/material_design_zh.git (push)
+
+## 和远程主仓库保持更新
+iceskysls-MacBook-Pro:material_design_zh iceskysl$ git fetch upstream
+remote: Counting objects: 43, done.
+remote: Compressing objects: 100% (33/33), done.
+remote: Total 41 (delta 12), reused 32 (delta 3)
+Unpacking objects: 100% (41/41), done.
+From https://github.com/1sters/material_design_zh
+ * [new branch]      ing        -> upstream/ing
+ * [new branch]      master     -> upstream/master
+iceskysls-MacBook-Pro:material_design_zh iceskysl$ git merge upstream/ing
+Updating 6899552..ea46595
+Fast-forward
+ README.md         | 115 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-----------------------------------------------
+ SOURCE/SUMMARY.md |  51 +++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 119 insertions(+), 47 deletions(-)
+ create mode 100644 SOURCE/SUMMARY.md
+
+
+ ## 推送本地修改到自己的远端仓库
