@@ -33,7 +33,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 - https://help.github.com/articles/markdown-basics
 - https://help.github.com/articles/github-flavored-markdown
-# 目录
+
+# 认领章节
 
 * Material Design 
   * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl) at 2014.6.26
@@ -163,3 +164,68 @@ To git@github.com:IceskYsl/material_design_zh.git
  
 推送自己的远端仓库（master分支)到主仓库（master分支)
 
+
+
+## 目录结构
+```sh
+├── README.md
+├── SUMMARY.md
+├── animation
+│   ├── authentic-motion.md
+│   ├── delightful-details.md
+│   ├── meaningful-transitions.md
+│   └── responsive-interaction.md
+├── components
+│   ├── bottom-sheets.md
+│   ├── buttons.md
+│   ├── cards.md
+│   ├── chips-tokens.md
+│   ├── dialogs.md
+│   ├── dividers.md
+│   ├── grids.md
+│   ├── list-controls.md
+│   ├── lists.md
+│   ├── menus.md
+│   ├── progress-activity.md
+│   ├── sliders.md
+│   ├── snackbars-and-toasts.md
+│   ├── subheaders.md
+│   ├── switches.md
+│   ├── tabs.md
+│   ├── text-fields.md
+│   └── tooltips.md
+├── cover.jpg
+├── cover_small.jpg
+├── layout
+│   ├── layout-principles.md
+│   ├── metrics-and-keylines.md
+│   └── structure.md
+├── material-design
+│   ├── images #
+│   │   ├── materialdesign-goals-cutrectangles_large_mdpi.png
+│   │   ├── materialdesign-goals-landingimage_large_mdpi.png
+│   │   ├── materialdesign-goals-swirlanddot_large_mdpi.png
+│   │   ├── materialdesign-principles-circleplus_large_mdpi.png
+│   │   ├── materialdesign-principles-flyingsquare_large_mdpi.png
+│   │   └── materialdesign-principles-layersquares_large_mdpi.png
+│   └── introduction.md
+├── patterns
+│   ├── gestures.md
+│   ├── imagery-treatment.md
+│   ├── promoted-actions.md
+│   ├── search.md
+│   ├── selection.md
+│   └── settings.md
+├── resources
+│   ├── color-palettes.md
+│   ├── layout-templates.md
+│   ├── roboto-font.md
+│   └── sticker-sheets.md
+├── style
+│   ├── color.md
+│   ├── icons.md
+│   ├── imagery.md
+│   └── typography.md
+└── usability
+    └── accessibility.md
+```
