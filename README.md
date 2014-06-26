@@ -255,5 +255,5 @@ To git@github.com:IceskYsl/material_design_zh.git
 ###视频如何处理
 视频在markdown中可以这样处理
 ```html
-<iframe width="740" height="270" src="http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" frameborder="0"> </iframe>
+<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" controls="controls"></video>
 ```
