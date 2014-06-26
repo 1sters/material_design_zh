@@ -1,51 +1,68 @@
-# 目录
+# Material Design 中文版
 
-* Material Design 
-  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl) at 2014.6.26
+Google I/O 2014发布的**Material Design**将会成为统一Android，Chrome等平台的设计语言规范，对Android从业人员意义重大，我们一帮不知天高地厚的人正通过互联网的方式将其翻译成中文~
+
+如果想做出贡献(翻译或者校对)的话，请加QQ群：**137198122**，谢谢！
+
+**原文文档：** <br />
+http://www.google.com/design/spec/material-design/introduction.html
+
+
+##目录
+
+* Material Design
+  * [Introduction](material-design/introduction.md)
 * Animation
-  * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) √ by [zhenbeiju](https://github.com/zhenbeiju) at 2014.6.26
-  * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html)
-  * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html)
-  * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
+  * [Authentic Motion](animation/authentic-motion.md)
+  * [Responsive Interaction](animation/responsive-interaction.md)
+  * [Meaningful Transitions](animation/meaningful-transitions.md)
+  * [Delightful Details](animation/delightful-details.md)
 * Style
-  * [Color](http://www.google.com/design/spec/style/color.html)
-  * [Typography](http://www.google.com/design/spec/style/typography.html)
-  * [Icons](http://www.google.com/design/spec/style/icons.html)  √ by Haoxiqiang
-  * [Imagery](http://www.google.com/design/spec/style/imagery.html)
+  * [Color](style/color.md)
+  * [Typography](style/typography.md)
+  * [Icons](style/icons.md)
+  * [Imagery](style/imagery.md)
 * Layout
-  * [Principles](http://www.google.com/design/spec/layout/layout-principles.html)
-  * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html)
-  * [Structure](http://www.google.com/design/spec/layout/structure.html)
+  * [Principles](layout/layout-principles.md)
+  * [Metrics and Keylines](layout/metrics-and-keylines.md)
+  * [Structure](layout/structure.md)
 * Components
-  * [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html)
-  * [Buttons](http://www.google.com/design/spec/components/buttons.html)
-  * [Cards](http://www.google.com/design/spec/components/cards.html)
-  * [Chips](http://www.google.com/design/spec/components/chips-tokens.html)
-  * [Dialogs](http://www.google.com/design/spec/components/dialogs.html)
-  * [Dividers](http://www.google.com/design/spec/components/dividers.html)
-  * [Grids](http://www.google.com/design/spec/components/grids.html)
-  * [Lists](http://www.google.com/design/spec/components/lists.html)
-  * [List controls](http://www.google.com/design/spec/components/list-controls.html)
-  * [Menus](http://www.google.com/design/spec/components/menus.html)
-  * [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
-  * [Sliders](http://www.google.com/design/spec/components/sliders.html)
-  * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html)
-  * [Subheaders](http://www.google.com/design/spec/components/subheaders.html)
-  * [Switches](http://www.google.com/design/spec/components/switches.html)
-  * [Tabs](http://www.google.com/design/spec/components/tabs.html)
-  * [Text fields](http://www.google.com/design/spec/components/text-fields.html)
-  * [Tooltips](http://www.google.com/design/spec/components/tooltips.html)
+  * [Bottom Sheets](components/bottom-sheets.md)
+  * [Buttons](components/buttons.md)
+  * [Cards](components/cards.md)
+  * [Chips](components/chips-tokens.md)
+  * [Dialogs](components/dialogs.md)
+  * [Dividers](components/dividers.md)
+  * [Grids](components/grids.md)
+  * [Lists](components/lists.md)
+  * [List controls](components/list-controls.md)
+  * [Menus](components/menus.md)
+  * [Progress and Activity](components/progress-activity.md)
+  * [Sliders](components/sliders.md)
+  * [Snackbars and Toasts](components/snackbars-and-toasts.md)
+  * [Subheaders](components/subheaders.md)
+  * [Switches](components/switches.md)
+  * [Tabs](components/tabs.md)
+  * [Text fields](components/text-fields.md)
+  * [Tooltips](components/tooltips.md)
 * Patterns
-  * [Selection](http://www.google.com/design/spec/patterns/selection.html)
-  * [Gestures](http://www.google.com/design/spec/patterns/gestures.html)
-  * [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html)
-  * [Settings](http://www.google.com/design/spec/patterns/settings.html)
-  * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html)
-  * [Search](http://www.google.com/design/spec/patterns/search.html)
+  * [Selection](patterns/selection.md)
+  * [Gestures](patterns/gestures.md)
+  * [Promoted Actions](patterns/promoted-actions.md)
+  * [Settings](patterns/settings.md)
+  * [Imagery Treatment](patterns/imagery-treatment.md)
+  * [Search](patterns/search.md)
 * Usability
-  * [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)
+  * [Accessibility](usability/accessibility.md)
 * Resources
-  * [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html)
-  * [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html)
-  * [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html)
-  * [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html)
+  * [Layout Templates](resources/layout-templates.md)
+  * [Sticker Sheets](resources/sticker-sheets.md)
+  * [Roboto Font](resources/roboto-font.md)
+  * [Color Palettes](resources/color-palettes.md)
+
+
+## 参与者(持续补充）
+- [iceskysl](https://github.com/iceskysl)
+- [vincent4J](https://github.com/vincent4j)
+- [zhenbeiju](https://github.com/zhenbeiju)
+- [Haoxiqiang](https://github.com/haoxiqiang)
