@@ -181,7 +181,7 @@ To git@github.com:IceskYsl/material_design_zh.git
 ├── cover.jpg
 ├── cover_small.jpg
 ├── material-design
-│   ├── images #
+│   ├── images
 │   │   ├── materialdesign-goals-cutrectangles_large_mdpi.png
 │   │   ├── materialdesign-goals-landingimage_large_mdpi.png
 │   │   ├── materialdesign-goals-swirlanddot_large_mdpi.png
@@ -236,4 +236,24 @@ To git@github.com:IceskYsl/material_design_zh.git
 │   ├── layout-templates.md
 │   ├── roboto-font.md
 │   └── sticker-sheets.md
+```
+
+***
+
+## 常见问题
+
+###代码如何处理
+使用markdown的代码规范处理，如
+```html
+<div class="hey">...</div>
+```
+
+###图片如何处理
+在章（如components）下创建`images`目录，将图片原文件名（如materialdesign-goals-cutrectangles_large_mdpi.png）存到该目录下，然后在文档中这样调用
+`![ALT文字](images/materialdesign-goals-landingimage_large_mdpi.png)`
+
+###视频如何处理
+视频在markdown中可以这样处理
+```html
+<iframe width="480" height="360" src="http://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-responsiveinteraction-2-celebratetouch-localized-ink-reaction2_large_xhdpi.webm" frameborder="0"> </iframe>
 ```
