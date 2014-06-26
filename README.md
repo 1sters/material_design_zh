@@ -28,6 +28,11 @@ http://www.google.com/design/spec/material-design/introduction.html
 - fork过去之后新建一个分支进行翻译，完成后pull request这个分支，没问题的话我会合并到`develop`分支中
 - 有其他任何问题都欢迎发issue，我们看到了会尽快回复
 
+
+如果不熟悉的Markdown的，请参考
+
+- https://help.github.com/articles/markdown-basics
+- https://help.github.com/articles/github-flavored-markdown
 # 目录
 
 * Material Design 
