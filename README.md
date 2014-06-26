@@ -13,10 +13,10 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 # 参与步骤（页尾有详细的过程演示）
 * fork主仓库（https://github.com/1sters/material_design_zh）
-* 按照章节（页面）认领翻译(每次申请一个章节)，在下面还没有被人申请的章节，写上（@你的github），给主仓库的`master`分支提pull request；
+* 按照章节（页面）认领翻译(每次申请一个章节)，在下面这个`README.md`里找还没有被人申请的章节，写上（@你的github号），给主仓库的`develop`分支提pull request；
 * 提的pull request 被确认，合并到主仓库后，代表你申请的章节*占位*完成，开始翻译；
 * 翻译过程请参 *翻译协作规范* ，完成翻译后提交pull request给主仓库的`develop`分支；
-* 校核完成后，从`develop`分支合并到`master`分支；
+* 校核完成后，从主仓库的`develop`分支合并到主`master`分支；
 * 全部翻译完成后，生成PDF文档和网页发布；
 
 # 翻译协作规范
@@ -36,9 +36,9 @@ http://www.google.com/design/spec/material-design/introduction.html
 # 目录
 
 * Material Design 
-  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html)  by @iceskysl at 2014.6.26
+  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html)  by [iceskysl](https://github.com/iceskysl) at 2014.6.26
 * Animation
-  * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html)
+  * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) by [zhenbeiju](https://github.com/zhenbeiju) at 2014.6.26
   * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html)
   * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html)
   * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
