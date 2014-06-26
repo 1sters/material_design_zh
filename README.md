@@ -1,4 +1,8 @@
-## Material Design 协调翻译
+## Material Design 中文协同翻译
+
+Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平台的设计语言规范，我们一帮不知天高地厚的人走在一起，通过互联网的方式将其翻译成中文~
+
+如果想帮忙翻译或者校对，请加QQ群：137198122，谢谢！
 
 原文文档：
 http://www.google.com/design/spec/material-design/introduction.html
@@ -6,8 +10,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 ### 参与步骤：
 * fork主仓库（https://github.com/1sters/material_design_zh）
-* 按照章节（页面）认领翻译，在下面还没有被人申请的章节，写上（@你的github），给主仓库的master分支提pull request；
-* 提的pull request 被确认，合并到主仓库后，代表你申请的章节完成，开始翻译；
+* 按照章节（页面）认领翻译(每次申请一个章节)，在下面还没有被人申请的章节，写上（@你的github），给主仓库的master分支提pull request；
+* 提的pull request 被确认，合并到主仓库后，代表你申请的章节*占位*完成，开始翻译；
 * 翻译过程请参 *翻译协作规范* ，完成翻译后提交pull request给主仓库的 dev分支；
 * 校核完成后，从dev分支合并到master分支；
 * 全部翻译完成后，生成PDF文档和网页发布；
@@ -17,8 +21,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 ### 目录
 
-* Material Design @iceskysl 
-  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) @iceskysl
+* Material Design 
+  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) by [iceskysl] at 2014.6.26
 * Animation
   * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html)
   * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html)
