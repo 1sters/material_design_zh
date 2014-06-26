@@ -22,7 +22,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 ### 目录
 
 * Material Design 
-  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) @iceskysl at 2014.6.26
+  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) [@iceskysl](https://github.com/iceskysl) at 2014.6.26
 * Animation
   * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html)
   * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html)
@@ -71,5 +71,3 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html)
   * [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html)
 
-
-[@iceskysl]:https://github.com/iceskysl
