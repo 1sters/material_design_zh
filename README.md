@@ -5,13 +5,16 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 我们欢迎每一个人参与进来~~
 
+***
+
 #一起来参与
 如果想做出贡献(翻译或者校对)的话，请加QQ群：137198122，谢谢！
 
 原文文档：
 http://www.google.com/design/spec/material-design/introduction.html
 
-# 参与步骤（页尾有详细的过程演示）
+
+## 参与步骤（页尾有详细的过程演示）
 * fork主仓库（https://github.com/1sters/material_design_zh）
 * 按照章节（页面）认领翻译(每次申请一个章节)，在下面这个`README.md`里找还没有被人申请的章节，写上（@你的github号），给主仓库的`master`分支提pull request；
 * 提的pull request 被确认，合并到主仓库后，代表你申请的章节*占位*完成，开始翻译；
@@ -19,7 +22,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 * 校核完成后，从主仓库的`master`分支合并到主`publish`分支；
 * 全部翻译完成后，生成PDF文档和网页发布；
 
-# 翻译协作规范
+## 翻译协作规范
 为了让大家协作顺畅，需要每一个人遵循如下协作规范~
 
 - 使用markdown进行翻译，文件名必须使用英文，因为中文的话gitbook编译的时候会出问题
@@ -34,12 +37,15 @@ http://www.google.com/design/spec/material-design/introduction.html
 - https://help.github.com/articles/markdown-basics
 - https://help.github.com/articles/github-flavored-markdown
 
-# 认领章节
+***
+
+# 认领章节记录
+认领章节的同学在这里标示（参考已有的标示规范）~
 
 * Material Design 
-  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl) at 2014.6.26
+  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) 10% by [iceskysl](https://github.com/iceskysl)
 * Animation
-  * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) √ by [zhenbeiju](https://github.com/zhenbeiju) at 2014.6.26
+  * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
   * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html)
   * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html)
   * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
@@ -87,6 +93,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html)
 
 
+***
 #协作过程演示
 
 ## fork主仓库
@@ -165,6 +172,7 @@ To git@github.com:IceskYsl/material_design_zh.git
 推送自己的远端仓库（master分支)到主仓库（master分支)
 
 
+***
 
 ## 目录结构
 ```sh
