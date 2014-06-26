@@ -7,14 +7,14 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 ***
 
-#一起来参与
+##一起来参与
 如果想做出贡献(翻译或者校对)的话，请加QQ群：137198122，谢谢！
 
 原文文档：
 http://www.google.com/design/spec/material-design/introduction.html
 
 
-## 参与步骤（页尾有详细的过程演示）
+### 参与步骤（页尾有详细的过程演示）
 * fork主仓库（https://github.com/1sters/material_design_zh）
 * 按照章节（页面）认领翻译(每次申请一个章节)，在下面这个`README.md`里找还没有被人申请的章节，写上（@你的github号），给主仓库的`master`分支提pull request；
 * 提的pull request 被确认，合并到主仓库后，代表你申请的章节*占位*完成，开始翻译；
@@ -22,7 +22,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 * 校核完成后，从主仓库的`master`分支合并到主`publish`分支；
 * 全部翻译完成后，生成PDF文档和网页发布；
 
-## 翻译协作规范
+### 翻译协作规范
 为了让大家协作顺畅，需要每一个人遵循如下协作规范~
 
 - 使用markdown进行翻译，文件名必须使用英文，因为中文的话gitbook编译的时候会出问题
@@ -39,7 +39,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 ***
 
-# 认领章节记录
+## 认领章节记录
 认领章节的同学在这里标示（参考已有的标示规范）~
 
 * Material Design 
@@ -94,12 +94,12 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 
 ***
-#协作过程演示
+##协作过程演示
 
-## fork主仓库
+### fork主仓库
 打开https://github.com/1sters/material_design_zh ，fork一份自己的仓库；
 
-## 初始化本地仓库
+### 初始化本地仓库
 
 ```sh
 iceskysls-MacBook-Pro:1sters iceskysl$ git clone git@github.com:IceskYsl/material_design_zh.git
@@ -112,7 +112,7 @@ Checking connectivity... done.
 iceskysls-MacBook-Pro:1sters iceskysl$ cd material_design_zh
 ```
 
-## 添加远程主仓库
+### 添加远程主仓库
 
 ```sh
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git remote add upstream https://github.com/1sters/material_design_zh.git
@@ -122,7 +122,7 @@ origin	git@github.com:IceskYsl/material_design_zh.git (push)
 upstream	https://github.com/1sters/material_design_zh.git (fetch)
 upstream	https://github.com/1sters/material_design_zh.git (push)
 ```
-## 和远程主仓库保持更新
+### 和远程主仓库保持更新
 
 ```sh
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git fetch upstream
@@ -141,7 +141,7 @@ Fast-forward
  create mode 100644 SOURCE/SUMMARY.md
 ```
 
-## 推送本地修改到自己的远端仓库
+### 推送本地修改到自己的远端仓库
 
 ```sh
  iceskysls-MacBook-Pro:material_design_zh iceskysl$ git st
@@ -167,7 +167,7 @@ To git@github.com:IceskYsl/material_design_zh.git
  * [new branch]      master -> master
 ```
 
-## 发Pull Request
+### 发Pull Request
  
 推送自己的远端仓库（master分支)到主仓库（master分支)
 
