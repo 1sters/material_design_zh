@@ -36,16 +36,16 @@ http://www.google.com/design/spec/material-design/introduction.html
 # 目录
 
 * Material Design 
-  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html)  by [iceskysl](https://github.com/iceskysl) at 2014.6.26
+  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl) at 2014.6.26
 * Animation
-  * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) by [zhenbeiju](https://github.com/zhenbeiju) at 2014.6.26
+  * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) √ by [zhenbeiju](https://github.com/zhenbeiju) at 2014.6.26
   * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html)
   * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html)
   * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html)
   * [Typography](http://www.google.com/design/spec/style/typography.html)
-  * [Icons](http://www.google.com/design/spec/style/icons.html)
+  * [Icons](http://www.google.com/design/spec/style/icons.html)  √ by Haoxiqiang
   * [Imagery](http://www.google.com/design/spec/style/imagery.html)
 * Layout
   * [Principles](http://www.google.com/design/spec/layout/layout-principles.html)
