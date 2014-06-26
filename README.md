@@ -56,7 +56,6 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Imagery](http://www.google.com/design/spec/style/imagery.html)
 * Layout
   * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)  
-  * Animation
   * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html)
   * [Structure](http://www.google.com/design/spec/layout/structure.html)
 * Components
