@@ -5,13 +5,13 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 
 ### 参与步骤：
-* fork主仓库（https://github.com/1sters/MaterialDesign）
+* fork主仓库（https://github.com/1sters/material_design_zh）
 * 按照如下协作规范
 
 ### 目录
 
-* Material Design
-  * Introduction
+* Material Design @iceskysl 
+  * Introduction @iceskysl
 * Animation
   * Authentic Motion
   * Responsive Interaction
