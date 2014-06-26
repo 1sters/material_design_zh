@@ -178,11 +178,31 @@ To git@github.com:IceskYsl/material_design_zh.git
 ```sh
 ├── README.md
 ├── SUMMARY.md
+├── cover.jpg
+├── cover_small.jpg
+├── material-design
+│   ├── images #
+│   │   ├── materialdesign-goals-cutrectangles_large_mdpi.png
+│   │   ├── materialdesign-goals-landingimage_large_mdpi.png
+│   │   ├── materialdesign-goals-swirlanddot_large_mdpi.png
+│   │   ├── materialdesign-principles-circleplus_large_mdpi.png
+│   │   ├── materialdesign-principles-flyingsquare_large_mdpi.png
+│   │   └── materialdesign-principles-layersquares_large_mdpi.png
+│   └── introduction.md
 ├── animation
 │   ├── authentic-motion.md
 │   ├── delightful-details.md
 │   ├── meaningful-transitions.md
 │   └── responsive-interaction.md
+├── style
+│   ├── color.md
+│   ├── icons.md
+│   ├── imagery.md
+│   └── typography.md
+├── layout
+│   ├── layout-principles.md
+│   ├── metrics-and-keylines.md
+│   └── structure.md
 ├── components
 │   ├── bottom-sheets.md
 │   ├── buttons.md
@@ -202,21 +222,6 @@ To git@github.com:IceskYsl/material_design_zh.git
 │   ├── tabs.md
 │   ├── text-fields.md
 │   └── tooltips.md
-├── cover.jpg
-├── cover_small.jpg
-├── layout
-│   ├── layout-principles.md
-│   ├── metrics-and-keylines.md
-│   └── structure.md
-├── material-design
-│   ├── images #
-│   │   ├── materialdesign-goals-cutrectangles_large_mdpi.png
-│   │   ├── materialdesign-goals-landingimage_large_mdpi.png
-│   │   ├── materialdesign-goals-swirlanddot_large_mdpi.png
-│   │   ├── materialdesign-principles-circleplus_large_mdpi.png
-│   │   ├── materialdesign-principles-flyingsquare_large_mdpi.png
-│   │   └── materialdesign-principles-layersquares_large_mdpi.png
-│   └── introduction.md
 ├── patterns
 │   ├── gestures.md
 │   ├── imagery-treatment.md
@@ -224,16 +229,11 @@ To git@github.com:IceskYsl/material_design_zh.git
 │   ├── search.md
 │   ├── selection.md
 │   └── settings.md
+└── usability
+    └── accessibility.md
 ├── resources
 │   ├── color-palettes.md
 │   ├── layout-templates.md
 │   ├── roboto-font.md
 │   └── sticker-sheets.md
-├── style
-│   ├── color.md
-│   ├── icons.md
-│   ├── imagery.md
-│   └── typography.md
-└── usability
-    └── accessibility.md
 ```
