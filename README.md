@@ -87,6 +87,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 打开https://github.com/1sters/material_design_zh ，fork一份自己的仓库；
 
 ## 初始化本地仓库
+
+```sh
 iceskysls-MacBook-Pro:1sters iceskysl$ git clone git@github.com:IceskYsl/material_design_zh.git
 Cloning into 'material_design_zh'...
 remote: Counting objects: 3, done.
@@ -95,21 +97,27 @@ remote: Total 3 (delta 0), reused 3 (delta 0)
 Receiving objects: 100% (3/3), done.
 Checking connectivity... done.
 iceskysls-MacBook-Pro:1sters iceskysl$ cd material_design_zh
-
+```
 ## 创建并切换工作分支
+
+```sh
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git branch ing
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git checkout ing
 Switched to branch 'ing'
-
+```
 ## 添加远程主仓库
+
+```sh
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git remote add upstream https://github.com/1sters/material_design_zh.git
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git remote -v
 origin	git@github.com:IceskYsl/material_design_zh.git (fetch)
 origin	git@github.com:IceskYsl/material_design_zh.git (push)
 upstream	https://github.com/1sters/material_design_zh.git (fetch)
 upstream	https://github.com/1sters/material_design_zh.git (push)
-
+```
 ## 和远程主仓库保持更新
+
+```sh
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git fetch upstream
 remote: Counting objects: 43, done.
 remote: Compressing objects: 100% (33/33), done.
@@ -125,6 +133,34 @@ Fast-forward
  SOURCE/SUMMARY.md |  51 +++++++++++++++++++++++++++++++++++++++++++++++++++
  2 files changed, 119 insertions(+), 47 deletions(-)
  create mode 100644 SOURCE/SUMMARY.md
+```
 
+## 推送本地修改到自己的远端仓库
 
- ## 推送本地修改到自己的远端仓库
+```sh
+ iceskysls-MacBook-Pro:material_design_zh iceskysl$ git st
+ On branch ing
+ Changes not staged for commit:
+   (use "git add <file>..." to update what will be committed)
+   (use "git checkout -- <file>..." to discard changes in working directory)
+
+ 	modified:   README.md
+
+ no changes added to commit (use "git add" and/or "git commit -a")
+
+iceskysls-MacBook-Pro:material_design_zh iceskysl$ git add .
+iceskysls-MacBook-Pro:material_design_zh iceskysl$ git commit -m "完成规范编写"
+
+iceskysls-MacBook-Pro:material_design_zh iceskysl$ git push origin ing
+Counting objects: 46, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (39/39), done.
+Writing objects: 100% (44/44), 7.50 KiB | 0 bytes/s, done.
+Total 44 (delta 13), reused 0 (delta 0)
+To git@github.com:IceskYsl/material_design_zh.git
+ * [new branch]      ing -> ing
+```
+
+## 发Pull Request
+ 
+ 推送自己的远端仓库（ing分支)到主仓库（ing分支)
