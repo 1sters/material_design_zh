@@ -106,20 +106,25 @@
 
 工具欄超有用，它可以被用在應用程式很多地方。以下的例子讓你知道哪些地方你可以顯示：
 
+
 ![](images/layout-structure-toolbars-toolbars-01_large_mdpi.png)
 
 全寬度，默認高度的選單
 
 ![](images/layout-structure-toolbars-toolbars-02_large_mdpi.png)
+
 全寬度，拉高了的選單，並且生成了不同的列寬度。
 
 ![](images/layout-structure-toolbars-toolbars-03_large_mdpi.png)
+
 具有列寬的工具欄，並與視圖不同層。
 
 ![](images/layout-structure-toolbars-toolbars-04_large_mdpi.png)
+
 靈活的工具欄和卡片工具欄。
 
 ![](images/layout-structure-toolbars-toolbars-05_large_mdpi.png)
+
 浮起的工具欄
 
 ![](images/layout-structure-toolbars-toolbars-05_large_mdpi.png)
