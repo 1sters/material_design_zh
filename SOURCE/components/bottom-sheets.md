@@ -14,7 +14,7 @@
 在一个标准的列表样式的底部窗口（bottom sheets）中,每一个功能应该有一个文本描述和一个左对齐的icon。如果需要的话，也可以使用分隔符对这些功能进行逻辑分组，也可以使用子标题或者标题供上下选择。
 
 一个可以滚动的表格样式的底部窗口，可以用来包含标准的分享功能。
-![sss](https://github.com/com360/material_design_zh/blob/master/SOURCE/components/images/components-bottomsheet-for-mobile-1a_large_xhdpi.png)
+![sss](https://raw.githubusercontent.com/com360/material_design_zh/master/SOURCE/components/images/components-bottomsheet-for-mobile-1a_large_xhdpi.png)
 
 #行为#
 
