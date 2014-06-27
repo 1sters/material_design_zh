@@ -59,7 +59,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html)
   * [Structure](http://www.google.com/design/spec/layout/structure.html)
 * Components
-  * [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html)
+  * [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) 1% by [com360](https://github.com/com360)
   * [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [7heaven](https://github.com/7heaven)
   * [Cards](http://www.google.com/design/spec/components/cards.html)
   * [Chips](http://www.google.com/design/spec/components/chips-tokens.html)
