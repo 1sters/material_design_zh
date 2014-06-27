@@ -87,10 +87,10 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Usability
   * [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)by [fortianwei](https://github.com/fortianwei)
 * Resources
-  * [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) 1% by [iceskysl](https://github.com/iceskysl)
-  * [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html)
-  * [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html)
-  * [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html)
+  * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) 90% by [iceskysl](https://github.com/iceskysl)
+  * [贴纸](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) 90% by [iceskysl](https://github.com/iceskysl)
+  * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) 90% by [iceskysl](https://github.com/iceskysl)
+  * [调色板](SOURCE/resources/color-palettes.md) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html) 90% by [iceskysl](https://github.com/iceskysl)
 
 
 ***
