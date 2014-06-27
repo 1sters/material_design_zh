@@ -73,8 +73,8 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Sliders](http://www.google.com/design/spec/components/sliders.html)
   * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html)
   * [Subheaders](http://www.google.com/design/spec/components/subheaders.html)
-  * [Switches](http://www.google.com/design/spec/components/switches.html)
-  * [Tabs](http://www.google.com/design/spec/components/tabs.html)
+  * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) 1% by [vincent4j](https://github.com/vincent4j)
+  * [Tabs](SOURCE/components/tabs.md) - [Tabs](http://www.google.com/design/spec/components/tabs.html) 1% by [vincent4j](https://github.com/vincent4j)
   * [Text fields](http://www.google.com/design/spec/components/text-fields.html)
   * [Tooltips](http://www.google.com/design/spec/components/tooltips.html)
 * Patterns
