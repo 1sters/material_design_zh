@@ -246,6 +246,21 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ***
 
+## 参与者(持续补充）
+- [iceskysl](https://github.com/iceskysl)
+- [vincent4J](https://github.com/vincent4j)
+- [zhenbeiju](https://github.com/zhenbeiju)
+- [Haoxiqiang](https://github.com/haoxiqiang)
+- [CodeDiving](https://github.com/codeDiving)
+- [7heaven](https://github.com/7heaven)
+- [com360](https://github.com/com360)
+- [Jingsha](https://github.com/jingsha)
+- [ThatMrL](https://github.com/ThatMrL)
+- [DonLiangGit](https://github.com/donlianggit)
+- [fortianwei](https://github.com/fortianwei)
+
+***
+
 ## 常见问题
 
 ###代码如何处理
@@ -263,3 +278,5 @@ To git@github.com:IceskYsl/material_design_zh.git
 ```html
 <video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" controls="controls"></video>
 ```
+
+
