@@ -24,4 +24,22 @@
 
 #规格#
 
-下面的字体和颜色规格，红线区域都是提供给手机app使用的。
+下面的字体和颜色规格，区域规格都是提供给手机app使用的。
+
+![图1](images/components-bottomsheets-content-actionsheet_08_large_mdpi.png)
+![图2](images/components-bottomsheets-content-actionsheet_08b_large_mdpi.png)
+
+列表样式的底部窗口规格设计
+
+![图1](images/components-bottomsheets-content-actionsheet_12_large_mdpi.png)
+![图2](images/components-bottomsheets-content-actionsheet_12b_large_mdpi.png)
+
+带头部的列表样式的底部窗口规格设计
+
+![图1](images/components-bottomsheets-content-bottomsheet_10a_large_mdpi.png)
+![图2](images/components-bottomsheets-content-bottomsheet_10b_large_mdpi.png)
+
+![图1](images/components-bottomsheets-content-actionsheet_20_large_mdpi.png)
+![图2](images/components-bottomsheets-content-actionsheet_20b_large_mdpi.png)
+
+表格样式的包含标准的跳转到其他程序功能的底部窗口规格设计
