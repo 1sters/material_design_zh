@@ -61,7 +61,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Components
   * [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) 1% by [com360](https://github.com/com360)
   * [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [7heaven](https://github.com/7heaven)
-  * [Cards](http://www.google.com/design/spec/components/cards.html)
+  * [Cards](http://www.google.com/design/spec/components/cards.html) 1% by [ThatMrL](https://github.com/ThatMrL)
   * [Chips](http://www.google.com/design/spec/components/chips-tokens.html)
   * [Dialogs](http://www.google.com/design/spec/components/dialogs.html)
   * [Dividers](http://www.google.com/design/spec/components/dividers.html)
