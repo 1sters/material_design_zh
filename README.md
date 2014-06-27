@@ -43,7 +43,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 认领章节的同学在这里标示（参考已有的标示规范）~
 
 * Material Design 
-  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) 10% by [iceskysl](https://github.com/iceskysl)
+  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) 90% by [iceskysl](https://github.com/iceskysl)
 * Animation
   * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
   * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html)
