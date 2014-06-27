@@ -26,6 +26,7 @@ http://developer.android.com/preview/material/index.html
 ## 文章
 
 * [Material Design：向拟物回跳一下的扁平化设计](http://zhuanlan.zhihu.com/bigertech/19787211) by 笔戈科技漫画师@8HPencil
+* [What Is Flat Design?](http://gizmodo.com/what-is-flat-design-508963228) by Kelsey Campbell-Dollaghan
 
 ## 讨论
 
