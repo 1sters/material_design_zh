@@ -8,8 +8,9 @@ GitHub：[Material Design Guide](https://github.com/1sters/material_design_zh/bl
 ## 文档
 
 **Google Material Design文档**
-官方英文：http://www.google.com/design/spec/material-design/introduction.html
-中文翻译：https://github.com/1sters/material_design_zh
+
+* 官方英文：http://www.google.com/design/spec/material-design/introduction.html
+* 中文翻译：https://github.com/1sters/material_design_zh
 
 
 ## 讨论
