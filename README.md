@@ -56,7 +56,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Imagery](http://www.google.com/design/spec/style/imagery.html)
 * Layout
   * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)
-  * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html)
+  * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) 1% by [CodeDiving](http://github.com/codediving)
   * [Structure](http://www.google.com/design/spec/layout/structure.html) 1% by [donlianggit](https://github.com/donlianggit)
 * Components
   * [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) 1% by [com360](https://github.com/com360)
@@ -65,10 +65,10 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Chips](http://www.google.com/design/spec/components/chips-tokens.html)
   * [Dialogs](http://www.google.com/design/spec/components/dialogs.html)
   * [Dividers](http://www.google.com/design/spec/components/dividers.html)
-  * [Grids](http://www.google.com/design/spec/components/grids.html)
-  * [Lists](http://www.google.com/design/spec/components/lists.html)
+  * [Grids](http://www.google.com/design/spec/components/grids.html) 1% by [CodeDiving](http://github.com/codediving)
+  * [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [CodeDiving](http://github.com/codediving)
   * [List controls](http://www.google.com/design/spec/components/list-controls.html)
-  * [Menus](http://www.google.com/design/spec/components/menus.html)
+  * [Menus](http://www.google.com/design/spec/components/menus.html) 1% by [CodeDiving](http://github.com/codediving)
   * [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
   * [Sliders](http://www.google.com/design/spec/components/sliders.html)
   * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html)
