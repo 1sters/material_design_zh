@@ -29,12 +29,12 @@
 ![图1](images/components-bottomsheets-content-actionsheet_08_large_mdpi.png)
 ![图2](images/components-bottomsheets-content-actionsheet_08b_large_mdpi.png)
 
-列表样式的底部窗口规格设计
+（上图）列表样式的底部窗口规格设计
 
 ![图1](images/components-bottomsheets-content-actionsheet_12_large_mdpi.png)
 ![图2](images/components-bottomsheets-content-actionsheet_12b_large_mdpi.png)
 
-带头部的列表样式的底部窗口规格设计
+（上图）带头部的列表样式的底部窗口规格设计
 
 ![图1](images/components-bottomsheets-content-bottomsheet_10a_large_mdpi.png)
 ![图2](images/components-bottomsheets-content-bottomsheet_10b_large_mdpi.png)
@@ -42,4 +42,4 @@
 ![图1](images/components-bottomsheets-content-actionsheet_20_large_mdpi.png)
 ![图2](images/components-bottomsheets-content-actionsheet_20b_large_mdpi.png)
 
-表格样式的包含标准的跳转到其他程序功能的底部窗口规格设计
+（上图）表格样式的包含标准的跳转到其他程序功能的底部窗口规格设计
