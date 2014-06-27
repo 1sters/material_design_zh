@@ -14,8 +14,8 @@
 在一个标准的列表样式的底部窗口（bottom sheets）中,每一个功能应该有一个文本描述和一个左对齐的icon。如果需要的话，也可以使用分隔符对这些功能进行逻辑分组，也可以使用子标题或者标题供上下选择。
 
 一个可以滚动的表格样式的底部窗口，可以用来包含标准的分享功能。
-![sss](https://raw.githubusercontent.com/com360/material_design_zh/master/SOURCE/components/images/components-bottomsheet-for-mobile-1a_large_xhdpi.png)
-
+![图1](images/components-bottomsheet-for-mobile-1a_large_mdpi.png)
+![图2](images/components-bottomsheet-for-mobile-1b_large_mdpi.png)
 #行为#
 
 显示底部窗口的时候应该是从屏幕底部边缘向上的动画。根据之前的内容会给用户一个继续走下去的模式。点击灰色区域会使得底部窗口关闭掉，并且伴随下滑的动画。如果这个窗口包含的功能超出了初始的显示区域，这个窗口应该可以滑动。可以向上滑动窗口，甚至窗口可以覆盖整个屏幕。当窗口覆盖整个屏幕的时候，需要在上部的标题栏左手测增加一个关闭按钮。
