@@ -51,7 +51,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Delightful Details](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) 1% by [com360](https://github.com/com360)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
-  * [Typography](http://www.google.com/design/spec/style/typography.html)
+  * [Typography](http://www.google.com/design/spec/style/typography.html) 1% By ACELY
   * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html)  √ by [Haoxiqiang](https://github.com/haoxiqiang)
   * [Imagery](http://www.google.com/design/spec/style/imagery.html)
 * Layout
