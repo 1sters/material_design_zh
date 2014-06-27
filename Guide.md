@@ -20,6 +20,8 @@ Material Design 学习指南
 * 官方英文：http://www.google.com/design/spec/material-design/introduction.html
 * 中文翻译：https://github.com/1sters/material_design_zh
 
+**Material Design@Android L Developer Preview**
+http://developer.android.com/preview/material/index.html
 
 ## 文章
 
