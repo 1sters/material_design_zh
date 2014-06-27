@@ -43,10 +43,10 @@ http://www.google.com/design/spec/material-design/introduction.html
 认领章节的同学在这里标示（参考已有的标示规范）~
 
 * Material Design 
-  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) 90% by [iceskysl](https://github.com/iceskysl)
+  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
 * Animation
   * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
-  * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html)
+  * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
   * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html)
   * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
 * Style
@@ -55,7 +55,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Icons](http://www.google.com/design/spec/style/icons.html)  √ by Haoxiqiang
   * [Imagery](http://www.google.com/design/spec/style/imagery.html)
 * Layout
-  * [Principles](http://www.google.com/design/spec/layout/layout-principles.html)
+  * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)
   * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html)
   * [Structure](http://www.google.com/design/spec/layout/structure.html)
 * Components
@@ -87,7 +87,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Usability
   * [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)
 * Resources
-  * [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html)
+  * [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) 1% by [iceskysl](https://github.com/iceskysl)
   * [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html)
   * [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html)
   * [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html)

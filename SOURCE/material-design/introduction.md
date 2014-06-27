@@ -22,6 +22,7 @@
 ## 设计原则
 
 ![materialdesign-principles-layersquares](images/materialdesign-principles-layersquares_large_mdpi.png)
+
 实体感就是隐喻
 
 通过构建系统化的动效和空间合理化利用，并将两个理念合二为一，构成了实体隐喻。与众不同的触感是实体的基础，这一灵感来自我们队纸墨的研究，但是我们相信，随着科技的进步，前景将不可限量。
@@ -32,6 +33,7 @@
 
 
 ![materialdesign-principles-circleplus_large_mdpi.png](images/materialdesign-principles-circleplus_large_mdpi.png)
+
 鲜明、形象、深思熟虑
 
 新的视觉语言，在基本元素的处理上，借鉴了传统的印刷设计——字体版式、网格系统、空间、比例、配色、图像使用——这些基础的平面设计规范。在这些设计基础上下功夫，不但可以预约用户，而且能够构建出视觉层级、视觉意义以及视觉聚焦。精心选择色彩、图像、选择合乎比例的字体、留白，力求构建出鲜明、形象的用户界面，让用户沉浸其中。
@@ -39,6 +41,7 @@
 Material Design设计语言强调根据用户行为凸显核心功能，进而为用户提供操作指引。
 
 ![materialdesign-principles-flyingsquare](images/materialdesign-principles-flyingsquare_large_mdpi.png)
+
 有意义的动效
 
 动效可以有效的暗示、指引用户。动效的设计要根据用户行为而定，能够改变整体设计的触感。
