@@ -48,7 +48,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Authentic Motion](SOURCE/animation/authentic-motion.md) - [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
   * [交互响应](SOURCE/animation/responsive-interaction.md) - [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
   * [Meaningful Transitions](SOURCE/animation/meaningful-transitions.md) - [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) 1% by [Jingsha](https://github.com/jingsha)
-  * [Delightful Details](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
+  * [Delightful Details](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) 1% by [com360](https://github.com/com360)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
   * [Typography](http://www.google.com/design/spec/style/typography.html)
@@ -59,12 +59,12 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) 1% by [CodeDiving](http://github.com/codediving)
   * [Structure](http://www.google.com/design/spec/layout/structure.html) 1% by [donlianggit](https://github.com/donlianggit)
 * Components
-  * [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) 1% by [com360](https://github.com/com360)
+  * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) √ by [com360](https://github.com/com360)
   * [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [7heaven](https://github.com/7heaven)
   * [Cards](http://www.google.com/design/spec/components/cards.html) 1% by [ThatMrL](https://github.com/ThatMrL)
-  * [Chips](http://www.google.com/design/spec/components/chips-tokens.html)
-  * [Dialogs](http://www.google.com/design/spec/components/dialogs.html)
-  * [Dividers](http://www.google.com/design/spec/components/dividers.html)
+  * [Chips](http://www.google.com/design/spec/components/chips-tokens.html) 1% by [Kris](https://github.com/krislq)
+  * [Dialogs](http://www.google.com/design/spec/components/dialogs.html) 1% by [Kris](https://github.com/krislq)
+  * [Dividers](http://www.google.com/design/spec/components/dividers.html) 1% by [Kris](https://github.com/krislq)
   * [Grids](http://www.google.com/design/spec/components/grids.html) 1% by [CodeDiving](http://github.com/codediving)
   * [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [CodeDiving](http://github.com/codediving)
   * [List controls](http://www.google.com/design/spec/components/list-controls.html)
@@ -85,7 +85,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html)
   * [Search](http://www.google.com/design/spec/patterns/search.html)
 * Usability
-  * [Accessibility](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)by [fortianwei](https://github.com/fortianwei)
+  * [Accessibility](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) 1% by [fortianwei](https://github.com/fortianwei)
 * Resources
   * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) 90% by [iceskysl](https://github.com/iceskysl)
   * [贴纸](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) 90% by [iceskysl](https://github.com/iceskysl)
