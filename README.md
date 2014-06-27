@@ -43,32 +43,32 @@ http://www.google.com/design/spec/material-design/introduction.html
 认领章节的同学在这里标示（参考已有的标示规范）~
 
 * Material Design 
-  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
+  * [概述](SOURCE/material-design/introduction.md) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
 * Animation
-  * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
-  * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
-  * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html)
-  * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
+  * [Authentic Motion](SOURCE/animation/authentic-motion.md) - [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
+  * [交互响应](SOURCE/animation/responsive-interaction.md) - [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
+  * [Meaningful Transitions](SOURCE/animation/meaningful-transitions.md) - [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) 1% by [Jingsha](https://github.com/jingsha)
+  * [Delightful Details](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
   * [Typography](http://www.google.com/design/spec/style/typography.html)
-  * [Icons](http://www.google.com/design/spec/style/icons.html)  √ by Haoxiqiang
+  * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html)  √ by [Haoxiqiang](https://github.com/haoxiqiang)
   * [Imagery](http://www.google.com/design/spec/style/imagery.html)
 * Layout
   * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)
-  * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html)
-  * [Structure](http://www.google.com/design/spec/layout/structure.html)
+  * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) 1% by [CodeDiving](http://github.com/codediving)
+  * [Structure](http://www.google.com/design/spec/layout/structure.html) 1% by [donlianggit](https://github.com/donlianggit)
 * Components
-  * [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html)
-  * [Buttons](http://www.google.com/design/spec/components/buttons.html)
-  * [Cards](http://www.google.com/design/spec/components/cards.html)
+  * [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) 1% by [com360](https://github.com/com360)
+  * [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [7heaven](https://github.com/7heaven)
+  * [Cards](http://www.google.com/design/spec/components/cards.html) 1% by [ThatMrL](https://github.com/ThatMrL)
   * [Chips](http://www.google.com/design/spec/components/chips-tokens.html)
   * [Dialogs](http://www.google.com/design/spec/components/dialogs.html)
   * [Dividers](http://www.google.com/design/spec/components/dividers.html)
-  * [Grids](http://www.google.com/design/spec/components/grids.html)
-  * [Lists](http://www.google.com/design/spec/components/lists.html)
+  * [Grids](http://www.google.com/design/spec/components/grids.html) 1% by [CodeDiving](http://github.com/codediving)
+  * [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [CodeDiving](http://github.com/codediving)
   * [List controls](http://www.google.com/design/spec/components/list-controls.html)
-  * [Menus](http://www.google.com/design/spec/components/menus.html)
+  * [Menus](http://www.google.com/design/spec/components/menus.html) 1% by [CodeDiving](http://github.com/codediving)
   * [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
   * [Sliders](http://www.google.com/design/spec/components/sliders.html)
   * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html)
@@ -85,12 +85,12 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html)
   * [Search](http://www.google.com/design/spec/patterns/search.html)
 * Usability
-  * [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)
+  * [Accessibility](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)by [fortianwei](https://github.com/fortianwei)
 * Resources
-  * [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) 1% by [iceskysl](https://github.com/iceskysl)
-  * [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html)
-  * [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html)
-  * [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html)
+  * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) 90% by [iceskysl](https://github.com/iceskysl)
+  * [贴纸](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) 90% by [iceskysl](https://github.com/iceskysl)
+  * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) 90% by [iceskysl](https://github.com/iceskysl)
+  * [调色板](SOURCE/resources/color-palettes.md) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html) 90% by [iceskysl](https://github.com/iceskysl)
 
 
 ***
@@ -98,6 +98,9 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 录了一个动作演示，如下
 ![github guide](http://assets-1sters.qiniudn.com/github_guide.gif)
+
+* `git st`是我设置的一个git的别名，其全称是 `git status`
+
 
 ### fork主仓库
 打开https://github.com/1sters/material_design_zh ，fork一份自己的仓库；
@@ -243,13 +246,29 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ***
 
+## 参与者(持续补充）
+- [iceskysl](https://github.com/iceskysl)
+- [vincent4J](https://github.com/vincent4j)
+- [zhenbeiju](https://github.com/zhenbeiju)
+- [Haoxiqiang](https://github.com/haoxiqiang)
+- [CodeDiving](https://github.com/codeDiving)
+- [7heaven](https://github.com/7heaven)
+- [com360](https://github.com/com360)
+- [Jingsha](https://github.com/jingsha)
+- [ThatMrL](https://github.com/ThatMrL)
+- [DonLiangGit](https://github.com/donlianggit)
+- [fortianwei](https://github.com/fortianwei)
+
+***
+
 ## 常见问题
 
 ###代码如何处理
-使用markdown的代码规范处理，如
-```html
-<div class="hey">...</div>
-```
+使用markdown的代码规范处理，如  
+
+\`\`\`html  
+\<div class="hey"\>...\</div\>  
+\`\`\`
 
 ###图片如何处理
 在章（如components）下创建`images`目录，将图片原文件名（如materialdesign-goals-cutrectangles_large_mdpi.png）存到该目录下，然后在文档中这样调用
@@ -260,3 +279,5 @@ To git@github.com:IceskYsl/material_design_zh.git
 ```html
 <video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" controls="controls"></video>
 ```
+
+
