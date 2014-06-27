@@ -85,7 +85,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html)
   * [Search](http://www.google.com/design/spec/patterns/search.html)
 * Usability
-  * [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)
+  * [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)by [zhenbeiju](https://github.com/fortianwei)
 * Resources
   * [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) 1% by [iceskysl](https://github.com/iceskysl)
   * [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html)
