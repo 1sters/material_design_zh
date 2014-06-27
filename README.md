@@ -47,7 +47,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Animation
   * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
   * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
-  * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html)
+  * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) 1% by [Jingsha](https://github.com/jingsha)
   * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
@@ -60,7 +60,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Structure](http://www.google.com/design/spec/layout/structure.html)
 * Components
   * [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html)
-  * [Buttons](http://www.google.com/design/spec/components/buttons.html)
+  * [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [7heaven](https://github.com/7heaven)
   * [Cards](http://www.google.com/design/spec/components/cards.html)
   * [Chips](http://www.google.com/design/spec/components/chips-tokens.html)
   * [Dialogs](http://www.google.com/design/spec/components/dialogs.html)
