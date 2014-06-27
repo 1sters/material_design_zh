@@ -264,10 +264,11 @@ To git@github.com:IceskYsl/material_design_zh.git
 ## 常见问题
 
 ###代码如何处理
-使用markdown的代码规范处理，如
-```html
-<div class="hey">...</div>
-```
+使用markdown的代码规范处理，如  
+
+\`\`\`html  
+\<div class="hey"\>...\</div\>  
+\`\`\`
 
 ###图片如何处理
 在章（如components）下创建`images`目录，将图片原文件名（如materialdesign-goals-cutrectangles_large_mdpi.png）存到该目录下，然后在文档中这样调用
