@@ -70,7 +70,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [List controls](http://www.google.com/design/spec/components/list-controls.html)
   * [Menus](http://www.google.com/design/spec/components/menus.html)
   * [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
-  * [Sliders](http://www.google.com/design/spec/components/sliders.html)
+  * [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)
   * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html)
   * [Subheaders](http://www.google.com/design/spec/components/subheaders.html)
   * [Switches](http://www.google.com/design/spec/components/switches.html)
