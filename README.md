@@ -96,6 +96,9 @@ http://www.google.com/design/spec/material-design/introduction.html
 ***
 ##协作过程演示
 
+录了一个动作演示，如下
+![github guide](http://assets-1sters.qiniudn.com/github_guide.gif)
+
 ### fork主仓库
 打开https://github.com/1sters/material_design_zh ，fork一份自己的仓库；
 
