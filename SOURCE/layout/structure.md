@@ -18,7 +18,7 @@
 * 主要用來切換兩個Activity而不需要更深一層進行瀏覽的應用程式（如 語音撥號，最愛，最近電話歷史和聯繫人）
 * 糅合廣泛數據視圖，並需要深層瀏覽的應用程式（如 一個擁有不同文件夾的郵件應用程式或一個擁有商品分類的購物應用程式）
 
-你的應用程式架構將會極大依賴於你所呈現給用戶的內容及任務。
+你的應用程式結構將會極大依賴於你所呈現給用戶的內容及任務。
 
 ### 從最頂層開始
 你需要特別關注你應用程式的啟動頁面。這是用戶打開你應用程式所看到的第一個頁面，所以對於新用戶或者頻繁使用的用戶來說，啟動頁面都應該給這些用戶很正的體驗。
@@ -73,37 +73,60 @@
 即使你使用了某一個頂層視圖策略，情景導航依然是訪問相關數據的有力方式。 例如直接關聯：一首歌曲和演繹這首歌藝人的其他歌曲、最近使用項和整個使用歷史，又或者某個用戶的一個貼子和他們的個人資料。這些直接關聯可以把一個主要任務延伸到其他相關的任務操作。
 
 
-行動裝置
+###行動裝置
 
-這個架構包含一個固定的操作欄和一個突起的操作按鈕。下方有一個可選的選單用於額外功能和更多操作。左右兩側的導航欄可以用於隱藏其他功能。
+這個結構包含一個固定的選單和一個浮起的操作按鈕。有一個可選實現的底欄用於添加額外功能和更多操作。左右兩側的邊選欄可以用於隱藏所有其他結構的元素，用戶需要的時候才訪問到。
 ![](images/layout-structure-uiregions-uiregions-01_large_mdpi.png)
 
-平板電腦
+###平板電腦
 
-桌上電腦
+這個結構包含一個固定的選單和一個浮起的操作按鈕。這個選單擁有與平板電腦和行動裝置的底欄的元素。有一個可選實現的底欄用於添加額外功能和更多操作。左邊選欄可以用於隱藏所有其他結構的元素，用戶需要的時候才訪問到。右邊選欄可以固定在右側又或者需要時才訪問。
+![](images/layout-structure-uiregions-uiregions-02_large_mdpi.png)
+
+###桌上電腦
+
+這個結構包含一個固定的選單和一個浮起的操作按鈕。這個選單擁有與平板電腦和行動裝置的底欄的元素。在允許的情況下，窗口都會放置到選單內。邊選欄可以需要時訪問或者固定在左右兩側。邊選欄菜單和內容Canvas可以擁有他們自己的次工具欄（如欄標，畫板或者次操作）。
+![](images/layout-structure-uiregions-uiregions-03_large_mdpi.png)
 
 用戶界面指南
 
 定義基本的水平或垂直的分割線
-![]
+![](images/layout-structure-uiregions-uiregions-04_large_mdpi.png)
 
-運用空白的地方勾勒出次要的應用區域，這樣可以避免把用戶界面分割出過多Lshapes區域。
-![]
+運用空白的地方勾勒出次要的應用區域，這樣可以避免把用戶界面分割出過多L shapes區域。
+![](images/layout-structure-uiregions-uiregions-05_large_mdpi.png)
 
-當應用需要用戶作某些操作或應用本身需要區分出內容時，使用卡片。
-![]
+使用卡片和浮起操作按鈕越界。
+![](images/layout-structure-uiregions-uiregions-06_large_mdpi.png)
+
+使用卡片去組織那些需要特定操作的內容，又或者使用卡片去特別區分出信息群（空白地方分割線不能有效地卻分這些內容）。
+![](images/layout-structure-uiregions-uiregions-07_large_mdpi.png)
 
 ## 工具欄
 
-工具欄，以下的例子讓你知道哪些地方你可以顯示
-![]
-全寬度，默認高度的操作欄
+工具欄超有用，它可以被用在應用程式很多地方。以下的例子讓你知道哪些地方你可以顯示
+![](images/layout-structure-toolbars-toolbars-01_large_mdpi.png)
+全寬度，默認高度的選單
 
-![]
-全寬度，拉高了的操作欄，並且生成了不同的列寬度。
+![](images/layout-structure-toolbars-toolbars-02_large_mdpi.png)
+全寬度，拉高了的選單，並且生成了不同的列寬度。
 
-凸出的工具欄
+![](images/layout-structure-toolbars-toolbars-03_large_mdpi.png)
+具有列寬的工具欄，並與視圖不同層。
 
+![](images/layout-structure-toolbars-toolbars-04_large_mdpi.png)
+靈活的工具欄和卡片工具欄。
+
+![](images/layout-structure-toolbars-toolbars-05_large_mdpi.png)
+浮起的工具欄
+
+![](images/layout-structure-toolbars-toolbars-05_large_mdpi.png)
+浮起的工具欄
+
+![](images/layout-structure-toolbars-toolbars-05_large_mdpi.png)
+浮起的工具欄
+
+![](images/layout-structure-toolbars-toolbars-05_large_mdpi.png)
 底部工具欄架
 
 
