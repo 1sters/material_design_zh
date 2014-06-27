@@ -48,7 +48,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
   * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
   * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) 
-  * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) √ by [CodeDiving](http://github.com/codediving)
+  * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) √√ by [CodeDiving](http://github.com/codediving)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
   * [Typography](http://www.google.com/design/spec/style/typography.html)
@@ -56,8 +56,8 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Imagery](http://www.google.com/design/spec/style/imagery.html)
 * Layout
   * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)
-  * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [CodeDiving](http://github.com/codediving)
-  * [Structure](http://www.google.com/design/spec/layout/structure.html) √ by [CodeDiving](http://github.com/codediving)
+  * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √√ by [CodeDiving](http://github.com/codediving)
+  * [Structure](http://www.google.com/design/spec/layout/structure.html) √√ by [CodeDiving](http://github.com/codediving)
 * Components
   * [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html)
   * [Buttons](http://www.google.com/design/spec/components/buttons.html)
@@ -65,10 +65,10 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Chips](http://www.google.com/design/spec/components/chips-tokens.html)
   * [Dialogs](http://www.google.com/design/spec/components/dialogs.html)
   * [Dividers](http://www.google.com/design/spec/components/dividers.html)
-  * [Grids](http://www.google.com/design/spec/components/grids.html) √ by [CodeDiving](http://github.com/codediving)
-  * [Lists](http://www.google.com/design/spec/components/lists.html) √ by [CodeDiving](http://github.com/codediving)
+  * [Grids](http://www.google.com/design/spec/components/grids.html)
+  * [Lists](http://www.google.com/design/spec/components/lists.html)
   * [List controls](http://www.google.com/design/spec/components/list-controls.html)
-  * [Menus](http://www.google.com/design/spec/components/menus.html) √ by [CodeDiving](http://github.com/codediving)
+  * [Menus](http://www.google.com/design/spec/components/menus.html)
   * [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
   * [Sliders](http://www.google.com/design/spec/components/sliders.html)
   * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html)
