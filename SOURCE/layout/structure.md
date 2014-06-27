@@ -8,7 +8,7 @@
 * 側欄
 * 白框
 
-## 用戶界面區域和指南
+##用戶界面區域和指南
 
 這章涵蓋了從移動應用到桌面應用的高層次結構和包含幾點指引。
 
@@ -102,7 +102,7 @@
 使用卡片去組織那些需要特定操作的內容，又或者使用卡片去特別區分出信息群（空白地方分割線不能有效地卻分這些內容）。
 ![](images/layout-structure-uiregions-uiregions-07_large_mdpi.png)
 
-## 工具欄
+##工具欄
 
 工具欄超有用，它可以被用在應用程式很多地方。以下的例子讓你知道哪些地方你可以顯示：
 
@@ -149,6 +149,7 @@
 假如你的應用需要用到邊選欄，標題（Title）可以是應用的名字，頁面標題或者頁面過濾器。
 
 右邊的圖標都是應用本身相關的操作。菜單圖標（Menu Icon）打開的是一個海苔條菜單，這個菜單裡面有贊，幫助，設定和反饋等內容。
+
 ![](images/layout-structure-appbar-appbar-01_large_mdpi.png)
 
 ![](images/layout-structure-appbar-appbar-02_large_mdpi.png)
@@ -163,17 +164,29 @@
 ###度量
 
 ###默認高度
-行動裝置風景（Landscape）:48dp
-行動裝置人像（Portrait）:56dp
-平板電腦/桌上電腦（Tablet/Desktop）:64dp
+* 行動裝置風景（Landscape）:48dp
+* 行動裝置人像（Portrait）:56dp
+* 平板電腦/桌上電腦（Tablet/Desktop）:64dp
 
 對於拉高了的選單，它的高度等於默認高度加上內容高度。
 
-![](images/layout-structure-appbar-appbar-06_large_mdpi.png)  ![](images/layout-structure-appbar-appbar-07_large_mdpi.png) ![](images/layout-structure-appbar-appbar-08_large_mdpi.png) ![](images/layout-structure-appbar-appbar-09_large_mdpi.png)
+![](images/layout-structure-appbar-appbar-06_large_mdpi.png)  ![](images/layout-structure-appbar-appbar-07_large_mdpi.png)  ![](images/layout-structure-appbar-appbar-08_large_mdpi.png)  ![](images/layout-structure-appbar-appbar-09_large_mdpi.png)  ![](images/layout-structure-appbar-appbar-10_large_mdpi.png)  ![](images/layout-structure-appbar-appbar-11_large_mdpi.png)
 
-![](images/layout-structure-appbar-appbar-10_large_mdpi.png)
 
-![](images/layout-structure-appbar-appbar-11_large_mdpi.png)
-![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
-![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
-![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
+![](images/layout-structure-appbar-appbar-12_large_mdpi.png)
+
+![](images/layout-structure-appbar-appbar-13_large_mdpi.png)
+
+![](images/layout-structure-appbar-appbar-14_large_mdpi.png)
+
+
+###菜單
+
+菜單是一個總是部分遮蓋選單的表，它並不會通過拉伸選單顯示出來。
+
+![](images/layout-structure-appbar-appbar-15_large_mdpi.png)  ![](images/layout-structure-appbar-appbar-16_large_mdpi.png)  ![](images/layout-structure-appbar-appbar-17_large_mdpi.png)  ![](images/layout-structure-appbar-appbar-18_large_mdpi.png)  
+
+![](images/layout-structure-appbar-appbar-19_large_mdpi.png)
+
+
+##側欄
