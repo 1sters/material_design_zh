@@ -47,7 +47,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Animation
   * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
   * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html)
-  * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html)
+  * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) [Jingsha](https://github.com/jingsha)
   * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html)
