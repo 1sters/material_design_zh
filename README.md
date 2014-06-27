@@ -52,12 +52,12 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
   * [Typography](http://www.google.com/design/spec/style/typography.html)
-  * [Icons](http://www.google.com/design/spec/style/icons.html)  √ by Haoxiqiang
+  * [Icons](http://www.google.com/design/spec/style/icons.html)  √ by [Haoxiqiang](https://github.com/haoxiqiang)
   * [Imagery](http://www.google.com/design/spec/style/imagery.html)
 * Layout
   * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)
   * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html)
-  * [Structure](http://www.google.com/design/spec/layout/structure.html)
+  * [Structure](http://www.google.com/design/spec/layout/structure.html) 1% by [donlianggit](https://github.com/donlianggit)
 * Components
   * [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) 1% by [com360](https://github.com/com360)
   * [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [7heaven](https://github.com/7heaven)
