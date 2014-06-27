@@ -50,7 +50,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html)
   * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
 * Style
-  * [Color](http://www.google.com/design/spec/style/color.html)
+  * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
   * [Typography](http://www.google.com/design/spec/style/typography.html)
   * [Icons](http://www.google.com/design/spec/style/icons.html)  √ by Haoxiqiang
   * [Imagery](http://www.google.com/design/spec/style/imagery.html)
