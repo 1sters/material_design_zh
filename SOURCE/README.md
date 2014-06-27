@@ -1,6 +1,16 @@
-# Summary
+# Material Design 中文版
 
-* Material Design 
+Google I/O 2014发布的**Material Design**将会成为统一Android，Chrome等平台的设计语言规范，对Android从业人员意义重大，我们一帮不知天高地厚的人正通过互联网的方式将其翻译成中文~
+
+如果想做出贡献(翻译或者校对)的话，请加QQ群：**137198122**，谢谢！
+
+**原文文档：** <br />
+http://www.google.com/design/spec/material-design/introduction.html
+
+
+##目录
+
+* Material Design
   * [Introduction](material-design/introduction.md)
 * Animation
   * [Authentic Motion](animation/authentic-motion.md)
@@ -49,3 +59,10 @@
   * [Sticker Sheets](resources/sticker-sheets.md)
   * [Roboto Font](resources/roboto-font.md)
   * [Color Palettes](resources/color-palettes.md)
+
+
+## 参与者(持续补充）
+- [iceskysl](https://github.com/iceskysl)
+- [vincent4J](https://github.com/vincent4j)
+- [zhenbeiju](https://github.com/zhenbeiju)
+- [Haoxiqiang](https://github.com/haoxiqiang)
