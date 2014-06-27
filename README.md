@@ -45,10 +45,10 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Material Design 
   * [概述](SOURCE/material-design/introduction.md) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
 * Animation
-  * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
+  * [Authentic Motion](SOURCE/animation/authentic-motion.md) - [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
   * [交互响应](SOURCE/animation/responsive-interaction.md) - [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
-  * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) 1% by [Jingsha](https://github.com/jingsha)
-  * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
+  * [Meaningful Transitions](SOURCE/animation/meaningful-transitions.md) - [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) 1% by [Jingsha](https://github.com/jingsha)
+  * [Delightful Details](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
   * [Typography](http://www.google.com/design/spec/style/typography.html)
@@ -85,7 +85,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html)
   * [Search](http://www.google.com/design/spec/patterns/search.html)
 * Usability
-  * [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)by [fortianwei](https://github.com/fortianwei)
+  * [Accessibility](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)by [fortianwei](https://github.com/fortianwei)
 * Resources
   * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) 90% by [iceskysl](https://github.com/iceskysl)
   * [贴纸](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) 90% by [iceskysl](https://github.com/iceskysl)
