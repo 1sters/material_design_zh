@@ -164,9 +164,9 @@
 ###度量
 
 ###默認高度
-* 行動裝置風景（Landscape）:48dp
-* 行動裝置人像（Portrait）:56dp
-* 平板電腦/桌上電腦（Tablet/Desktop）:64dp
+* 行動裝置風景（Landscape）:48 dp
+* 行動裝置人像（Portrait）:56 dp
+* 平板電腦/桌上電腦（Tablet/Desktop）:64 dp
 
 對於拉高了的選單，它的高度等於默認高度加上內容高度。
 
@@ -190,3 +190,68 @@
 
 
 ##側欄
+
+若側欄出現，左右邊選欄將會被固定顯示或者暫時覆蓋部分主視圖。左邊選欄的內容應該是基於導航或者基於用戶身份的。而右邊選欄內容則是對主視圖內容的深層描述。
+
+![](images/layout-structure-sidenav-sidenav-01_large_mdpi.png)  ![](images/layout-structure-sidenav-sidenav-02_large_mdpi.png)
+
+###結構
+
+邊選欄暫時覆蓋內容視圖。邊選欄會釘在內容視圖側邊或者後面。
+
+###度量：
+* 行動裝置： 邊選欄寬度 = 屏幕寬度 - 選單高度
+
+例子：
+* Nexus 4: 304 dp
+* Nexus 5: 288 dp
+* iPhone: 264 dp
+* 桌上電腦： 左邊選欄最大寬度為 400 dp, 右側則按內容而定。
+* 桌上電腦或平板電腦： 假如是釘着的，寬度與列對齊。
+* 浮起最大跨度： 304 dp
+
+![](images/layout-structure-sidenav-sidenav-03_large_mdpi.png)  ![](images/layout-structure-sidenav-sidenav-04_large_mdpi.png)
+
+行動裝置
+
+![](images/layout-structure-drive_chrome-04_large_mdpi.png)
+
+左邊選欄的桌上電腦。
+
+![](images/layout-structure-drive_chrome-02_large_mdpi.png)
+
+右邊選欄的桌上電腦。
+
+===============
+
+##白框
+
+白框提供各種不同佈局結構，其運用到面，層和陰影。
+
+下载：
+[Whiteframes](http://material-design.storage.googleapis.com/downloads/Whiteframes.ai)
+15 MB (.ai)
+
+![](images/layout-structure-whiteframe_bigtop_large_mdpi.png)
+可拓展和折疊內容卡片
+
+![](images/layout-structure-whiteframe_calendar_large_mdpi.png)
+在行動裝置上覆蓋內容細節的聚焦選單（例如日曆）
+
+![](images/layout-structure-whiteframe_contacts_large_mdpi.png)
+在行動裝置上具有多個工具欄和背景圖的越界內容卡片（例如聯繫人）
+
+![](images/layout-structure-whiteframe_drive_large_mdpi.png)
+拓展選單和右邊選欄
+
+![](images/layout-structure-whiteframe_gallery_large_mdpi.png)
+在行動裝置上的左邊選欄，邊選欄具有一式屬性（例如Gallery）
+
+![](images/layout-structure-whiteframe_mail_large_mdpi.png)
+資源列表（例如郵箱頁面）
+
+![](images/layout-structure-whiteframe_maps_large_mdpi.png)
+具有搜索欄和卡片式搜索結果單和全屏背景圖（例如google地圖）
+
+![](images/layout-structure-whiteframe_music_large_mdpi.png)
+可伸展頁腳邊選欄（例如音樂播放列表）
