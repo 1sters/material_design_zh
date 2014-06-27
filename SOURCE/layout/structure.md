@@ -88,7 +88,7 @@
 這個結構包含一個固定的選單和一個浮起的操作按鈕。這個選單擁有與平板電腦和行動裝置的底欄的元素。在允許的情況下，窗口都會放置到選單內。邊選欄可以需要時訪問或者固定在左右兩側。邊選欄菜單和內容Canvas可以擁有他們自己的次工具欄（如欄標，畫板或者次操作）。
 ![](images/layout-structure-uiregions-uiregions-03_large_mdpi.png)
 
-用戶界面指南
+###用戶界面指南
 
 定義基本的水平或垂直的分割線
 ![](images/layout-structure-uiregions-uiregions-04_large_mdpi.png)
@@ -127,34 +127,52 @@
 
 浮起的工具欄
 
-![](images/layout-structure-toolbars-toolbars-05_large_mdpi.png)
-浮起的工具欄
+![](images/layout-structure-toolbars-toolbars-06_large_mdpi.png)
 
-![](images/layout-structure-toolbars-toolbars-05_large_mdpi.png)
-浮起的工具欄
+分離的工具欄調色板
 
-![](images/layout-structure-toolbars-toolbars-05_large_mdpi.png)
+![](images/layout-structure-toolbars-toolbars-07a_large_mdpi.png)
+
+展示一個架的底部工具欄，工具欄本身附在軟鍵盤或者其他元素上
+
+![](images/layout-structure-toolbars-toolbars-08a_large_mdpi.png)
+
 底部工具欄架
 
 
-## 選單
+##選單
 
-選單結構
+###選單結構
 
 選單用來顯示應用的標識，應用導航，內容搜索以及其他操作（在以前的Android版本中，我們叫它操作欄。）
 
 假如你的應用需要用到邊選欄，標題（Title）可以是應用的名字，頁面標題或者頁面過濾器。
 
 右邊的圖標都是應用本身相關的操作。菜單圖標（Menu Icon）打開的是一個海苔條菜單，這個菜單裡面有贊，幫助，設定和反饋等內容。
+![](images/layout-structure-appbar-appbar-01_large_mdpi.png)
 
+![](images/layout-structure-appbar-appbar-02_large_mdpi.png)
+淺色
+![](images/layout-structure-appbar-appbar-03_large_mdpi.png)
+深色
+![](images/layout-structure-appbar-appbar-04_large_mdpi.png)
+彩色
+![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
+透明
 
+###度量
 
+###默認高度
+行動裝置風景（Landscape）:48dp
+行動裝置人像（Portrait）:56dp
+平板電腦/桌上電腦（Tablet/Desktop）:64dp
 
+對於拉高了的選單，它的高度等於默認高度加上內容高度。
+![](images/layout-structure-appbar-appbar-06_large_mdpi.png) ![](images/layout-structure-appbar-appbar-07_large_mdpi.png) ![](images/layout-structure-appbar-appbar-08_large_mdpi.png) ![](images/layout-structure-appbar-appbar-09_large_mdpi.png)
 
+![](images/layout-structure-appbar-appbar-10_large_mdpi.png)
 
-
-
-
-
-
-
+![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
+![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
+![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
+![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
