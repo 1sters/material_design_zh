@@ -168,11 +168,12 @@
 平板電腦/桌上電腦（Tablet/Desktop）:64dp
 
 對於拉高了的選單，它的高度等於默認高度加上內容高度。
-![](images/layout-structure-appbar-appbar-06_large_mdpi.png) ![](images/layout-structure-appbar-appbar-07_large_mdpi.png) ![](images/layout-structure-appbar-appbar-08_large_mdpi.png) ![](images/layout-structure-appbar-appbar-09_large_mdpi.png)
+
+![](images/layout-structure-appbar-appbar-06_large_mdpi.png)  ![](images/layout-structure-appbar-appbar-07_large_mdpi.png) ![](images/layout-structure-appbar-appbar-08_large_mdpi.png) ![](images/layout-structure-appbar-appbar-09_large_mdpi.png)
 
 ![](images/layout-structure-appbar-appbar-10_large_mdpi.png)
 
-![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
+![](images/layout-structure-appbar-appbar-11_large_mdpi.png)
 ![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
 ![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
 ![](images/layout-structure-appbar-appbar-05_large_mdpi.png)
