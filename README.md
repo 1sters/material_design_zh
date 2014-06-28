@@ -47,7 +47,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Animation
   * [Authentic Motion](SOURCE/animation/authentic-motion.md) - [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
   * [交互响应](SOURCE/animation/responsive-interaction.md) - [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
-  * [Meaningful Transitions](SOURCE/animation/meaningful-transitions.md) - [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) 1% by [Jingsha](https://github.com/jingsha)
+  * [有意义的转场动画](SOURCE/animation/meaningful-transitions.md) - [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) √ by [Jingsha](https://github.com/jingsha)
   * [Delightful Details](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) 1% by [com360](https://github.com/com360)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
@@ -67,7 +67,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Dividers](http://www.google.com/design/spec/components/dividers.html) 1% by [Kris](https://github.com/krislq)
   * [Grids](http://www.google.com/design/spec/components/grids.html) 1% by [CodeDiving](http://github.com/codediving)
   * [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [CodeDiving](http://github.com/codediving)
-  * [List controls](http://www.google.com/design/spec/components/list-controls.html)
+  * [List controls](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [Jingsha](https://github.com/jingsha)
   * [Menus](http://www.google.com/design/spec/components/menus.html) 1% by [CodeDiving](http://github.com/codediving)
   * [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
   * [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)
@@ -79,7 +79,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Tooltips](http://www.google.com/design/spec/components/tooltips.html)
 * Patterns
   * [Selection](http://www.google.com/design/spec/patterns/selection.html)
-  * [Gestures](http://www.google.com/design/spec/patterns/gestures.html)
+  * [Gestures](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html) 1% by [Jingsha](https://github.com/jingsha)
   * [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html)
   * [Settings](http://www.google.com/design/spec/patterns/settings.html)
   * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html)
