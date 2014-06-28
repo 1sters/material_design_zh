@@ -57,7 +57,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Layout
   * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)
   * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) 1% by [CodeDiving](http://github.com/codediving)
-  * [Structure](http://www.google.com/design/spec/layout/structure.html) 1% by [donlianggit](https://github.com/donlianggit)
+  * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) 90% by [donlianggit](https://github.com/donlianggit)
 * Components
   * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) √ by [com360](https://github.com/com360)
   * [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [7heaven](https://github.com/7heaven)
