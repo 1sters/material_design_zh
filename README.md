@@ -53,7 +53,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
   * [Typography](http://www.google.com/design/spec/style/typography.html) 1% By [acely](https://github.com/acely)
   * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html)  √ by [Haoxiqiang](https://github.com/haoxiqiang)
-  * [Imagery](http://www.google.com/design/spec/style/imagery.html)
+  * [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)
 * Layout
   * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)
   * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) 1% by [CodeDiving](http://github.com/codediving)
@@ -76,14 +76,14 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) 1% by [vincent4j](https://github.com/vincent4j)
   * [Tabs](SOURCE/components/tabs.md) - [Tabs](http://www.google.com/design/spec/components/tabs.html) 1% by [vincent4j](https://github.com/vincent4j)
   * [Text fields](http://www.google.com/design/spec/components/text-fields.html)
-  * [Tooltips](http://www.google.com/design/spec/components/tooltips.html)
+  * [Tooltips](http://www.google.com/design/spec/components/tooltips.html) 1% by [lhyqy5](https://github.com/lhyqy5)
 * Patterns
-  * [Selection](http://www.google.com/design/spec/patterns/selection.html)
+  * [Selection](http://www.google.com/design/spec/patterns/selection.html) 1% by [lhyqy5](https://github.com/lhyqy5)
   * [Gestures](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html) 1% by [Jingsha](https://github.com/jingsha)
   * [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html)
   * [Settings](http://www.google.com/design/spec/patterns/settings.html)
   * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html)
-  * [Search](http://www.google.com/design/spec/patterns/search.html)
+  * [Search](http://www.google.com/design/spec/patterns/search.html)  1% by [lhyqy5](https://github.com/lhyqy5)
 * Usability
   * [Accessibility](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) 1% by [fortianwei](https://github.com/fortianwei)
 * Resources
