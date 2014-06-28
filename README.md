@@ -39,7 +39,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 ***
 
-## 认领章节记录
+## 认领章节记录（已经全部被认领）
 认领章节的同学在这里标示（参考已有的标示规范）~
 
 * Material Design 
@@ -69,13 +69,13 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [CodeDiving](http://github.com/codediving)
   * [List controls](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [Jingsha](https://github.com/jingsha)
   * [Menus](http://www.google.com/design/spec/components/menus.html) 1% by [CodeDiving](http://github.com/codediving)
-  * [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
+  * [Progress and Activity](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)
   * [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)
   * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) 1% by [ThatMrL](https://github.com/ThatMrL)
   * [Subheaders](http://www.google.com/design/spec/components/subheaders.html) 1% by [marshluca](https://github.com/marshluca)
   * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) 1% by [vincent4j](https://github.com/vincent4j)
   * [Tabs](SOURCE/components/tabs.md) - [Tabs](http://www.google.com/design/spec/components/tabs.html) 1% by [vincent4j](https://github.com/vincent4j)
-  * [Text fields](http://www.google.com/design/spec/components/text-fields.html)
+  * [Text fields](SOURCE/components/text-fields.md) - [Text fields](http://www.google.com/design/spec/components/text-fields.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)
   * [Tooltips](http://www.google.com/design/spec/components/tooltips.html) 1% by [lhyqy5](https://github.com/lhyqy5)
 * Patterns
   * [Selection](http://www.google.com/design/spec/patterns/selection.html) 1% by [lhyqy5](https://github.com/lhyqy5)
