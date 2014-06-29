@@ -248,7 +248,7 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ## 参与者(持续补充）
 - [iceskysl](https://github.com/iceskysl)
-- [vincent4J](https://github.com/vincent4j)
+- [vincent4j](https://github.com/vincent4j)
 - [zhenbeiju](https://github.com/zhenbeiju)
 - [Haoxiqiang](https://github.com/haoxiqiang)
 - [CodeDiving](https://github.com/codeDiving)
@@ -273,6 +273,12 @@ To git@github.com:IceskYsl/material_design_zh.git
 ###图片如何处理
 在章（如components）下创建`images`目录，将图片原文件名（如materialdesign-goals-cutrectangles_large_mdpi.png）存到该目录下，然后在文档中这样调用
 `![ALT文字](images/materialdesign-goals-landingimage_large_mdpi.png)`
+
+### 图片太大，如何缩小
+详见 [issue 57](https://github.com/1sters/material_design_zh/issues/57)
+
+### 如何添加锚点
+详见 [issue 58](https://github.com/1sters/material_design_zh/issues/58)
 
 ###视频如何处理
 视频在markdown中可以这样处理
