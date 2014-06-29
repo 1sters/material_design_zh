@@ -11,7 +11,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 ***
 
-##一起来参与
+## 一起来参与
 如果想做出贡献(翻译或者校对)的话，请加QQ群：137198122，谢谢！
 
 原文文档：
@@ -98,7 +98,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 
 ***
-##协作过程演示
+
+## 协作过程演示
 
 录了一个动作演示，如下
 ![github guide](http://assets-1sters.qiniudn.com/github_guide.gif)
@@ -111,7 +112,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 ### 初始化本地仓库
 
-```sh
+<pre>
 iceskysls-MacBook-Pro:1sters iceskysl$ git clone git@github.com:IceskYsl/material_design_zh.git
 Cloning into 'material_design_zh'...
 remote: Counting objects: 3, done.
@@ -120,21 +121,22 @@ remote: Total 3 (delta 0), reused 3 (delta 0)
 Receiving objects: 100% (3/3), done.
 Checking connectivity... done.
 iceskysls-MacBook-Pro:1sters iceskysl$ cd material_design_zh
-```
+</pre>
 
 ### 添加远程主仓库
 
-```sh
+<pre>
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git remote add upstream https://github.com/1sters/material_design_zh.git
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git remote -v
 origin	git@github.com:IceskYsl/material_design_zh.git (fetch)
 origin	git@github.com:IceskYsl/material_design_zh.git (push)
 upstream	https://github.com/1sters/material_design_zh.git (fetch)
 upstream	https://github.com/1sters/material_design_zh.git (push)
-```
+</pre>
+
 ### 和远程主仓库保持更新
 
-```sh
+<pre>
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git fetch upstream
 remote: Counting objects: 43, done.
 remote: Compressing objects: 100% (33/33), done.
@@ -149,20 +151,20 @@ Fast-forward
  SOURCE/SUMMARY.md |  51 +++++++++++++++++++++++++++++++++++++++++++++++++++
  2 files changed, 119 insertions(+), 47 deletions(-)
  create mode 100644 SOURCE/SUMMARY.md
-```
+</pre>
 
 ### 推送本地修改到自己的远端仓库
 
 ```sh
- iceskysls-MacBook-Pro:material_design_zh iceskysl$ git st
- On branch ing
- Changes not staged for commit:
+iceskysls-MacBook-Pro:material_design_zh iceskysl$ git st
+On branch ing
+Changes not staged for commit:
    (use "git add <file>..." to update what will be committed)
    (use "git checkout -- <file>..." to discard changes in working directory)
 
  	modified:   README.md
 
- no changes added to commit (use "git add" and/or "git commit -a")
+no changes added to commit (use "git add" and/or "git commit -a")
 
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git add .
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git commit -m "完成规范编写"
@@ -185,7 +187,8 @@ To git@github.com:IceskYsl/material_design_zh.git
 ***
 
 ## 目录结构
-```sh
+
+<pre>
 ├── README.md
 ├── SUMMARY.md
 ├── cover.jpg
@@ -246,7 +249,7 @@ To git@github.com:IceskYsl/material_design_zh.git
 │   ├── layout-templates.md
 │   ├── roboto-font.md
 │   └── sticker-sheets.md
-```
+</pre>
 
 ***
 
