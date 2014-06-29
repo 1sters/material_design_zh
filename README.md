@@ -73,7 +73,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)
   * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) 1% by [ThatMrL](https://github.com/ThatMrL)
   * [Subheaders](http://www.google.com/design/spec/components/subheaders.html) 1% by [marshluca](https://github.com/marshluca)
-  * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) 1% by [vincent4j](https://github.com/vincent4j)
+  * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) 80% by [vincent4j](https://github.com/vincent4j)
   * [Tabs](SOURCE/components/tabs.md) - [Tabs](http://www.google.com/design/spec/components/tabs.html) 1% by [vincent4j](https://github.com/vincent4j)
   * [Text fields](SOURCE/components/text-fields.md) - [Text fields](http://www.google.com/design/spec/components/text-fields.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)
   * [Tooltips](http://www.google.com/design/spec/components/tooltips.html) 1% by [lhyqy5](https://github.com/lhyqy5)
@@ -286,5 +286,17 @@ To git@github.com:IceskYsl/material_design_zh.git
 ```html
 <video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" controls="controls"></video>
 ```
+
+**注意：**
+由于原文档中视频地址是在Google服务器上，访问不是很顺畅，我们将其全部下载，存在七牛云存储上，大家在引用的时候相应的修改下视频地址就可以了~
+修改规则：
+
+http://`material-design.storage.googleapis.com`/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm
+
+->
+
+http://`materialdesign.qiniudn.com`/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm
+
+
 
 
