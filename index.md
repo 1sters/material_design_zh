@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Material Design
-permalink: /index.html
+permalink: index.html
 ---
 
 
