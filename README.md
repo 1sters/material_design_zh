@@ -39,7 +39,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 ***
 
-## 认领章节记录
+## 认领章节记录（已经全部被认领）
 认领章节的同学在这里标示（参考已有的标示规范）~
 
 * Material Design 
@@ -47,17 +47,17 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Animation
   * [Authentic Motion](SOURCE/animation/authentic-motion.md) - [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
   * [交互响应](SOURCE/animation/responsive-interaction.md) - [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
-  * [Meaningful Transitions](SOURCE/animation/meaningful-transitions.md) - [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) 1% by [Jingsha](https://github.com/jingsha)
+  * [有意义的转场动画](SOURCE/animation/meaningful-transitions.md) - [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) √ by [Jingsha](https://github.com/jingsha)
   * [Delightful Details](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) 1% by [com360](https://github.com/com360)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
-  * [Typography](http://www.google.com/design/spec/style/typography.html)
+  * [Typography](http://www.google.com/design/spec/style/typography.html) 1% By [acely](https://github.com/acely)
   * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html)  √ by [Haoxiqiang](https://github.com/haoxiqiang)
-  * [Imagery](http://www.google.com/design/spec/style/imagery.html)
+  * [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)
 * Layout
   * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)
   * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) 1% by [CodeDiving](http://github.com/codediving)
-  * [Structure](http://www.google.com/design/spec/layout/structure.html) 1% by [donlianggit](https://github.com/donlianggit)
+  * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) 90% by [donlianggit](https://github.com/donlianggit)
 * Components
   * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) √ by [com360](https://github.com/com360)
   * [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [7heaven](https://github.com/7heaven)
@@ -67,23 +67,23 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Dividers](http://www.google.com/design/spec/components/dividers.html) 1% by [Kris](https://github.com/krislq)
   * [Grids](http://www.google.com/design/spec/components/grids.html) 1% by [CodeDiving](http://github.com/codediving)
   * [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [CodeDiving](http://github.com/codediving)
-  * [List controls](http://www.google.com/design/spec/components/list-controls.html)
+  * [List controls](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [Jingsha](https://github.com/jingsha)
   * [Menus](http://www.google.com/design/spec/components/menus.html) 1% by [CodeDiving](http://github.com/codediving)
-  * [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
-  * [Sliders](http://www.google.com/design/spec/components/sliders.html)
-  * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html)
-  * [Subheaders](http://www.google.com/design/spec/components/subheaders.html)
-  * [Switches](http://www.google.com/design/spec/components/switches.html)
-  * [Tabs](http://www.google.com/design/spec/components/tabs.html)
-  * [Text fields](http://www.google.com/design/spec/components/text-fields.html)
-  * [Tooltips](http://www.google.com/design/spec/components/tooltips.html)
+  * [Progress and Activity](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)
+  * [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)
+  * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) 1% by [ThatMrL](https://github.com/ThatMrL)
+  * [Subheaders](http://www.google.com/design/spec/components/subheaders.html) 1% by [marshluca](https://github.com/marshluca)
+  * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) 1% by [vincent4j](https://github.com/vincent4j)
+  * [Tabs](SOURCE/components/tabs.md) - [Tabs](http://www.google.com/design/spec/components/tabs.html) 1% by [vincent4j](https://github.com/vincent4j)
+  * [Text fields](SOURCE/components/text-fields.md) - [Text fields](http://www.google.com/design/spec/components/text-fields.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)
+  * [Tooltips](http://www.google.com/design/spec/components/tooltips.html) 1% by [lhyqy5](https://github.com/lhyqy5)
 * Patterns
-  * [Selection](http://www.google.com/design/spec/patterns/selection.html)
-  * [Gestures](http://www.google.com/design/spec/patterns/gestures.html)
-  * [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html)
-  * [Settings](http://www.google.com/design/spec/patterns/settings.html)
-  * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html)
-  * [Search](http://www.google.com/design/spec/patterns/search.html)
+  * [Selection](http://www.google.com/design/spec/patterns/selection.html) 1% by [lhyqy5](https://github.com/lhyqy5)
+  * [Gestures](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html) 1% by [Jingsha](https://github.com/jingsha)
+  * [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) 1% by [ZeroLu](https://github.com/ZeroLu)
+  * [Settings](http://www.google.com/design/spec/patterns/settings.html) 1% by [ZeroLu](https://github.com/ZeroLu)
+  * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) 1% by [ZeroLu](https://github.com/ZeroLu)
+  * [Search](http://www.google.com/design/spec/patterns/search.html)  1% by [lhyqy5](https://github.com/lhyqy5)
 * Usability
   * [Accessibility](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) 1% by [fortianwei](https://github.com/fortianwei)
 * Resources
@@ -248,7 +248,8 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ## 参与者(持续补充）
 - [iceskysl](https://github.com/iceskysl)
-- [vincent4J](https://github.com/vincent4j)
+- [vincent4j](https://github.com/vincent4j)
+- [Kris](https://github.com/krislq)
 - [zhenbeiju](https://github.com/zhenbeiju)
 - [Haoxiqiang](https://github.com/haoxiqiang)
 - [CodeDiving](https://github.com/codeDiving)
@@ -273,6 +274,12 @@ To git@github.com:IceskYsl/material_design_zh.git
 ###图片如何处理
 在章（如components）下创建`images`目录，将图片原文件名（如materialdesign-goals-cutrectangles_large_mdpi.png）存到该目录下，然后在文档中这样调用
 `![ALT文字](images/materialdesign-goals-landingimage_large_mdpi.png)`
+
+### 图片太大，如何缩小
+详见 [issue 57](https://github.com/1sters/material_design_zh/issues/57)
+
+### 如何添加锚点
+详见 [issue 58](https://github.com/1sters/material_design_zh/issues/58)
 
 ###视频如何处理
 视频在markdown中可以这样处理
