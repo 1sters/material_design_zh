@@ -249,6 +249,7 @@ To git@github.com:IceskYsl/material_design_zh.git
 ## 参与者(持续补充）
 - [iceskysl](https://github.com/iceskysl)
 - [vincent4j](https://github.com/vincent4j)
+- [Kris](https://github.com/krislq)
 - [zhenbeiju](https://github.com/zhenbeiju)
 - [Haoxiqiang](https://github.com/haoxiqiang)
 - [CodeDiving](https://github.com/codeDiving)
