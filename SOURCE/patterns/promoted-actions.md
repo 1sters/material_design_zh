@@ -3,17 +3,17 @@
 ###浮动按钮
 浮动按钮是一个促进动作的一个特殊案例。它像一个圆形的标识浮在所有界面之上，并且在改变、启动、转换锚点时有特殊的动作，这使浮动按钮与其他的按钮相区别。  
 有两种大小的浮动按钮：默认大小和迷你版的。迷你版的浮动按钮只应该在需要和屏幕上的其他元素产生视觉上的延续性时使用。   
-![ALT](images/patterns-promotedactions-floatingactionbuttonFAB02b_large_mdpi.png)&nbsp;
-![ALT](images/patterns-promotedactions-floatingactionbuttonFAB02a_large_mdpi.png)&nbsp;
-![ALT](images/patterns-promotedactions-floatingactionbuttonFAB3_large_mdpi.png)&nbsp;
-![ALT](images/patterns-promotedactions-floatingactionbuttonFAB4_large_mdpi.png)&nbsp;
+![](images/patterns-promotedactions-floatingactionbuttonFAB02b_large_mdpi.png)&nbsp;
+![](images/patterns-promotedactions-floatingactionbuttonFAB02a_large_mdpi.png)&nbsp;
+![](images/patterns-promotedactions-floatingactionbuttonFAB3_large_mdpi.png)&nbsp;
+![](images/patterns-promotedactions-floatingactionbuttonFAB4_large_mdpi.png)&nbsp;
 
 ####相关内容
 不是每个页面都需要一个浮动按钮。浮动按钮应该代表一个应用里最主要的功能。在左边的页面里，最主要的功能是滑动浏览和打开图库里的图片，所以这里不需要浮动按钮。而在右边的页面里，最主要的功能是添加文件。在这里，放置一个浮动按钮是合适的。  
-![ALT](images/patterns-promotedactions-associatedcontent-FAB03do1_large_mdpi.png)
+![](images/patterns-promotedactions-associatedcontent-FAB03do1_large_mdpi.png)
 <br>
 正确     
-![ALT](images/patterns-promotedactions-associatedcontent-FAB03do2_large_mdpi.png)   
+![](images/patterns-promotedactions-associatedcontent-FAB03do2_large_mdpi.png)
 <br>
 正确          
 尽量一个页面只用一个浮动按钮，毕竟它是整个页面最突出的按钮。   
@@ -24,10 +24,10 @@
 <br>
 错误             
 不要在对话框里用浮动按钮。用扁平的按钮即可。      
-![](images/patterns-promotedactions-associatedcontentFAB05do_large_mdpi.png) 
+![](images/patterns-promotedactions-associatedcontentFAB05do_large_mdpi.png)
 <br>
 正确       
-![](images/patterns-promotedactions-associatedcontentFAB05dont_large_mdpi.png)     
+![](images/patterns-promotedactions-associatedcontentFAB05dont_large_mdpi.png)
 <br>
 错误                
 不要把浮动按钮连接到侧边抽屉里，它会干扰一个本想完成特定任务的用户。侧边抽屉是导航用的。     
@@ -142,7 +142,7 @@
 <br>
 正确           
 浮动按钮不应浮动在一个随机的位置。在把浮动按钮附在工具栏上时要注意，它可能会和其他点击目标重叠或覆盖。   
-![](images/patterns-promotedactions-placementFAB25dont1_large_mdpi.png) 
+![](images/patterns-promotedactions-placementFAB25dont1_large_mdpi.png)
 <br>
 错误             
 ![](images/patterns-promotedactions-placementFAB25dont2_large_mdpi.png)
