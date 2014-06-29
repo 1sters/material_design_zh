@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Readme
-permalink: /readme.html
+permalink: readme.html
 ---
 
 Material Design 中文协同翻译
