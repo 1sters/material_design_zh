@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Readme
-permalink: /readme.html
+title: Material Design
+permalink: /index.html
 ---
 
-Material Design 中文协同翻译
-=============================================
 
 Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平台的设计语言规范，对从业人员意义重大，我们正通过互联网的方式将其翻译成中文~
 
@@ -289,6 +287,8 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ###视频如何处理
 视频在markdown中可以这样处理
+
+
 ```html
 <video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" controls="controls"></video>
 ```
@@ -303,6 +303,10 @@ http://`material-design.storage.googleapis.com`/videos/animation-authentic-motio
 
 http://`materialdesign.qiniudn.com`/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm
 
+
+**演示**
+
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" controls="controls"></video>
 
 
 
