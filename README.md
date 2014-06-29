@@ -80,9 +80,9 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Patterns
   * [Selection](http://www.google.com/design/spec/patterns/selection.html) 1% by [lhyqy5](https://github.com/lhyqy5)
   * [Gestures](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html) 1% by [Jingsha](https://github.com/jingsha)
-  * [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) 1% by [ZeroLu](https://github.com/ZeroLu)
-  * [Settings](http://www.google.com/design/spec/patterns/settings.html) 1% by [ZeroLu](https://github.com/ZeroLu)
-  * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) 1% by [ZeroLu](https://github.com/ZeroLu)
+  * [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) 90% by [ZeroLu](https://github.com/ZeroLu)
+  * [Settings](http://www.google.com/design/spec/patterns/settings.html) 90% by [ZeroLu](https://github.com/ZeroLu)
+  * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) 90% by [ZeroLu](https://github.com/ZeroLu)
   * [Search](http://www.google.com/design/spec/patterns/search.html)  1% by [lhyqy5](https://github.com/lhyqy5)
 * Usability
   * [Accessibility](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) 1% by [fortianwei](https://github.com/fortianwei)
