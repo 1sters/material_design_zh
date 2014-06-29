@@ -12,7 +12,7 @@
 
 > [触摸目标尺寸](#metrics_and_keylines_touch_target_size)
 
-&lt;h3 id="metrics_and_keylines_baseline_grids"&gt;基准网络 &lt;/h3 &gt;
+<h3 id="metrics_and_keylines_baseline_grids">基准网络 </h3>
 
 所有组件都以一个8dp\*8dp的基准网格对齐。排版（Type）以一个4dp\*4dp的基准网格对齐。在工具条中的图标同样以一个4dp\*4dp的基准网格对齐。这些规则适用于移动设备、平板设备以及桌面应用程序。
 ![](images/layout-metrics-baselinegrids-01-8dp-baselinea_large_mdpi.png)
