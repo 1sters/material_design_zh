@@ -2,10 +2,12 @@
 title: Material Design@中文版
 email: admin@1sters.com
 description: "Material Design中文版."
-baseurl: "http://iceskysl.github.io/material_design_zh/"
-highlighter: pygments
+baseurl: ""
+highlighter: ""
 url: "http://iceskysl.github.io/material_design_zh/"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+kramdown:
+  input: GFM
