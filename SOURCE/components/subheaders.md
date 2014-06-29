@@ -1,4 +1,4 @@
-副标题
+副标题 Subheaders
 =====
 
 Subheaders 是特殊的列表瓷砖的描绘列表或网格列表中不同的部分，并且通常与当前筛选或排序条件。 
@@ -6,21 +6,28 @@ Subheaders 是特殊的列表瓷砖的描绘列表或网格列表中不同的部
 副标题瓦片被内联的瓦片中显示，也可以与内容相关联，例如，在相邻的列中。后滚动，副标题保持固定在屏幕的顶部，并保持固定的，直到由下一个子标推开启或关闭屏幕。以提高内容的可视化分组，使用该系统的颜色为您的subheaders.Subheader瓦片被内联的瓦片中显示，也可以与内容相关联，例如，在相邻的列中。后滚动，副标题保持固定在屏幕的顶部，并保持固定的，直到由下一个子标推开启或关闭屏幕。为了提高内容的可视化分组，使用该系统的颜色为您的副标题。
 
 
-## List Subheaders
+## 列表副标题
 
-tile 高度是48dp。
+区块高度是48dp。
 
 Subheader 字体为 Roboto Medium 14sp。
 
-一个 Subheader 应该跟列表中头像或是图表左对齐，除非那个地方有别的动作。
+Subheader 应该跟列表中头像或是图标左对齐，除非那个地方有别的动作。
 
-如果存在特别的动作并且跟列表中的头像或是图表左对齐，subheader 需要和列表中的文字左对齐。
+![p1](images/components-tabs-listsubheaders-subheader_01_large_mdpi.png)
 
+如果存在特别的动作并且跟列表中的头像或是图标左对齐，Subheader 需要和列表中的文字左对齐。
 
-## Grid Subheaders
+![p2](images/components-tabs-listsubheaders-subheader_02_large_mdpi.png)
+![p3](images/components-tabs-listsubheaders-subheader_03_large_mdpi.png)
 
-Tile 高度是48dp。
+## 网格副标题
+
+区块高度是48dp。
 
 Subheader 字体为 Roboto Medium 14sp。
 
 Subheader 跟左边缘距离为16dp。
+
+![p4](images/components-subheads-gridsubheader-subheader_04_large_mdpi.png)
+![p5](images/components-subheads-subheader_05_large_mdpi.png)
