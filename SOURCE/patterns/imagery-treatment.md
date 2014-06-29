@@ -1,4 +1,4 @@
-#模式
+﻿#模式
 ##影像处理
 ###图片载入
 
@@ -26,12 +26,14 @@
 错误  
 ####载入和过渡
 用上面图中画出的三个维度（透明度、对比度和饱和度）的比例来满足你载入和过渡时的需求。建议载入时变换的持续时间长一些，过渡时变换时间短一些。    
-<webm>
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/patterns-imagerytreatment-load-transition_large_xhdpi.webm" controls="controls"></video>
 ####在大屏幕上载入
-这个过程在大屏幕上是最理想的，就像这个载入chrome操作系统的壁纸的例子。   
-<webm>
+这个过程在大屏幕上是最理想的，就像这个载入chrome操作系统的壁纸的例子。
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/patterns-imagerytreatment-load-transition-desktop_large_xhdpi.webm" controls="controls"></video>
 ####加入动画
-在如账号切换的情况下，可在这里说的图像处理之上再加一些位置的变化。     
-<webm>
+在如账号切换的情况下，可在这里说的图像处理之上再加一些位置的变化
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/patterns-imagerytreatment-adding-animation_large_xhdpi.webm" controls="controls"></video>
+
+
 
 
