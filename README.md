@@ -287,4 +287,16 @@ To git@github.com:IceskYsl/material_design_zh.git
 <video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" controls="controls"></video>
 ```
 
+**注意：**
+由于原文档中视频地址是在Google服务器上，访问不是很顺畅，我们将其全部下载，存在七牛云存储上，大家在引用的时候相应的修改下视频地址就可以了~
+修改规则：
+
+http://`material-design.storage.googleapis.com`/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm
+
+->
+
+http://`materialdesign.qiniudn.com`/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm
+
+
+
 
