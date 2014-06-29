@@ -1,32 +1,32 @@
-# ��ʾ��(Dialogs)
+# 提示框(Dialogs)
 
 
-Dialogs(��ʾ��)������ʾ�û���һЩ���������������ĳ������ʱ��Ҫ��һЩ�����������Ϣ�� Dialog��������һ�� ȡ��/ȷ�� �ļ�Ӧ��ģʽ��Ҳ�������Զ��岼�ֵĸ���ģʽ������˵һЩ�ı����û������ı����� ��
+Dialogs(提示框)用于提示用户作一些决定，或者是完成某个任务时需要的一些其它额外的信息。 Dialog可以是用一种 取消/确定 的简单应答模式，也可以是自定义布局的复杂模式，比如说一些文本设置或者是文本输入 。
 
-##��;
+##用途
 
-Dialog����͵�Ӧ�ó�������ʾ�û�ȥ��һ��Щ�����źõľ��� ������Щ���������ǵ�ǰ�����һ���ֻ�����ǰ�������� Dialog�������ڸ�֪�û�����������Ա�����������Ҫ�ľ�����Kris���һ��ȷ�����ã������������ڽ���
-�������Ķ�������Ҫ�Լ���� ����Kris���һ����ʾ���ã���
+Dialog最典型的应用场景是提示用户去做一个些被安排好的决定 ，而这些决定可能是当前任务的一部分或者是前至条件。 Dialog可以用于告知用户具体的问题以便他们作用重要的决定（Kris语：起到一个确认作用），或者是用于解释
+接下来的动作的重要性及后果 。（Kris语：起到一个警示作用）。
 
 
-һЩ���ӵĲ�����������ÿ�����߶���Ҫ��ؽ���˵����������ǲ��ʺ�ʹ��Dialog��ʽ�ġ�
+一些复杂的操作，尤其是每个决策都需要相关解释说明的情况下是不适合使用Dialog形式的。
 
 
 ![contact chips](images/components-dialogs-usage-dialog_03_large_mdpi.png)
 
 
-Dialog������һ�����⣨��ѡ�������� ���¼���
+Dialog包含了一个标题（可选），内容 ，事件。
 
-**����**����Ҫ�����ڼ�������ѡ�����͡����ǿ�ѡ�ģ�Ҫ��Ҫ��ʱ��ֵ�Ҽ��ɡ�
+**标题**：主要是用于简单描述下选择类型。它是可选的，要需要的时候赋值恳即可。
 
-**����**����Ҫ������Ҫ����һ��ʲô���ľ��� ��
+**内容**：主要是描述要作出一个什么样的决定 。
 
-**�¼�**����Ҫ�����ڿ�ʼ�û������ľ��ߡ�
+**事件**：主要是用于开始用户所作的决策。
 
 
 ![contact chips](images/components-dialogs-usage-dialogs_07_large_mdpi.png)
 
-###��ť�Ŀ��ȼ��߿�ʾ��
+###按钮的宽度及边框示例
 
 ![contact chips](images/components-buttons-buttonsindialogs_large_mdpi.png)
 
@@ -35,17 +35,17 @@ Dialog������һ�����⣨��ѡ�������� ���¼���
 ![contact chips](images/components-dialogs-usage-dialogs_07b_large_mdpi.png)
 
 
-###�ӿ������Ű�ť��Stacked full-width buttons��
+###加宽型竖排按钮（Stacked full-width buttons）
 
 
-����ť���ı�������ͨ���İ�ť����ʱ����Ϳ���ʹ������������Ӽӿ���ģʽ���������ǵİ�ť������Ϣ��
+当按钮的文本超过了通常的按钮宽度时，你就可以使用这种竖向叠加加宽型模式来呈现我们的按钮文字信息。
 
 ![contact chips](images/components-dialogs-usage-stackedfullwidthbuttonsa_large_mdpi.png)
 
 
 
-###���Ű�ť��Side-by-side buttons��
-��ÿ����ť���ı���Ϣ��û�г���ͨ���İ�ť����ʱ���Ƽ�ʹ�ò���ģʽ������˵��õ� ȷ��/ȡ�� ��ť 
+###并排按钮（Side-by-side buttons）
+在每个按钮的文本信息都没有超过通常的按钮宽度时，推荐使用并排模式。比如说最常用的 确定/取消 按钮 
 
 ![contact chips](images/components-dialogs-usage-sidebysidebuttonsa_large_mdpi.png)
 
@@ -53,91 +53,57 @@ Dialog������һ�����⣨��ѡ�������� ���¼���
 
 
 
-##����
+##内容
 
-###��ʾ�����
-��ʾ��ı����ǿ�ѡ�ģ�����˵����ʾ�����͡���������֮��صĳ�������������ѡ����Ӱ�쵽������ �����磺����
+###提示框标题
+提示框的标题是可选的，用于说明提示的类型。可以是与之相关的程序名，或者是选择后会影响到的内容 。例如：设置
 
-��ʾ���������Ϊ��ʾ���һ���ֱ���ʾ�����ġ�
+提示框标题是作为提示框的一部分被显示出来的。
 
 
-###��ʾ������
+###提示框内容
 
-��ʾ��������Ǳ仯�����ġ�����ͨ����������ı� ��(��) ����UIԪ����ɵģ�������Ҫ�����ھ۽���ĳ�����������ĳ�����衣����˵"ȷ��"��"ɾ��"��ѡ��ĳ��ѡ�
+提示框的内容是变化多样的。但是通常情况下由文本 和(或) 其它UI元素组成的，并且主要是用于聚焦于某个任务或者是某个步骤。比如说"确认"、"删除"或选择某个选项。
 
 ![contact chips](images/components-dialogs-content-dialogs_03a_large_mdpi.png)
 ![contact chips](images/components-dialogs-content-dialogs_03b_large_mdpi.png)
 
 
 
-##�¼�
-###��ʾ���¼�
+##事件
+###提示框事件
 
-��ʾ����ֵ���һ��۽����޶����¼���ͨ����һ���϶����¼��ͷ񶨣���϶����¼����������¼���ɡ�
+提示框呈现的是一组聚焦和限定的事件，通常是一个肯定的事件和否定（与肯定的事件对立）的事件组成。
 
-�϶����¼��Ƿ�����ʾ����ұ߲��ҿ��Լ����������Ĳ��衣�϶����¼������Ǿ����ƻ��Եģ�����:"ɾ��"��"�Ƴ�"����Kris��϶����¼���Ҫ��ָ��Ʒ�����û���һ�����ߡ��밴ť���ֳ��ֵ������޹أ�
+肯定的事件是放于提示框的右边并且可以继续接下来的步骤。肯定的事件可以是据有破坏性的，比如:"删除"，"移除"。（Kris语：肯定的事件主要是指产品期望用户的一个决策。与按钮文字呈现的语意无关）
 
-�񶨵��¼��Ƿ�����ʾ�����ߡ����ڷ����û�ԭʼ����Ļ�����ǲ��衣��Kris�һ����ǹر���ʾ�����ã�
+否定的事件是放于提示框的左边。用于返回用户原始的屏幕或者是步骤。（Kris语：一般就是关闭提示框作用）
 
-�¼��İ�ť�������Ϳ����ǲ��еģ�Ҳ������������Ӽӿ��͵ġ���ȡ�����¼���ť��������ֳ��̡�
+事件的按钮排列类型可以是并列的，也可以是竖向叠加加宽型的。这取决于事件按钮里面的文字长短。
 
 
-�϶��¼��ͷ��¼����˿���ʹ��"ȷ��"/"ȡ��"�⣬Ҳ����������һЩ���ʻ����Ƕ��ʶ������������ߺ�Ľ����
+肯定事件和否定事件除了可以使用"确认"/"取消"外，也可以是其它一些动词或者是动词短语来表明决策后的结果。
 ![contact chips](images/components-dialogs-actions-dialogs_11_large_mdpi.png)
 
 
 
-##����(Behavior)
+##表现(Behavior)
 
-###����
-
-
-��ʾ�����븸��ͼ�Ƿָ����ġ��������Ÿ���ͼ������
+###滚动
 
 
-������ԣ��뾡��������ʾ����������ݲ���Ҫ���� ���������������̫���ˣ���ô���Կ���ʹ�����������������ǳ��ַ�ʽ��Ȼ������������ǹ����ģ���ô��ʹ�ý����Եķ�ʽ����ʾ�û�������˵�������ֻ����ǿؼ�¶һ�س�����
+提示框是与父视图是分隔开的。不会随着父视图滚动。
+
+
+如果可以，请尽量保持提示框里面的内容不需要滚动 。如果滚动的内容太多了，那么可以考虑使用其它的容器或者是呈现方式。然而，如果内容是滚动的，那么请使用较明显的方式来提示用户。比如说被让文字或者是控件露一截出来。
 ![contact chips](images/components-dialogs-behavior-dialogs_12_large_mdpi.png)
 
-###����
+###手势
 
 
-������ʾ�������������Թر���ʾ�� 
+触摸提示框外面的区域可以关闭提示框 
 
 
-###��ʾ�򽹵�
+###提示框焦点
  
- ��ʾ��Ľ�����������Ļ����ʾ���ڹر�ǰ�������û�ѡ����һ���¼�������˵ѡ����һ��ѡ�ǰ������н��㡣
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 提示框的焦点是整个屏幕。提示框在关闭前或者是用户选择了一个事件（比如说选择了一个选项）前都会持有焦点。
