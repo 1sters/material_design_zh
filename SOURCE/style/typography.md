@@ -25,44 +25,44 @@ permalink: typography.html
 
 这些尺寸和样式在传统应用场合中让内容密度和阅读舒适度取得平衡。字体尺寸是通过SP（可缩放像素数，scaleable pixels）指定的，让大尺寸字体获得更好的[可接受度](../usability/accessibility.md)。
 
-![style-typography1_large_mdpi](images/style-typography1_large_mdpi.png)
+![style-typography1_large_mdpi](images/style-typography-1_large_mdpi.png)
 
 ![style-typography-8_large_mdpi](images/style-typography-8_large_mdpi.png)
-![style-typography2_large_mdpi](images/style-typography2_large_mdpi.png)
+![style-typography2_large_mdpi](images/style-typography-2_large_mdpi.png)
 
 “显示（Display）”样式的例子
 
-![style-typography4_large_mdpi](images/style-typography4_large_mdpi.png)
-![style-typography5_large_mdpi](images/style-typography5_large_mdpi.png)
+![style-typography4_large_mdpi](images/style-typography-4_large_mdpi.png)
+![style-typography5_large_mdpi](images/style-typography-5_large_mdpi.png)
 
 “纲要（Headline）”样式的例子
 
 不论其余因素如何变化，App Bar中出现的所有标题都要使用“标题”样式。
 
-![style-typography6_large_mdpi](images/style-typography6_large_mdpi.png)
-![style-typography7_large_mdpi](images/style-typography7_large_mdpi.png)
+![style-typography6_large_mdpi](images/style-typography-6_large_mdpi.png)
+![style-typography7_large_mdpi](images/style-typography-7_large_mdpi.png)
 
 “标题（Title）”样式的例子
 
 在某些特定场合中，要使用“次要标题”样式，而不用较小的“主体”样式。这些个体包含了一小段文字预览，或者有标题与一行“主体”样式的文字一同出现。
 
-![style-typography9_large_mdpi](images/style-typography9_large_mdpi.png)
+![style-typography9_large_mdpi](images/style-typography-9_large_mdpi.png)
 ![style-typography-23_large_mdpi](images/style-typography-23_large_mdpi.png)
 
 “次要标题（Subhead）”样式的例子
 
-![style-typography10_large_mdpi](images/style-typography10_large_mdpi.png)
-![style-typography11_large_mdpi](images/style-typography11_large_mdpi.png)
+![style-typography10_large_mdpi](images/style-typography-10_large_mdpi.png)
+![style-typography11_large_mdpi](images/style-typography-11_large_mdpi.png)
 
 “主体（Body）”样式的例子
 
-![style-typography12_large_mdpi](images/style-typography12_large_mdpi.png)
-![style-typography13_large_mdpi](images/style-typography13_large_mdpi.png)
+![style-typography12_large_mdpi](images/style-typography-12_large_mdpi.png)
+![style-typography13_large_mdpi](images/style-typography-13_large_mdpi.png)
 
 “主体（Body）”样式的例子
 
-![style-typography14_large_mdpi](images/style-typography14_large_mdpi.png)
-![style-typography15_large_mdpi](images/style-typography15_large_mdpi.png)
+![style-typography14_large_mdpi](images/style-typography-14_large_mdpi.png)
+![style-typography15_large_mdpi](images/style-typography-15_large_mdpi.png)
 
 “按钮（Button）”样式的例子
 
