@@ -1,25 +1,22 @@
-**网格**
+---
+layout: page
+title: 网格
+permalink: grids.html
+---
 
-网络列表是一种标准列表视图的可选组件。网络列表与应用于布局和其他可视视图中的网格有着明显的区别。
+# 网格 #
 
-> **目录**
-
-> [用法](#grids_grid_usage)
-
-> [内容](#grids_grid_content)
-
-> [行为](#grids_grid_behavior)
-
-> [边框](#grids_grid_keylines)
+网格列表是一种标准列表视图的可选组件。网格列表与应用于布局和其他可视视图中的网格有着明显的区别。
 
 
-<h3 id="grids_grid_usage">用法</h3>
 
-网格列表最适合用于均匀的数据类型（homogeneous data type），典型的如图片，并且对像数据类型的可视化的理解（visual comprehension ）和区别进行了优化。
+## 用法 ##
+
+网格列表最适合用于**同类的数据类型（homogeneous data type）**，典型的如图片，并且对，比如数据类型的**可视化理解（visual comprehension ）**和区别进行了优化。
 
 ![](images/components-grids-usage-spec_grid_drawings_01_large_mdpi.png)
 
-网格列表是由连续的元素构成，这些元素构成了棋盘式格子，通常称这些格子为单元格（cells）。单元格中包含有瓦片（tiles）。
+**网格列表**是一个连续元素（continuous element），该元素由棋盘式、规律性的小格子构成，通常称这些格子为**单元格（cells）**。单元格中包含有**瓦片（tiles）**。
 
 单元格在网格中以垂直和水平的方式排列。
 
@@ -35,16 +32,16 @@
 
 **Lists：**是增强阅读理解的最佳方案，尤其是在比较一组具有多种数据类型的数据时。
 
-**Cards：**用于不同格式的内容，比如带有不同高度题注的图片，或者应用于不均匀内容的数据集合中，比如具有图片、视频和图书的混合式数据集。
+**Cards：**用于不同格式的内容，比如带有不同高度题注的图片，或者应用于不同类内容的数据集合中，比如具有图片、视频和图书的混合式数据集。
 
 
 ----------
 
-<h3 id="grids_grid_content">内容</h3>
+## 内容 ##
 
-**瓦片中的内容**
+### 瓦片中的内容 ###
 
-瓦片内容包括主要内容（primary content）和次要内容(secondary content)。主要内容是有重要区别的内容，典型的如图片。次要内容可以是一个动作按钮或者文本。
+瓦片内容包括主要内容（primary content）和次要内容(secondary content)。主要内容是有着重要区别的内容，典型的如图片。次要内容可以是一个动作按钮或者文本。
 
 为瓦片提供一个不带有主要内容的默认图片。
 
@@ -52,9 +49,9 @@
 ![](images/components-grids-content-spec_grid_drawings_03_large_mdpi.png)
 
 
-**瓦片中的动作**
+### 瓦片中的动作 ###
 
-主要内容和次要内容中的动作--比如播放、放大、删除或者选择--是一种即时性动作，通常不会在网格列表中弹出选项子菜单（动作溢出列表，action voerflow）。
+主要内容和次要内容中的动作--比如播放、放大、删除或者选择--是一种瞬时性动作，通常不会在网格列表中弹出选项子菜单（动作溢出列表，action voerflow）。
 
 动作可以打开一个随后的视图，比如卡片或者悬浮卡片（hovercard）。
 
@@ -75,13 +72,13 @@
 
 ----------
 
-<h3 id="grids_grid_behavior">行为</h3>
+## 行为 ##
 
-**滚动**
+### 滚动 ###
 
 网格典型的滚动只有垂直滚动。
 
-水平滚动的网格是不鼓励使用的，这于典型的阅读习惯有关，影响阅读上的理解。
+水平滚动的网格是不鼓励使用的，这通常与用户的阅读习惯有关，影响阅读上的理解。
 
 砍去网格瓦片达到与滚动方向通信的目的会造成内容的溢出。
 
@@ -99,17 +96,17 @@
 
 （图片用来）说明砍去网格瓦片造成内容溢出
 
-**手势**
+### 手势 ###
 
 不允许使用猛击（swipe）手势。选中并移动（pick-up-and-move）动作不鼓励使用。
 
-**瓦片过滤与排序**
+### 瓦片过滤与排序 ###
 
-网格列表中的内容可以编程实现其过滤和排序，比如按照数据类型、文件大小、字母顺序或者其他参数等。
+网格列表中的内容可以编程实现其过滤和排序，比如通过数据类型、文件大小、字母顺序或者其他参数等。
 
 网格中的第一个条目置于网格的左上角，并且其顺序为从左到右，自上而下。
 
-**维度与重置尺寸**
+### 维度与重置尺寸 ###
 
 重置网格列表的尺寸会导致瓦片在有水平空间可用时重新排序。但是瓦片并不会缩放以填充可用的水平空间。
 
@@ -118,9 +115,9 @@
 
 ----------
 
-<h3 id="grids_grid_keylines">边框</h3>
+## 边框 ##
 
-**网格列表表头/表尾（header/footers）**
+### 网格列表表头/表尾（header/footers ###）
 
 **单行表头/表尾**
 
@@ -147,7 +144,7 @@
 ![](images/components-grids-keylines-Grid_footer_overview_01b_large_mdpi.png)
 
 
-**仅有图片的网格列表**
+### 仅有图片的网格列表 ###
 
 网格内边距： 4dp
 
@@ -159,14 +156,14 @@
 ![](images/components-grids-keylines-imageOnlyGrid_01_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-imageOnlyGrid_03_large_mdpi.png)
 
 
 
-**单行网格列表**
+### 单行网格列表 ###
 
 **仅有文本**
 
@@ -185,7 +182,7 @@
 ![](images/components-grids-keylines-SingleLineGrid_01b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-SingleLineGrid_02_large_mdpi.png)
@@ -210,7 +207,7 @@
 ![](images/components-grids-keylines-SingleLineGrid_03b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-SingleLineGrid_03c_large_mdpi.png)
@@ -222,7 +219,7 @@
 ![](images/components-grids-keylines-SingleLineGrid_04_large_mdpi.png)
 
 
-**两行网格列表**
+### 两行网格列表 ###
 
 **仅有文本**
 
@@ -241,13 +238,13 @@
 ![](images/components-grids-keylines-TwoLineGrid_01b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-TwoLineGrid_02_large_mdpi.png)
 
 
-内容
+**内容**
 
 **带有图标的文本**
 
@@ -257,7 +254,7 @@
 
 每行的默认字体大小： 16sp/12sp或14sp/14sp
 
-网格列表表尾或者表头的中的次要文本可以右对齐或左对齐。
+网格列表表尾或者表头中的次要文本可以右对齐或左对齐。
 
 网格内边距是4dp
 
@@ -268,7 +265,7 @@
 ![](images/components-grids-keylines-TwoLineGrid_03b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-TwoLineGrid_03c_large_mdpi.png)
@@ -279,4 +276,4 @@
 
 ![](images/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)
 
-内容
+**内容**

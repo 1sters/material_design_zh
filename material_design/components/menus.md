@@ -1,16 +1,14 @@
-**菜单**
+---
+layout: page
+title: 菜单
+permalink: menus.html
+---
 
-> **目录**
 
-> [用法](#menus_usage)
+# 菜单 #
 
-> [菜单项](#menus_menu_items)
 
-> [行为](#menus_behavior)
-
-> [度量](#menus_metrics)
-
-<h3 id="menus_usage">用法</h3>
+## 用法 ##
 
 菜单是临时的一张纸（paper），由按钮（button）、动作（action）、点（pointer）或者包含至少两个菜单项的其他控件触发。
 
@@ -61,25 +59,25 @@
 ![](images/components-menus-menus-menus-06_large_mdpi.png)
 
 
-这些动画演示了菜单的滚动和级联。
+下面这些动画演示了菜单的滚动和级联。
 
 
-<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls="controls"></video>
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls="controls"></video>
 
 
 下拉
 
-<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
 
 
 文本框下拉
 
-<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-appbar_dropdown2_spec_large_xhdpi.webm" controls="controls"></video>
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-appbar_dropdown2_spec_large_xhdpi.webm" controls="controls"></video>
 
 
 应用工具条下拉
 
-<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
 
 
 级联下拉
@@ -87,11 +85,11 @@
 
 ----------
 
-<h3 id="menus_menu_itmes">菜单项</h3>
+## 菜单项 ##
 
 每一个菜单项限制为单行文本，并且能够说明在菜单项项选中时所发生的动作。
 
-菜单项的文本一般是单个单词或者短语，但是也可能包含了图标和帮助文本，比如快捷方式，同时也可包含像复选标记之类的控件来标识多选条目或状态。可以参考[列表控件](http://www.google.com/design/spec/components/list-controls.html)。
+菜单项的文本一般是单个单词或者短语，但是也可能包含了图标和帮助文本，比如快捷方式，同时也可包含像复选标记之类的控件来标识多选条目或状态。可以参考[列表控件](list-controls.md)。
 
 带有静态文本的菜单应当在菜单的上部放置最常使用的菜单项。
 
@@ -112,7 +110,7 @@
 
 ----------
 
-<h3 id="menus_behavior">行为</h3>
+## 行为 ##
 
 菜单出现在所有的应用内部的UI元素之上。
 
@@ -169,29 +167,29 @@
 
 ----------
 
-<h3 id="menus_metrics">度量</h3>
+## 度量 ##
 
 度量提供了多样的尺寸和类型菜单以及不同的平台。
 
-**移动设备**
+### 移动设备 ###
 
 
 ![](images/components-menus-metrics-menus-redlines-01_large_mdpi.png)
 
 
-**不同的宽度**
+### 不同的宽度 ###
 
 
 ![](images/components-menus-metrics-menus-redlines-02_large_mdpi.png)
 
 
-**级联菜单**
+### 级联菜单 ###
 
 
 ![](images/components-menus-metrics-menus-redlines-03_large_mdpi.png)
 
 
-**级联红线（Cascading redlines）**
+### 级联红线（Cascading redlines） ###
 
 
 ![](images/components-menus-metrics-menus-redlines-04_large_mdpi.png)

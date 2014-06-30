@@ -1,166 +1,196 @@
-#<font color="#3E4EB8">按键</font></br>
+#<font color="#3E4EB8">按钮</font>  
 
-A button consists of text and/or an image that clearly communicates what action will occur when the user touches it.
-Three types of main buttons are provided:
+按钮由文字或者图案组成，文字或者图案必须能让人轻易地和点击后展示的内容联系起来.
+主要的按钮有三种:
 
-* Floating action button, a circular button made of paper that lifts and emits ink reactions on press.
-* Raised button, a typically rectangular button made of paper that lifts and emits ink reactions on press.
-* Flat button, a button made of ink that emits ink reactions on press but does not lift.
+* 悬浮响应按钮, 点击后会产生墨水扩散效果的圆形按钮。
+* 浮动按钮, 常见的方形纸片按钮，点击后会产生墨水扩散效果.
+* 扁平按钮, 点击后产生墨水扩散效果，和浮动按钮的区别是没有浮起的效果.
 
-In addition, fully saturated icons in your design are generally always affordances—avoid using them as purely decorative objects.
+颜色饱满的图标应当是功能性的-尽量避免把他们作为纯粹装饰用的物体。
 
-Buttons should be designed in accordance with your app’s color theme.</br></br>
-<font color="#3E4EB8">**|**</font> **Contents**</br>
-<font color="#3E4EB8">**|**</font> <font color="#0075BD">Usage</font></br>
-<font color="#3E4EB8">**|**</font> <font color="#0075BD">Main buttons</font></br>
-<font color="#3E4EB8">**|**</font> <font color="#0075BD">Other buttons</font></br></br>
-##<font color="#3E4EB8">Usage</font></br></br>
-![p0](http://material-design.storage.googleapis.com/images/components-buttons-usage-01_intro_large_xhdpi.png)
+按钮的设计应当和应用的颜色主题保持一致.    
+##<font color="#3E4EB8">用法</font>    
+![p0](  images/components-buttons-usage-01_intro_large_xhdpi.png)
  
-Floating action button</br>
+悬浮响应按钮  
 
-![p1](http://material-design.storage.googleapis.com/images/components-buttons-usage-02_intro_large_xhdpi.png)
-Raised button</br>
-![p2](http://material-design.storage.googleapis.com/images/components-buttons-usage-03_intro_large_xhdpi.png)
-Flat button</br></br></br>
-**Main buttons**</br>
+![p1](  images/components-buttons-usage-02_intro_large_xhdpi.png)
+浮动按钮  
+![p2](  images/components-buttons-usage-03_intro_large_xhdpi.png)
+扁平按钮      
+**主按钮**  
 
-Choosing button type  for your main buttons depends on the primacy of the button, the number of containers on screen, and the overall layout of the screen.
+按钮类型应该基于主按钮, 屏幕上容器的数量, 以及整体布局来选择.
 
-First, look at the button function: is it important and ubiquitous enough to be a floating action button?
+首先，审视一遍你的按钮功能: 按钮功能是不是非常重要而且应用广泛到需要用上悬浮响应按钮?
 
-Next, choose raised or flat dimensionality depending on the container it will be in and how many z-space layers you have on screen. There should not be layers upon layers upon layers of objects on screen.
+然后，选择使用浮动按钮或者扁平按钮基于放置按钮的容器以及屏幕上层的数量。应该避免过多的层叠。
 
-Finally, look at your specific layout. You should use one type of button primarily per container. Only mix button types when you have good reason to, such as emphasizing a raised function.
+最后，检查你的布局. 一个容器应该只使用一种类型的按钮. 只在比较特殊的情况下（比如需要强调一个浮起的效果）才应该混合使用多种类型按钮.
 
-![p3](http://material-design.storage.googleapis.com/images/components-buttons-usage-05_chart_large_xhdpi.png)</br></br></br>
+![p3](  images/components-buttons-usage-05_chart_large_xhdpi.png)      
  
-**Buttons in dialogs**
+**对话框中的按钮**
 
-Use primarily ink buttons on dialogs to prevent too many layers of dimension.
-![p4](http://material-design.storage.googleapis.com/images/components-buttons-dialog_usage_1_large_xhdpi.png)</br>
-![p5](http://material-design.storage.googleapis.com/images/components-buttons-dialog_usage_2_large_xhdpi.png)
+对话框中使用扁平按钮作为主要按钮类型以避免过多的层次叠加。
+![p4](  images/components-buttons-dialog_usage_1_large_xhdpi.png)
+
+![p5](  images/components-buttons-dialog_usage_2_large_xhdpi.png)
  
-</br></br>**Buttons inline**
+**按钮内部**
 
-Choose raised or flat depending on your specific layout. Make sure to allow enough padding around flat unfilled buttons so the user can easily find them.
-![p6](http://material-design.storage.googleapis.com/images/components-buttons-usage-1_usage_padding_large_xhdpi.png)</br>
-![p7](http://material-design.storage.googleapis.com/images/components-buttons-usage-2_usage_padding_large_xhdpi.png)</br></br>
+根据特定的布局来选择使用扁平按钮或者浮动按钮. 对于扁平按钮，应该在内部四周留出足够的空间以使按钮清晰可见.
+![p6](  images/components-buttons-usage-1_usage_padding_large_xhdpi.png)  
+![p7](  images/components-buttons-usage-2_usage_padding_large_xhdpi.png)    
  
-**Persistent footer buttons**
+**底部固定按钮**
 
-If your app requires actions to be persistent and readily available to the user, first consider using the floating action button. If it is an action that is not promoted but still needs to be easy to access, use persistent footer buttons.
+如果需要一个对用户持续可见的功能按钮, 应该首先考虑使用悬浮响应按钮。如果需要一个非主要，但是能快速定位到的按钮, 则可以使用底部固定按钮。
 
-![p8](http://material-design.storage.googleapis.com/images/components-buttons-usage-1_buttons_usage_19_large_xhdpi.png)</br>
-![p9](http://material-design.storage.googleapis.com/images/components-buttons-usage-2_buttons_usage_19_large_xhdpi.png)</br>
-![p10](http://material-design.storage.googleapis.com/images/components-buttons-persistant-footer-1_large_xhdpi.png)
+![p8](  images/components-buttons-usage-1_buttons_usage_19_large_xhdpi.png)  
+![p9](  images/components-buttons-usage-2_buttons_usage_19_large_xhdpi.png)  
+![p10](  images/components-buttons-persistant-footer-1_large_xhdpi.png)
  
-Never use raised buttons within persistent button areas.
+不可在底部固定按钮的区域内使用浮动按钮.
 
-![p11](http://material-design.storage.googleapis.com/images/components-buttons-usage-usage_persistent_large_xhdpi.png)
+![p11](  images/components-buttons-usage-usage_persistent_large_xhdpi.png)
  
-With the addition of a divider, a persistent footer button can also be used for scrollable dialogs.
-![p12](http://material-design.storage.googleapis.com/images/components-buttons-persistant-footer-4a_large_xhdpi.png)</br>
-![p13](http://material-design.storage.googleapis.com/images/components-buttons-persistant-footer-4b_large_xhdpi.png)</br>
+底部固定按钮也可以用在内容可拉动的对话框中，前提是要加上divider.
+![p12](  images/components-buttons-persistant-footer-4a_large_xhdpi.png)  
+![p13](  images/components-buttons-persistant-footer-4b_large_xhdpi.png)  
 
 ========
  
-##<font color="#3E4EB8">Main buttons</font></br></br>
+##<font color="#3E4EB8">主按钮</font>    
 
-Floating action buttons
+**悬浮响应按钮**
 
-Floating action buttons are a special type of promoted action. They are distinguished by a circle icon floating above the UI and have special motion behaviors, related to morphing, launching, and its transferring anchor point.
+悬浮响应按钮是促进动作里的特殊类型。 是一个圆形的漂浮在界面之上的拥有一系列特殊动作的按钮，这些动作通常和变换、启动、以及它本身的转换锚点相关。
+更多关于悬浮响应按钮的信息, 请参考 [模式: 浮起动作](http://www.google.com/design/spec/patterns/promoted-actions.html "Patterns: Promoted Actions").
 
-For further information on using floating action buttons, see [Patterns: Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html "Patterns: Promoted Actions").
+![p14](  images/components-buttons-floating-actions-1a_large_xhdpi.png)  
+![p15](  images/components-buttons-floating-actions-1b_large_xhdpi.png)  
+ 
+悬浮响应按钮有两种尺寸: 默认尺寸和迷你尺寸. 迷你尺寸仅仅用于配合屏幕上的其他元素制造视觉上的连续性。
 
-![p14](http://material-design.storage.googleapis.com/images/components-buttons-floating-actions-1a_large_xhdpi.png)</br>
-![p15](http://material-design.storage.googleapis.com/images/components-buttons-floating-actions-1b_large_xhdpi.png)</br>
+![p16](  images/patterns-promotedactions-floatingactionbuttonFAB3_large_xhdpi.png)  
+![p17](  images/patterns-promotedactions-floatingactionbuttonFAB4_large_xhdpi.png)
  
-There are two sizes of FABs: the default size and the mini size. Mini should only be used to create visual continuity with other elements on the screen.
+**浮动按钮**
 
-![p16](http://material-design.storage.googleapis.com/images/patterns-promotedactions-floatingactionbuttonFAB3_large_xhdpi.png)</br>
-![p17](http://material-design.storage.googleapis.com/images/patterns-promotedactions-floatingactionbuttonFAB4_large_xhdpi.png)
+浮动按钮使按钮在比较拥挤的界面上更清晰可见。能给大多数扁平的布局带来层次感。
  
-Raised buttons
+![p18](  images/components-buttons-usage-raised-do_large_xhdpi.png)  
+![p19](  images/components-buttons-usage-raised-dont_large_xhdpi.png)  
+ 
+![p20](  images/components-buttons-usage-raised-1a_large_xhdpi.png)
 
-Raised buttons emphasize functions that would otherwise get lost on a busy or wide space. They add dimension to mostly flat layouts.
- 
- 
- 
-Do.
-Correct use of raised buttons.
- 
-Don't.
-Buttons are hard to see.
-Flat buttons
+<span style="background:#48B04B" ><font color="#48B048">===============================================</font></span>  
+<font color="#48B04B">正确。</font>  
+浮动按钮的正确使用。  
 
-Use flat buttons for contexts such as toolbars, dialogs, and popovers to avoid gratuitous layering of paper.
- 
- 
- 
-Do.
-Correct use of flat buttons.
- 
-Don't.
-Raised buttons are too heavy.
-Flat and raised button states
+![p21](  images/components-buttons-usage-raised-1b_large_xhdpi.png)
+<span style="background:#F74E2D" ><font color="#F74E2D">===============================================</font></span>  
+<font color="#F74E2D">错误</font>   
+按钮不明显。    
+**扁平按钮**
 
-Button states for mocks
+扁平按钮一般用于对话框或者工具栏, 可避免页面上过多无意义的层叠。
 
-Raised buttons behave like a piece of paper resting on another sheet—they lift and color upon press.
+![p22](  images/components-buttons-usage-flat-1a_large_xhdpi.png)
 
-Flat buttons remain flush to the sheet and fill with color upon press.
+![p23](  images/components-buttons-usage-flat-1b_large_xhdpi.png)
 
-Ink travels between buttons as they come into focus. Focus state animations emanate between the normal and pressed state.
 
-When representing button states in mocks, you can use graphic rings to represent the animation. Note that focused states will always be in animation. (These images do not represent what the focused state should look like in implementation.)
- 
-Flat Light/Light color
-Minimum width: 88 DP, Height: 36 DP
-Hover: 20% #999, Pressed: 40% #999, Disabled: 10% #999
- 
-Flat Dark/Dark Color
-Minimum width: 88 DP, Height: 36 DP
-Hover: 15% #ccc, Pressed: 25% #ccc, Disabled: 10% #ccc
- 
-Raised Light/Light Color
-Minimum width: 88 DP, Height: 36 DP
- 
-Raised Dark/Dark Color
-Minimum width: 88 DP, Height: 36 DP
-Normal: Color 500, Hover: Color 600, Pressed: Color 700,
-Disabled: 10% #ccc
-Buttons in motion
+![p24](  images/components-buttons-usage-flat-do_large_xhdpi.png) 
+<span style="background:#48B04B" ><font color="#48B048">===============================================</font></span>  
+<font color="#48B04B">正确。</font>  
+扁平按钮的正确使用。  
 
-Flat buttons
-Raised buttons
-Other buttons
+![p25](  images/components-buttons-usage-flat-dont_large_xhdpi.png) 
+<span style="background:#F74E2D" ><font color="#F74E2D">===============================================</font></span>  
+<font color="#F74E2D">错误</font>   
+层次感太重。
 
-Icon toggles
+**扁平和浮动按钮状态**
 
-Icons are appropriate for app bars and toolbars and can be used as action buttons or as toggles.
+按钮状态模拟
 
-Icon toggles can display bounded or unbounded ink press ripples beyond their touch target bounds. For more information, see Surface Reactions.
- 
- 
- 
-Mobile dropdown buttons
+浮动按钮看起来像一张放在页面上的纸片—点击后会浮起来并表现出色彩.
 
-Pulldown button
-A pulldown button is a button that controls the state of a value; there may be two to many states. The button displays the current state and a down arrow icon—when interacted with, a menu flies out adjacent to and typically below the button with all of the state options. States may be represented within the pulldown menu as a list of strings, a palette, icons, or many other display options. Pressing one state changes the displayed state of the button. The pulldown shown here is the generic pulldown button with a list menu. Scrolling should behave like menus.
- 
- 
-Generic overflow pulldown button
-A type of pulldown button that does not have a displayed state but has an arrow or a generic menu button. When pressed, the menu flies out. Pressing an option on the menu generally navigates to further settings for that option.
+扁平按钮会一直保持和页面贴合的状态，点击后会填充颜色。
 
-Segmented pulldown button
-A segmented pulldown has two sections: the current state and the dropdown arrow icon. Pressing the current state will cause that state’s action to fire within the screen. Pressing the dropdown arrow will display all the state options; selecting one will change the displayed state.
+墨水效果会跟着焦点的改变从一个按钮转换到另一个按钮。 聚焦状态的动画会表现出正常状态和点击状态间来回切换的过渡效果。
 
-Editable segmented pulldown button
-A segmented pulldown where the displayed state is text editable, such as a font size picker. Pressing the current state both causes that state’s action to fire and makes the displayed state editable. Pressing the arrow displays all the state options.
- 
- 
-Desktop dropdowns
+模拟按钮状态的时候, 可以使用图形轮换来表现动画。注意聚焦状态会一直处于动画的状态。 (下面这些图并没有显示出真实的聚焦状态。)
 
-Desktop app bar specs
+  
+![p26](  images/components-buttons-states-for-mocks-1a_large_xhdpi.png)  
+Flat Light/Light color  
+最小宽度: 88 DP, 高度: 36 DP  
+覆盖状态: 20% #999, 点击状态: 40% #999, 不可用状态: 10% #999  
  
+![p27](  images/components-buttons-states-for-mocks-1b_large_xhdpi.png)  
+Flat Dark/Dark Color  
+最小宽度: 88 DP, 高度: 36 DP  
+覆盖状态: 15% #ccc, 点击状态: 25% #ccc, 不可用状态: 10% #ccc  
+ 
+![p28](  images/components-buttons-states-for-mocks-2a_large_xhdpi.png)  
+Raised Light/Light Color  
+最小宽度: 88 DP, 高度: 36 DP  
+
+![p29](  images/components-buttons-states-for-mocks-2b_large_xhdpi.png)  
+ 
+Raised Dark/Dark Color  
+最小宽度: 88 DP, 高度: 36 DP  
+正常状态: Color 500, 覆盖状态: Color 600, 点击状态: Color 700,
+不可用状态: 10% #ccc  
+**按钮动态效果**    
+
+<video src="http://material-design.storage.googleapis.com/videos/components-buttons-mainbuttons-buttons-motion1_large_xhdpi.mp4" controls="controls" width="360" loop height="450"></video>  
+
+扁平按钮  
+<video src="http://material-design.storage.googleapis.com/videos/components-buttons-mainbuttons-buttons-motionraised_large_xhdpi.mp4" controls="controls" width="360" loop height="450"></video>  
+浮动按钮   
+##<font color="#3E4EB8">其他类型的按钮</font>    
+
+**图标开关**  
+  
+图标适合用在应用导航条或者工具条上，作为动作按钮或者开关。
+
+图标开关可以在它的范围内呈现弹性或者非弹性的墨水扩散涟漪效果. 更多信息请参考： [面响应](http://www.google.com/design/spec/animation/responsive-interaction.html#responsive-interaction-ink-reactions).
+
+![p30](  images/components-buttons-icon-toggles-1_large_xhdpi.png)
+![p31](  images/components-buttons-icon-toggles-2_large_xhdpi.png)
+![p32](  images/components-buttons-icon-toggles-3_large_xhdpi.png)
+ 
+####**移动端下拉菜单按钮**    
+
+**下拉菜单按钮**  
+  
+下拉菜单按钮可以用来控制对象状态; 一般会有两个甚至更多的状态。 按钮会显示当前状态以及一个向下的箭头—当按钮触发后, 一个包含所有状态的菜单会在按钮周围弹出（通常都是在下方）. 菜单中的状态通常会以字符、调色板、图标或者其他的形式呈现出来。点击任意一个状态将会改变按钮的状态显示。这展示的是一个常见的带有列表式菜单的下拉菜单按钮。
+
+![p33](  images/components-buttons-mobile-dropdowns-1a_large_xhdpi.png)  
+![p34](  images/components-buttons-mobile-dropdowns-1b_large_xhdpi.png)  
+ 
+**溢出下拉菜单按钮**  
+  
+这种类型的下拉菜单按钮不会显示当前状态，而是显示一个向下箭头或者一个默认菜单图标。点击后会弹出菜单。点击菜单中的任意一个选项将会引导到对应的设置页面。
+
+**分段式下拉菜单按钮**  
+  
+分段式下拉菜单按钮有两个区域: 当前状态和下拉箭头。点击当前状态会触发状态相应的动作。点击下拉箭头则会弹出所有状态菜单; 点击任意一个状态会改变当前的状态。
+
+**可编辑分段式下拉菜单按钮**  
+  
+可编辑分段式下拉菜单按钮的当前状态位置是可编辑的（例如用来选择文字大小的下拉菜单）. 点击当前状态位置会触发相应的动作并且当前状态会变成可编辑。点击下拉箭头会显示所有状态。
+
+![p35](  images/components-buttons-mobile-dropdowns-3_large_xhdpi.png)
+ 
+<video src="http://material-design.storage.googleapis.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.mp4" controls="controls" width="360" loop height="450" />  
+ 
+**桌面下拉相关**  
+
+桌面应用工具栏 
+![p36](  images/components-buttons-desktop-dropdowns_large_xhdpi.png)

@@ -1,9 +1,3 @@
----
-layout: page
-title: 布局模板
-permalink: layout-templates.html
----
-
 布局模板(Layout Templates)
 ===============
 
