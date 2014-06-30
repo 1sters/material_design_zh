@@ -1,2 +1,5 @@
 .DS_Store
 _book
+ebooks
+_site/
+Gemfile.lock
