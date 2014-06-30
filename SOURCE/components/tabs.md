@@ -143,7 +143,7 @@ Tab 宽度: 屏幕的 1/3
 Tab Indicator: 2 dp 高度    
 Text: 14 sp Roboto 中号   
 文本在 tab 单元中居中   
-Active text color: #fff 或次要的颜色   
+Active text color: #fff 或间色(secondary color)     
 Disabled text color: #fff 60%      
 
 ![](images/components-tabs-typesoftabs-tabs-spec-04_large_mdpi.png)  
@@ -163,7 +163,7 @@ Disabled text color: #fff 60%
 Tab Width: 24 dp + Word length + 24 dp   
 Tab Indicator: 2 dp height    
 文本: 14 sp 平板, 13 sp 桌面 Roboto 中号    
-Active text color: #fff 或间色(secondary color)
+Active text color: #fff 或间色(secondary color)    
 Disabled text color: #fff 60%    
 
 ![](images/components-tabs-typesoftabs-tabs-spec-10_large_mdpi.png)   
