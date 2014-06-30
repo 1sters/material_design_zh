@@ -22,7 +22,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [Delightful Details](material_design/animation/delightful-details.html) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) 1% by [com360](https://github.com/com360)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
-  * [Typography](http://www.google.com/design/spec/style/typography.html) 1% by [acely](https://github.com/acely)
+  * [字体排版](material_design/style/typography.html) - [Typography](http://www.google.com/design/spec/style/typography.html) 1% by [acely](https://github.com/acely)
   * [图标](material_design/style/icons.html) - [Icons](http://www.google.com/design/spec/style/icons.html)  √ by [Haoxiqiang](https://github.com/haoxiqiang)
   * [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)
 * Layout
