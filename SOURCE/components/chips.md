@@ -1,3 +1,9 @@
+---
+layout: page
+title: 纸片(Chips)
+permalink: chips.html
+---
+
 #纸片(Chips)
 
 
