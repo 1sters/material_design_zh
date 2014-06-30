@@ -1,19 +1,17 @@
 # 颜色
 ===================
-## 颜色
 
 <br/>
 ![SystemIcons icon](images/style-color-colorstory-01_large_xhdpi.png)
 <br/>
-系统图标或者UI界面中的图标都象征着命令,文件,设备或者目录.系统图标也被用来表示一些常见功能,比如清空垃圾桶,打印或者保存.
-系统图标的设计要简洁友好,有潮流感,有时候也可以设计的古怪幽默一点.要把很多含义精简到一个很简化的图标上表达出来,当然要保证在这么小的尺寸下,图标的意义仍然是清晰易懂的。
+颜色是相对于静音环境的大色彩授意，就好像现代艺术作品，路标，路面标线带，运动场。强调阴影和亮度。意想不到的展现和鲜艳的色彩。
 <br/>
 
 <br/>
 ###内容
-用户界面调色板
-用户界面颜色应用
-主题
+用户界面调色板  
+用户界面颜色应用  
+主题  
 <br/>
 
 
@@ -59,7 +57,7 @@
 ![choose6 icon](images/style-color-colorapplication-color_application-05_large_mdpi.png)
 ![choose7 icon](images/style-color-colorapplication-color_application-08_large_mdpi.png)
 <br/>
-<h3>强调色</h3><br/>
+<h3>倒退强调色</h3><br/>
 如果你的强调色相对于背景色太亮或者太暗，根据倒退的规则应该去选一个比原来更暗或更亮的颜色。如果你的强调色无法正常显示，倒退色会使用500原色值的白色。如果背景是原色值为500的颜色，倒退色应该是100%的白色或者54%的黑色。
 <br/>
 ![choose8 icon](images/style-color-colorapplication-color_application-04_large_mdpi.png)
