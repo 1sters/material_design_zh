@@ -1,6 +1,10 @@
-#字体排版（Typography）
-
 ---
+layout: page
+title: 字体排版
+permalink: typography.html
+---
+
+# 字体排版（Typography）
 
 ##Roboto
 

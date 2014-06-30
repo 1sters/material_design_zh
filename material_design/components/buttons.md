@@ -1,4 +1,10 @@
-#<font color="#3E4EB8">按钮</font>  
+---
+layout: page
+title: 按钮
+permalink: buttons.html
+---
+
+# 按钮
 
 按钮由文字或者图案组成，文字或者图案必须能让人轻易地和点击后展示的内容联系起来.
 主要的按钮有三种:

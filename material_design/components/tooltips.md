@@ -6,35 +6,31 @@ permalink: tooltips.html
 
 # 工具提示(Tooltips)
 
-
 ## 用法
 
 对同时满足以下条件的元素使用工具提示(Tooltips)：
 
-1.交互元素。
+1. 交互元素。
 
-2.非文本的主要图形元素。
+2. 非文本的主要图形元素。
 
+
+![](images/components-tooltips-usage-tooltips_06a_large_mdpi.png)  
 要(Do)
 
-![](images/components-tooltips-usage-tooltips_06a_large_mdpi.png)
-
+![](images/components-tooltips-usage-tooltips_06b_large_mdpi.png)  
 不要(Don't)
-
-![](images/components-tooltips-usage-tooltips_06b_large_mdpi.png)
-
 
 工具提示(Tooltips)不同于浮动卡(hovercards),后者用来显示图片和格式化字符串等更为丰富的信息。
 
 工具提示(Tooltips)也不同于ALT属性，后者用来提示静态图片的主旨。
 
+
+![](images/components-tooltips-usage-tooltips_13a_large_mdpi.png)  
 要(Do)
 
-![](images/components-tooltips-usage-tooltips_13a_large_mdpi.png)
-
+![](images/components-tooltips-usage-tooltips_13b_large_mdpi.png)  
 不要(Don't)
-
-![](images/components-tooltips-usage-tooltips_13b_large_mdpi.png)
 
 ## 光标和键盘的工具提示
 

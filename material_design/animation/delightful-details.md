@@ -1,3 +1,8 @@
+---
+layout: page
+title: 让用户愉悦的细节
+permalink: delightful-details.html
+---
 
 #让用户愉悦的细节#
 
