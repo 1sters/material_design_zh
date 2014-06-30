@@ -5,8 +5,8 @@ description: "Google I/O 2014发布的Material Design将会成为统一Android�
 baseurl: "http://design.1sters.com"
 # baseurl: ""
 highlighter: ""
-url: "http://1sters.github.io"
-exclude: ["SOURCE", "script", "Gemfile", "Gemfile.lock","epub_tmp"]
+url: "http://design.1sters.com"
+exclude: ["SOURCE", "script", "Gemfile", "Gemfile.lock","epub_tmp","ebooks"]
 
 # Build settings
 markdown: kramdown
