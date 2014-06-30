@@ -274,6 +274,8 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ***
 
+## 编写规范 [issue#89](https://github.com/1sters/material_design_zh/issues/89)
+
 ## 常见问题
 
 ###代码如何处理
@@ -287,28 +289,10 @@ To git@github.com:IceskYsl/material_design_zh.git
 在章（如components）下创建`images`目录，将图片原文件名（如materialdesign-goals-cutrectangles_large_mdpi.png）存到该目录下，然后在文档中这样调用
 `![ALT文字](images/materialdesign-goals-landingimage_large_mdpi.png)`
 
-### 图片太大，如何缩小
-详见 [issue 57](https://github.com/1sters/material_design_zh/issues/57)
+### 图片太大，如何缩小 [issue#57](https://github.com/1sters/material_design_zh/issues/57)
 
-### 如何添加锚点
-详见 [issue 58](https://github.com/1sters/material_design_zh/issues/58)
+### 如何添加锚点 [issue#58](https://github.com/1sters/material_design_zh/issues/58)
 
-###视频如何处理
-视频在markdown中可以这样处理
-```html
-<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" controls="controls"></video>
-```
-
-**注意：**
-由于原文档中视频地址是在Google服务器上，访问不是很顺畅，我们将其全部下载，存在七牛云存储上，大家在引用的时候相应的修改下视频地址就可以了~
-修改规则：
-
-http://`material-design.storage.googleapis.com`/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm
-
-->
-
-http://`materialdesign.qiniudn.com`/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm
-
-
+###视频如何处理 [issue#90](https://github.com/1sters/material_design_zh/issues/90)
 
 
