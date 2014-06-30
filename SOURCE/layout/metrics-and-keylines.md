@@ -4,21 +4,9 @@ title: 度量与边框
 permalink: metrics-and-keylines.html
 ---
 
-**度量与边框**
+# 度量与边框
 
-> **目录**
- 
-> [基准网格](#metrics_and_keylines_baseline_grids)
-
-> [边框与间距](#metrics_and_keylines_keylines_and_spacing)
-
-> [比率边框](#metrics_and_keylines_ratio_keylines)
-
-> [增量边框](#metrics_and_keylines_incremental_keylines)
-
-> [触摸目标尺寸](#metrics_and_keylines_touch_target_size)
-
-<h3 id="metrics_and_keylines_baseline_grids">基准网络 </h3>
+## 基准网络
 
 所有组件都以一个8dp\*8dp的基准网格对齐。排版（Type）以一个4dp\*4dp的基准网格对齐。在工具条中的图标同样以一个4dp\*4dp的基准网格对齐。这些规则适用于移动设备、平板设备以及桌面应用程序。
 
@@ -34,13 +22,9 @@ permalink: metrics-and-keylines.html
 
 有关详细信息请参见[字体排版](../style/typography.md)一节。
 
+## 边框与间距
 
-
-----------
-
-<h3 id="metrics_and_keylines_keylines_and_spacing">边框与间距 </h3>
-
-**移动设备**
+#### 移动设备
 
 移动设备布局模板包含了多种多样的屏幕和信息，这些信息描述了边框与间距如何应用于屏幕边界和元素。下面是一个有关屏幕的实例，这个实例可以通过如下的链接获得。
 
@@ -163,7 +147,7 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 2. 8dp
 3. 56dp
 
-**平板设备**
+#### 平板设备
 
 平板设备布局模板包含了14种不同的屏幕，显示了边框和边距如何应用于屏幕的边界和元素。下面的实例是14种模板的两个，可以通过下面的链接获取。
 
@@ -192,7 +176,7 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 4. 48dp
 5. 80dp
 
-**桌面应用程序**
+#### 桌面应用程序
 
 桌面应用程序布局模板包含了4个不同的屏幕，每一个屏幕右板块了4个不同的窗口尺寸，显示了边框和边距如何应用于窗口和元素。下面是一个屏幕的实例，可以通过下面所示的链接下载。基于不同的窗口尺寸，边框和边距块会继承自平板设备和移动设备的网格规则。
 
@@ -202,13 +186,9 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 
 ![](images/layout-metrics-keylines-keylines-desktopc_large_mdpi.png)
 
+## 比率边框
 
-----------
-
-
-<h3 id="metrics_and_keylines_ratio_keylines">比率边框</h3>
-
-**比率边框**
+### 比率边框
 
 应用于移动设备屏幕的宽度和移动设备、平板设备以及桌面应用程序的UI元素的宽度。
 
@@ -228,12 +208,9 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 
 示例
 
+## 增量边框
 
-----------
-
-<h3 id="metrics_and_keylines_incremental_keylines">增量边框</h3>
-
-**增量边框**
+### 增量边框
 
 增量边框定义了一个增量，比如动作条的高度，然后使用几倍于这个增量的数字来决定应用中其它元素的尺寸和位置。
 
@@ -247,10 +224,7 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 
 ![](images/layout-metrics-incrementalkeylines-incrementalkeylines-04_large_mdpi.png)
 
-
-----------
-
-<h3 id="metrics_and_keylines_touch_target_size">触摸目标尺寸</h3>
+## 触摸目标尺寸
 
 最小的触摸目标尺寸是48dp。在布局中，当为图标（24dp）或者头像（40dp）设置边距时，这一点要时刻记得。
 
