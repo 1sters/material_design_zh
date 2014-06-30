@@ -29,7 +29,7 @@ permalink: lists.html
 ![](images/components-lists-2_large_mdpi.png)
 
 
-列表最适合应用于显示**同类的数据类型或者数据类型组（homogeneous data type or sets of data types）**，比如图片和文本，同时列表也是最佳的阅读理解优化方案。这种阅读理解带有数据类型之间的区别的目的，或者在单一数据类型中的特性。
+列表最适合应用于显示**同类的数据类型或者数据类型组（homogeneous data type or sets of data types）**，比如图片和文本，目标是区分多个数据类型数据或单一类型的数据特性，使得理解起来更加简单。
 
 如果有超过三行的文本需要在列表中显示，换用卡片（cards）代替。
 

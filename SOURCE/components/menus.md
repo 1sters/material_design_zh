@@ -68,7 +68,7 @@ permalink: menus.html
 ![](images/components-menus-menus-menus-06_large_mdpi.png)
 
 
-这些动画演示了菜单的滚动和级联。
+下面这些动画演示了菜单的滚动和级联。
 
 
 <video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls="controls"></video>
@@ -98,7 +98,7 @@ permalink: menus.html
 
 每一个菜单项限制为单行文本，并且能够说明在菜单项项选中时所发生的动作。
 
-菜单项的文本一般是单个单词或者短语，但是也可能包含了图标和帮助文本，比如快捷方式，同时也可包含像复选标记之类的控件来标识多选条目或状态。可以参考[列表控件](http://www.google.com/design/spec/components/list-controls.html)。
+菜单项的文本一般是单个单词或者短语，但是也可能包含了图标和帮助文本，比如快捷方式，同时也可包含像复选标记之类的控件来标识多选条目或状态。可以参考[列表控件](list-controls.md)。
 
 带有静态文本的菜单应当在菜单的上部放置最常使用的菜单项。
 

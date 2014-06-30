@@ -28,11 +28,11 @@ permalink: metrics-and-keylines.html
 
 ![](images/layout-metrics-baselinegrids-02-8dp-baseline_large_mdpi.png)
 
-有关详细信息请参见[组件](../components/)一节。
+有关详细信息请参见[组件](../components/bottom-sheets.md)一节。
 
 ![](images/layout-metrics-baselinegrids-baseline-03_large_mdpi.png)
 
-有关详细信息请参见[排版](../style/typography.md)一节。
+有关详细信息请参见[字体排版](../style/typography.md)一节。
 
 
 
