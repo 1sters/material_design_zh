@@ -85,9 +85,3 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 - [marshluca](https://github.com/marshluca)
 - [ZeroLu](https://github.com/ZeroLu)
 - [fortianwei](https://github.com/fortianwei)
-
-
-
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-responsiveinteraction-2-celebratetouch-localized-ink-reaction2_large_xhdpi.webm" width="640" height="360" controls poster="http://material-design.storage.googleapis.com/images/materialdesign-goals-landingimage_large_mdpi.png" title="video description">
-(video tag not supported, but you can put fallback text here such as link to external video on youtube or vimeo)
-</video>
