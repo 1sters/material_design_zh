@@ -1,17 +1,20 @@
 Material Design 中文协同翻译
 =============================================
 
-Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平台的设计语言规范，对Android从业人员意义重大，我们一帮不知天高地厚的人正通过互联网的方式将其翻译成中文~
+Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平台的设计语言规范，对从业人员意义重大，我们正通过互联网的方式将其翻译成中文~
 
-我们欢迎每一个人参与进来~~
+我们欢迎每一个人参与进来一起翻译和校队~~
 
-#一起来参与
+***
+
+##一起来参与
 如果想做出贡献(翻译或者校对)的话，请加QQ群：137198122，谢谢！
 
 原文文档：
 http://www.google.com/design/spec/material-design/introduction.html
 
-# 参与步骤（页尾有详细的过程演示）
+
+### 参与步骤（页尾有详细的过程演示）
 * fork主仓库（https://github.com/1sters/material_design_zh）
 * 按照章节（页面）认领翻译(每次申请一个章节)，在下面这个`README.md`里找还没有被人申请的章节，写上（@你的github号），给主仓库的`master`分支提pull request；
 * 提的pull request 被确认，合并到主仓库后，代表你申请的章节*占位*完成，开始翻译；
@@ -19,7 +22,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 * 校核完成后，从主仓库的`master`分支合并到主`publish`分支；
 * 全部翻译完成后，生成PDF文档和网页发布；
 
-# 翻译协作规范
+### 翻译协作规范
 为了让大家协作顺畅，需要每一个人遵循如下协作规范~
 
 - 使用markdown进行翻译，文件名必须使用英文，因为中文的话gitbook编译的时候会出问题
@@ -33,13 +36,17 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 - https://help.github.com/articles/markdown-basics
 - https://help.github.com/articles/github-flavored-markdown
-# 目录
+
+***
+
+## 认领章节记录
+认领章节的同学在这里标示（参考已有的标示规范）~
 
 * Material Design 
-  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl) at 2014.6.26
+  * [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
 * Animation
-  * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) √ by [zhenbeiju](https://github.com/zhenbeiju) at 2014.6.26
-  * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html)
+  * [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
+  * [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
   * [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html)
   * [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
 * Style
@@ -48,7 +55,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Icons](http://www.google.com/design/spec/style/icons.html)  √ by Haoxiqiang
   * [Imagery](http://www.google.com/design/spec/style/imagery.html)
 * Layout
-  * [Principles](http://www.google.com/design/spec/layout/layout-principles.html)
+  * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)
   * [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html)
   * [Structure](http://www.google.com/design/spec/layout/structure.html)
 * Components
@@ -80,18 +87,19 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Usability
   * [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)
 * Resources
-  * [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html)
+  * [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) 1% by [iceskysl](https://github.com/iceskysl)
   * [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html)
   * [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html)
   * [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html)
 
 
-#协作过程演示
+***
+##协作过程演示
 
-## fork主仓库
+### fork主仓库
 打开https://github.com/1sters/material_design_zh ，fork一份自己的仓库；
 
-## 初始化本地仓库
+### 初始化本地仓库
 
 ```sh
 iceskysls-MacBook-Pro:1sters iceskysl$ git clone git@github.com:IceskYsl/material_design_zh.git
@@ -104,7 +112,7 @@ Checking connectivity... done.
 iceskysls-MacBook-Pro:1sters iceskysl$ cd material_design_zh
 ```
 
-## 添加远程主仓库
+### 添加远程主仓库
 
 ```sh
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git remote add upstream https://github.com/1sters/material_design_zh.git
@@ -114,7 +122,7 @@ origin	git@github.com:IceskYsl/material_design_zh.git (push)
 upstream	https://github.com/1sters/material_design_zh.git (fetch)
 upstream	https://github.com/1sters/material_design_zh.git (push)
 ```
-## 和远程主仓库保持更新
+### 和远程主仓库保持更新
 
 ```sh
 iceskysls-MacBook-Pro:material_design_zh iceskysl$ git fetch upstream
@@ -133,7 +141,7 @@ Fast-forward
  create mode 100644 SOURCE/SUMMARY.md
 ```
 
-## 推送本地修改到自己的远端仓库
+### 推送本地修改到自己的远端仓库
 
 ```sh
  iceskysls-MacBook-Pro:material_design_zh iceskysl$ git st
@@ -159,7 +167,93 @@ To git@github.com:IceskYsl/material_design_zh.git
  * [new branch]      master -> master
 ```
 
-## 发Pull Request
+### 发Pull Request
  
 推送自己的远端仓库（master分支)到主仓库（master分支)
 
+
+***
+
+## 目录结构
+```sh
+├── README.md
+├── SUMMARY.md
+├── cover.jpg
+├── cover_small.jpg
+├── material-design
+│   ├── images
+│   │   ├── materialdesign-goals-cutrectangles_large_mdpi.png
+│   │   ├── materialdesign-goals-landingimage_large_mdpi.png
+│   │   ├── materialdesign-goals-swirlanddot_large_mdpi.png
+│   │   ├── materialdesign-principles-circleplus_large_mdpi.png
+│   │   ├── materialdesign-principles-flyingsquare_large_mdpi.png
+│   │   └── materialdesign-principles-layersquares_large_mdpi.png
+│   └── introduction.md
+├── animation
+│   ├── authentic-motion.md
+│   ├── delightful-details.md
+│   ├── meaningful-transitions.md
+│   └── responsive-interaction.md
+├── style
+│   ├── color.md
+│   ├── icons.md
+│   ├── imagery.md
+│   └── typography.md
+├── layout
+│   ├── layout-principles.md
+│   ├── metrics-and-keylines.md
+│   └── structure.md
+├── components
+│   ├── bottom-sheets.md
+│   ├── buttons.md
+│   ├── cards.md
+│   ├── chips-tokens.md
+│   ├── dialogs.md
+│   ├── dividers.md
+│   ├── grids.md
+│   ├── list-controls.md
+│   ├── lists.md
+│   ├── menus.md
+│   ├── progress-activity.md
+│   ├── sliders.md
+│   ├── snackbars-and-toasts.md
+│   ├── subheaders.md
+│   ├── switches.md
+│   ├── tabs.md
+│   ├── text-fields.md
+│   └── tooltips.md
+├── patterns
+│   ├── gestures.md
+│   ├── imagery-treatment.md
+│   ├── promoted-actions.md
+│   ├── search.md
+│   ├── selection.md
+│   └── settings.md
+└── usability
+    └── accessibility.md
+├── resources
+│   ├── color-palettes.md
+│   ├── layout-templates.md
+│   ├── roboto-font.md
+│   └── sticker-sheets.md
+```
+
+***
+
+## 常见问题
+
+###代码如何处理
+使用markdown的代码规范处理，如
+```html
+<div class="hey">...</div>
+```
+
+###图片如何处理
+在章（如components）下创建`images`目录，将图片原文件名（如materialdesign-goals-cutrectangles_large_mdpi.png）存到该目录下，然后在文档中这样调用
+`![ALT文字](images/materialdesign-goals-landingimage_large_mdpi.png)`
+
+###视频如何处理
+视频在markdown中可以这样处理
+```html
+<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" controls="controls"></video>
+```
