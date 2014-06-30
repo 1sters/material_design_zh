@@ -3,3 +3,4 @@ _book
 ebooks
 _site/
 Gemfile.lock
+script/
