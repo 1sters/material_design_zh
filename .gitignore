@@ -4,3 +4,4 @@ ebooks
 _site/
 Gemfile.lock
 material_design
+script/

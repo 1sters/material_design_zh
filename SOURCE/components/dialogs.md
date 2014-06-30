@@ -1,3 +1,9 @@
+---
+layout: page
+title: 提示框(Dialogs)
+permalink: dialogs.html
+---
+
 # 提示框(Dialogs)
 
 

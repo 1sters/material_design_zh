@@ -4,7 +4,7 @@ title: 选择(Selection)
 permalink: selection.html
 ---
 
-#选择
+#选择(Selection)
 
 ##项选择
 
