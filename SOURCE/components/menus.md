@@ -64,22 +64,22 @@
 这些动画演示了菜单的滚动和级联。
 
 
-<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls="controls"></video>
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls="controls"></video>
 
 
 下拉
 
-<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
 
 
 文本框下拉
 
-<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-appbar_dropdown2_spec_large_xhdpi.webm" controls="controls"></video>
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-appbar_dropdown2_spec_large_xhdpi.webm" controls="controls"></video>
 
 
 应用工具条下拉
 
-<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
 
 
 级联下拉
