@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 概述
-permalink: material-design/introduction.html
+permalink: introduction.html
 ---
 
 概述
