@@ -1,9 +1,3 @@
----
-layout: page
-title: 有意义的转场动画
-permalink: animation/meaningful-transitions.html
----
-
 有意义的转场动画
 ===============
 

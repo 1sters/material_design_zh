@@ -1,9 +1,3 @@
----
-layout: page
-title: 图标
-permalink: icons.html
----
-
 # 图标
 ===================
 ## 系统图标

@@ -1,9 +1,3 @@
----
-layout: page
-title: 概述
-permalink: promoted-actions.html
----
-
 #模式
 ##促进的动作
 ###浮动按钮

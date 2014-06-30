@@ -1,9 +1,3 @@
----
-layout: page
-title: 交互响应
-permalink: animation/responsive-interaction.html
----
-
 
 #<font color="#9D1BB2">交互响应</font></br>
 
@@ -15,11 +9,11 @@ permalink: animation/responsive-interaction.html
 * 虽然UI元素是有形的，但是他们被限制在屏幕里面，而可视化的动画效果填补了空缺，让用户感觉与UI的交互更直接</br>
 交互相应把一个应用从简单的信息传达提升到能与用户产生更强烈、更具体化交互的工具.
 
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-responsiveinteraction-2-celebratetouch-localized-ink-reaction2_large_xhdpi.webm" controls="controls" width="360" loop height="450"></video>
+<video src="http://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-responsiveinteraction-2-celebratetouch-localized-ink-reaction2_large_xhdpi.mp4" controls="controls" width="360" loop height="450"></video>
 
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.webm" controls="controls" width="360" loop height="450"></video>
+<video src="http://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.mp4" controls="controls" width="360" loop height="450"></video>
 
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsive-interation-radialReact-example_large_xhdpi.webm" controls="controls" width="360" loop height="450"></video>
+<video src="http://material-design.storage.googleapis.com/videos/animation-responsive-interation-radialReact-example_large_xhdpi.mp4" controls="controls" width="360" loop height="450"></video>
 
 ===================
 
@@ -30,9 +24,9 @@ permalink: animation/responsive-interaction.html
 
 在输入事件对应的位置上，例如：在手指点击位置 或者讲话的时候，屏幕上麦克风的图标位置，形成一个可视化的形状扩散。
 
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-inkreactions-touchripplepressandrelease_large_xhdpi.webm" controls="controls" width="360" loop height="450"></video></br>点击/释放</br>
+<video src="http://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-touchripplepressandrelease_large_xhdpi.mp4" controls="controls" width="360" loop height="450"></video></br>点击/释放</br>
 
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-inkreactions-touchrippledragindragout_large_xhdpi.webm" controls="controls" width="360" loop height="450"></video></br>拖动</br>
+<video src="http://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-touchrippledragindragout_large_xhdpi.mp4" controls="controls" width="360" loop height="450"></video></br>拖动</br>
 
 =============
 
@@ -44,15 +38,15 @@ permalink: animation/responsive-interaction.html
 #####原点
 </br>
 当物体相应用户的操作的时候，物体的展开应该基于交互位置（例如点击屏幕的点击位置）
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsive-surfaceresponse-pointorigin-do_example_large_xhdpi.webm" controls="controls" width="360" loop height="450"></video></br>
+<video src="http://material-design.storage.googleapis.com/videos/animation-responsive-surfaceresponse-pointorigin-do_example_large_xhdpi.mp4" controls="controls" width="360" loop height="450"></video></br>
 <span style="background-color:#48B04B" width="360" height="30" ><font color="#48B04B">==============================================</font></span></br><font color="#48B04B"><b>正确</b></font>
 </br>物体从点击的位置展开</br>
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsive-surfaceresponse-pointorigin-dont_example_large_xhdpi.webm" controls="controls" width="360" loop height="450"></video></br><span style="background-color:#F7412D" width="360" height="30"><font color="#F7412D">==============================================</font></span></br><font color="#F7412D"><b>错误</b></font></br>物体从屏幕正中央出现，用户无法把点击和物体联系上</br>
+<video src="http://material-design.storage.googleapis.com/videos/animation-responsive-surfaceresponse-pointorigin-dont_example_large_xhdpi.mp4" controls="controls" width="360" loop height="450"></video></br><span style="background-color:#F7412D" width="360" height="30"><font color="#F7412D">==============================================</font></span></br><font color="#F7412D"><b>错误</b></font></br>物体从屏幕正中央出现，用户无法把点击和物体联系上</br>
 
 #####点击浮动
 </br>
 独立的小控件在激活的时候 应该浮起以表明进入激活状态。</br>
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.webm" controls="controls" width="360" loop height="450"></video></br>
+<video src="http://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.mp4" controls="controls" width="360" loop height="450"></video></br>
 点击浮动
 
 ===============

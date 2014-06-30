@@ -1,9 +1,3 @@
----
-layout: page
-title: 设置
-permalink: settings.html
----
-
 #模式
 ##设置
 ###设置
