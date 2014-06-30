@@ -4,18 +4,10 @@ title: 工具提示(Tooltips)
 permalink: tooltips.html
 ---
 
-**工具提示(Tooltips)**
-
-> **目录**
-
-> [用法](#tooltips_usage)
-
-> [光标和键盘的工具提示](#tooltips_cursor_keyboard)
-
-> [触摸UI的工具提示](#tooltips_touch)
+# 工具提示(Tooltips)
 
 
-<h3 id="tooltips_usage">用法</h3>
+## 用法
 
 对同时满足以下条件的元素使用工具提示(Tooltips)：
 
@@ -44,10 +36,7 @@ permalink: tooltips.html
 
 ![](images/components-tooltips-usage-tooltips_13b_large_mdpi.png)
 
-
-----------
-
-<h3 id="tooltips_cursor_keyboard">光标和键盘的工具提示</h3>
+## 光标和键盘的工具提示
 
 文本: Roboto Medium 10 sp
 
@@ -62,9 +51,7 @@ permalink: tooltips.html
 <video width="720" height="270" loop="true" controls="controls"
 src="http://materialdesign.qiniudn.com/videos/components-tooltips-cursorkeyboardtooltips-tooltips_005_large_xhdpi.webm" ></video>
 
-----------
-
-<h3 id="tooltips_touch">触摸UI的工具提示</h3>
+## 触摸UI的工具提示
 
 文本: Roboto Medium 14 sp
 
