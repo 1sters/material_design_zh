@@ -1,3 +1,9 @@
+---
+layout: page
+title: 开关
+permalink: switches.html
+---
+
 # 开关
 
 开关允许用户选择选择项。一共有三种类型的开关：复选框、单选按钮和 on/off 开关。
