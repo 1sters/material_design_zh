@@ -85,16 +85,16 @@ Tabs 归类并且每组 tabs 是依次与他们的内容连接起来。
 
 向下箭头表示内容已经被收起，向上箭头表示内容已经被展开。
 
-![](components-tabs-usage-tabs_do_06_large_mdpi)  
+![](images/components-tabs-usage-tabs_do_06_large_mdpi.png)  
 要  
 
-![](components-tabs-usage-tabs_dont_06_large_mdpi.png)  
+![](images/components-tabs-usage-tabs_dont_06_large_mdpi.png)  
 不要  
 
-![](components-tabs-usage-tabs_do_08_large_mdpi.png)  
+![](images/components-tabs-usage-tabs_do_08_large_mdpi.png)  
 要  
 
-![](components-tabs-usage-tabs_dont_08_large_mdpi.png)  
+![](images/components-tabs-usage-tabs_dont_08_large_mdpi.png)  
 不要  
 
 ## 内容
@@ -135,9 +135,44 @@ Tabs 的最大数量是要以视图的宽度为限制。Fixed tabs 以最宽的 
 
 ![](images/components-tabs-usage-tabs-spec-13_large_mdpi.png)  
 
+## 规格
 
+### Fixed 和全屏的宽度
 
+Tab 宽度: 屏幕的 1/3     
+Tab Indicator: 2 dp 高度    
+Text: 14 sp Roboto 中号   
+文本在 tab 单元中居中   
+Active text color: #fff 或次要的颜色   
+Disabled text color: #fff 60%      
 
+![](images/components-tabs-typesoftabs-tabs-spec-04_large_mdpi.png)  
+
+### 可滚动的
+
+Tab 宽度: 12 dp + 文本宽度 + 12 dp    
+Tab Indicator: 2 dp 高度    
+文本: 14 sp Roboto 中号    
+Active text color: #fff 或间色(secondary color)   
+Disabled text color: #fff 60%   
+
+![](images/components-tabs-typesoftabs-tabs-spec-05_large_mdpi.png)      
+
+### 桌面/平板
+
+Tab Width: 24 dp + Word length + 24 dp   
+Tab Indicator: 2 dp height    
+文本: 14 sp 平板, 13 sp 桌面 Roboto 中号    
+Active text color: #fff 或间色(secondary color)
+Disabled text color: #fff 60%    
+
+![](images/components-tabs-typesoftabs-tabs-spec-10_large_mdpi.png)   
+
+### 按下 tab 时的动画
+
+<video crossorigin="anonymous"  loop  controls width="456" height="115">
+<source src="http://materialdesign.qiniudn.com/videos/components-tabs-spec-tabtouch-example_large_xhdpi.webm" type="video/webm">
+</video>
 
 
 
