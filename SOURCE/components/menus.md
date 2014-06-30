@@ -5,19 +5,10 @@ permalink: menus.html
 ---
 
 
-**菜单**
+# 菜单 #
 
-> **目录**
 
-> [用法](#menus_usage)
-
-> [菜单项](#menus_menu_items)
-
-> [行为](#menus_behavior)
-
-> [度量](#menus_metrics)
-
-<h3 id="menus_usage">用法</h3>
+## 用法 ##
 
 菜单是临时的一张纸（paper），由按钮（button）、动作（action）、点（pointer）或者包含至少两个菜单项的其他控件触发。
 
@@ -94,7 +85,7 @@ permalink: menus.html
 
 ----------
 
-<h3 id="menus_menu_itmes">菜单项</h3>
+## 菜单项 ##
 
 每一个菜单项限制为单行文本，并且能够说明在菜单项项选中时所发生的动作。
 
@@ -119,7 +110,7 @@ permalink: menus.html
 
 ----------
 
-<h3 id="menus_behavior">行为</h3>
+## 行为 ##
 
 菜单出现在所有的应用内部的UI元素之上。
 
@@ -176,29 +167,29 @@ permalink: menus.html
 
 ----------
 
-<h3 id="menus_metrics">度量</h3>
+## 度量 ##
 
 度量提供了多样的尺寸和类型菜单以及不同的平台。
 
-**移动设备**
+### 移动设备 ###
 
 
 ![](images/components-menus-metrics-menus-redlines-01_large_mdpi.png)
 
 
-**不同的宽度**
+### 不同的宽度 ###
 
 
 ![](images/components-menus-metrics-menus-redlines-02_large_mdpi.png)
 
 
-**级联菜单**
+### 级联菜单 ###
 
 
 ![](images/components-menus-metrics-menus-redlines-03_large_mdpi.png)
 
 
-**级联红线（Cascading redlines）**
+### 级联红线（Cascading redlines） ###
 
 
 ![](images/components-menus-metrics-menus-redlines-04_large_mdpi.png)

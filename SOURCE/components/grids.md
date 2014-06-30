@@ -4,22 +4,13 @@ title: 网格
 permalink: grids.html
 ---
 
-**网格**
+# 网格 #
 
 网格列表是一种标准列表视图的可选组件。网格列表与应用于布局和其他可视视图中的网格有着明显的区别。
 
-> **目录**
-
-> [用法](#grids_grid_usage)
-
-> [内容](#grids_grid_content)
-
-> [行为](#grids_grid_behavior)
-
-> [边框](#grids_grid_keylines)
 
 
-<h3 id="grids_grid_usage">用法</h3>
+## 用法 ##
 
 网格列表最适合用于**同类的数据类型（homogeneous data type）**，典型的如图片，并且对，比如数据类型的**可视化理解（visual comprehension ）**和区别进行了优化。
 
@@ -46,9 +37,9 @@ permalink: grids.html
 
 ----------
 
-<h3 id="grids_grid_content">内容</h3>
+## 内容 ##
 
-**瓦片中的内容**
+### 瓦片中的内容 ###
 
 瓦片内容包括主要内容（primary content）和次要内容(secondary content)。主要内容是有着重要区别的内容，典型的如图片。次要内容可以是一个动作按钮或者文本。
 
@@ -58,7 +49,7 @@ permalink: grids.html
 ![](images/components-grids-content-spec_grid_drawings_03_large_mdpi.png)
 
 
-**瓦片中的动作**
+### 瓦片中的动作 ###
 
 主要内容和次要内容中的动作--比如播放、放大、删除或者选择--是一种瞬时性动作，通常不会在网格列表中弹出选项子菜单（动作溢出列表，action voerflow）。
 
@@ -81,9 +72,9 @@ permalink: grids.html
 
 ----------
 
-<h3 id="grids_grid_behavior">行为</h3>
+## 行为 ##
 
-**滚动**
+### 滚动 ###
 
 网格典型的滚动只有垂直滚动。
 
@@ -105,17 +96,17 @@ permalink: grids.html
 
 （图片用来）说明砍去网格瓦片造成内容溢出
 
-**手势**
+### 手势 ###
 
 不允许使用猛击（swipe）手势。选中并移动（pick-up-and-move）动作不鼓励使用。
 
-**瓦片过滤与排序**
+### 瓦片过滤与排序 ###
 
 网格列表中的内容可以编程实现其过滤和排序，比如通过数据类型、文件大小、字母顺序或者其他参数等。
 
 网格中的第一个条目置于网格的左上角，并且其顺序为从左到右，自上而下。
 
-**维度与重置尺寸**
+### 维度与重置尺寸 ###
 
 重置网格列表的尺寸会导致瓦片在有水平空间可用时重新排序。但是瓦片并不会缩放以填充可用的水平空间。
 
@@ -124,9 +115,9 @@ permalink: grids.html
 
 ----------
 
-<h3 id="grids_grid_keylines">边框</h3>
+## 边框 ##
 
-**网格列表表头/表尾（header/footers）**
+### 网格列表表头/表尾（header/footers ###）
 
 **单行表头/表尾**
 
@@ -153,7 +144,7 @@ permalink: grids.html
 ![](images/components-grids-keylines-Grid_footer_overview_01b_large_mdpi.png)
 
 
-**仅有图片的网格列表**
+### 仅有图片的网格列表 ###
 
 网格内边距： 4dp
 
@@ -165,14 +156,14 @@ permalink: grids.html
 ![](images/components-grids-keylines-imageOnlyGrid_01_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-imageOnlyGrid_03_large_mdpi.png)
 
 
 
-**单行网格列表**
+### 单行网格列表 ###
 
 **仅有文本**
 
@@ -191,7 +182,7 @@ permalink: grids.html
 ![](images/components-grids-keylines-SingleLineGrid_01b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-SingleLineGrid_02_large_mdpi.png)
@@ -216,7 +207,7 @@ permalink: grids.html
 ![](images/components-grids-keylines-SingleLineGrid_03b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-SingleLineGrid_03c_large_mdpi.png)
@@ -228,7 +219,7 @@ permalink: grids.html
 ![](images/components-grids-keylines-SingleLineGrid_04_large_mdpi.png)
 
 
-**两行网格列表**
+### 两行网格列表 ###
 
 **仅有文本**
 
@@ -247,13 +238,13 @@ permalink: grids.html
 ![](images/components-grids-keylines-TwoLineGrid_01b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-TwoLineGrid_02_large_mdpi.png)
 
 
-内容
+**内容**
 
 **带有图标的文本**
 
@@ -274,7 +265,7 @@ permalink: grids.html
 ![](images/components-grids-keylines-TwoLineGrid_03b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-TwoLineGrid_03c_large_mdpi.png)
@@ -285,4 +276,4 @@ permalink: grids.html
 
 ![](images/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)
 
-内容
+**内容**
