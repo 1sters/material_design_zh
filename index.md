@@ -4,9 +4,15 @@ title: Material Design
 permalink: index.html
 ---
 
+## 写在前面
+
+Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平台的设计语言规范，对从业人员意义重大，我们正通过互联网的方式将其翻译成中文~
+
+我们欢迎每一个人参与进来一起翻译和校队~~
+如果想做出贡献(翻译或者校对)的话，请加QQ群：137198122，谢谢！
 
 
-## 目录大纲
+## 目录
 
 * Material Design 
   * [概述](material_design/material-design/introduction.html) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
@@ -60,14 +66,23 @@ permalink: index.html
 
 ***
 
-## 贡献者
+## 参与者（按认领章节排序）
 
-<ul>
-{% for member in site.data.members %}
-  <li>
-    <a href="https://github.com/{{ member.github }}">
-      {{ member.name }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
+- [iceskysl](https://github.com/iceskysl)
+- [zhenbeiju](https://github.com/zhenbeiju)
+- [7heaven](https://github.com/7heaven)
+- [Jingsha](https://github.com/jingsha)
+- [com360](https://github.com/com360)
+- [arjinmc](https://github.com/arjinmc)
+- [acely](https://github.com/acely)
+- [Haoxiqiang](https://github.com/haoxiqiang)
+- [lhyqy5](https://github.com/lhyqy5)
+- [vincent4j](https://github.com/vincent4j)
+- [CodeDiving](http://github.com/codediving)
+- [donlianggit](https://github.com/donlianggit)
+- [ThatMrL](https://github.com/ThatMrL)
+- [Kris](https://github.com/krislq)
+- [SamanthaChou](https://github.com/SamanthaChou)
+- [marshluca](https://github.com/marshluca)
+- [ZeroLu](https://github.com/ZeroLu)
+- [fortianwei](https://github.com/fortianwei)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 交互响应
-permalink: animation/responsive-interaction.html
+permalink: responsive-interaction.html
 ---
 
 

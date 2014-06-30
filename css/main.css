@@ -41,7 +41,7 @@ a:visited { color: #205caa; }
 /* Site header */
 
 .site-header {
-  border-top: 5px solid #333;
+/*  border-top: 5px solid #333;*/
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   background-color: white;
@@ -77,7 +77,7 @@ a:visited { color: #205caa; }
 
 .site-footer {
   border-top: 1px solid #e8e8e8;
-  padding: 30px 0;
+  padding: 10px 0;
 }
 
 .footer-heading {
@@ -88,6 +88,9 @@ a:visited { color: #205caa; }
 }
 
 .site-footer .column { float: left; margin-bottom: 15px; }
+
+.site-footer .wrap{text-align: center;}
+.site-footer .wrap a{color: #727272;font-size: 12px;}
 
 .footer-col-1 {
   width: 270px; /*fallback*/
