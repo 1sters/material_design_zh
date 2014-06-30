@@ -15,7 +15,7 @@ permalink: tooltips.html
 > [触摸UI的工具提示](#tooltips_touch)
 
 
-<h3 id=tooltips_usage">用法</h3>
+<h3 id="tooltips_usage">用法</h3>
 
 对同时满足以下条件的元素使用工具提示(Tooltips)：
 
@@ -47,7 +47,7 @@ permalink: tooltips.html
 
 ----------
 
-<h3 id=tooltips_cursor_keyboard">光标和键盘的工具提示</h3>
+<h3 id="tooltips_cursor_keyboard">光标和键盘的工具提示</h3>
 
 文本: Roboto Medium 10 sp
 
@@ -64,7 +64,7 @@ src="http://materialdesign.qiniudn.com/videos/components-tooltips-cursorkeyboard
 
 ----------
 
-<h3 id=tooltips_touch">触摸UI的工具提示</h3>
+<h3 id="tooltips_touch">触摸UI的工具提示</h3>
 
 文本: Roboto Medium 14 sp
 
