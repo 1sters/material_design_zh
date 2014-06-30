@@ -3,7 +3,7 @@
 ## 颜色
 
 <br/>
-![SystemIcons icon](images/style-color-colorstory-01_large_mdpi.png)
+![SystemIcons icon](images/style-color-colorstory-01_large_xhdpi.png)
 <br/>
 系统图标或者UI界面中的图标都象征着命令,文件,设备或者目录.系统图标也被用来表示一些常见功能,比如清空垃圾桶,打印或者保存.
 系统图标的设计要简洁友好,有潮流感,有时候也可以设计的古怪幽默一点.要把很多含义精简到一个很简化的图标上表达出来,当然要保证在这么小的尺寸下,图标的意义仍然是清晰易懂的。
