@@ -1,3 +1,9 @@
+---
+layout: page
+title: 学习指南
+permalink: guide.html
+---
+
 Material Design 学习指南
 ====================
 
