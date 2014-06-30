@@ -2,8 +2,8 @@
 title: Material Design@中文版
 email: admin@1sters.com
 description: "Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平台的设计语言规范，对从业人员意义重大，我们正通过互联网的方式将其翻译成中文~"
-# baseurl: "http://design.1sters.com"
-baseurl: ""
+baseurl: "http://design.1sters.com"
+# baseurl: ""
 highlighter: ""
 url: "http://1sters.github.io"
 exclude: ["SOURCE", "script", "Gemfile", "Gemfile.lock"]
