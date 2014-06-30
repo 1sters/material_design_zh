@@ -1,3 +1,10 @@
+---
+layout: page
+title: 底部窗口
+permalink: bottom-sheets.html
+---
+# 底部窗口
+
 底部窗口（bottom sheets）是一个从屏幕底部边缘向上滑出的一个对话框，使用这种方式向用户呈现一组功能。底部窗口呈现了简单、清晰、无需额外解释的一组操作。
 
 
