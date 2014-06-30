@@ -15,6 +15,8 @@ permalink: responsive-interaction.html
 * 虽然UI元素是有形的，但是他们被限制在屏幕里面，而可视化的动画效果填补了空缺，让用户感觉与UI的交互更直接</br>
 交互相应把一个应用从简单的信息传达提升到能与用户产生更强烈、更具体化交互的工具.
 
+
+
 <video src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-responsiveinteraction-2-celebratetouch-localized-ink-reaction2_large_xhdpi.webm" controls="controls" width="360" loop height="450"></video>
 
 <video src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.webm" controls="controls" width="360" loop height="450"></video>
