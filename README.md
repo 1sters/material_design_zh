@@ -17,7 +17,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 如果想做出贡献(翻译或者校对)的话，请加QQ群：137198122，谢谢！
 
 原文文档：
-http://www.google.com/design/spec/material-design/introduction.html
+<http://www.google.com/design/spec/material-design/introduction.html>
 
 
 ### 参与步骤（页尾有详细的过程演示）
@@ -40,8 +40,8 @@ http://www.google.com/design/spec/material-design/introduction.html
 
 如果不熟悉的Markdown的，请参考
 
-- https://help.github.com/articles/markdown-basics
-- https://help.github.com/articles/github-flavored-markdown
+- <https://help.github.com/articles/markdown-basics>
+- <https://help.github.com/articles/github-flavored-markdown>
 
 ***
 
@@ -57,7 +57,7 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Delightful Details](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) 1% by [com360](https://github.com/com360)
 * Style
   * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
-  * [Typography](http://www.google.com/design/spec/style/typography.html) 1% By [acely](https://github.com/acely)
+  * [Typography](http://www.google.com/design/spec/style/typography.html) 1% by [acely](https://github.com/acely)
   * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html)  √ by [Haoxiqiang](https://github.com/haoxiqiang)
   * [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)
 * Layout
@@ -68,9 +68,9 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) √ by [com360](https://github.com/com360)
   * [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [7heaven](https://github.com/7heaven)
   * [Cards](http://www.google.com/design/spec/components/cards.html) 1% by [ThatMrL](https://github.com/ThatMrL)
-  * [Chips](http://www.google.com/design/spec/components/chips-tokens.html) 1% by [Kris](https://github.com/krislq)
-  * [Dialogs](http://www.google.com/design/spec/components/dialogs.html) 1% by [Kris](https://github.com/krislq)
-  * [Dividers](http://www.google.com/design/spec/components/dividers.html) 1% by [Kris](https://github.com/krislq)
+  * [纸片-Chips](SOURCE/components/chips.md) - [Chips](http://www.google.com/design/spec/components/chips.html) √ by [Kris](https://github.com/krislq)
+  * [提示框-Dialogs](SOURCE/components/dialogs.md) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html) √ by [Kris](https://github.com/krislq)
+  * [分隔线-Dividers](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html) √ by [Kris](https://github.com/krislq)
   * [网格](SOURCE/components/grids.md)--[Grids](http://www.google.com/design/spec/components/grids.html) 99% by [CodeDiving](http://github.com/codediving)
   * [列表](SOURCE/components/lists.md)--[Lists](http://www.google.com/design/spec/components/lists.html) 99% by [CodeDiving](http://github.com/codediving)
   * [List controls](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [Jingsha](https://github.com/jingsha)
@@ -252,18 +252,24 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ***
 
-## 参与者(持续补充）
+## 参与者（按认领章节排序）
 - [iceskysl](https://github.com/iceskysl)
-- [vincent4j](https://github.com/vincent4j)
-- [Kris](https://github.com/krislq)
 - [zhenbeiju](https://github.com/zhenbeiju)
-- [Haoxiqiang](https://github.com/haoxiqiang)
-- [CodeDiving](https://github.com/codeDiving)
 - [7heaven](https://github.com/7heaven)
-- [com360](https://github.com/com360)
 - [Jingsha](https://github.com/jingsha)
+- [com360](https://github.com/com360)
+- [arjinmc](https://github.com/arjinmc)
+- [acely](https://github.com/acely)
+- [Haoxiqiang](https://github.com/haoxiqiang)
+- [lhyqy5](https://github.com/lhyqy5)
+- [vincent4j](https://github.com/vincent4j)
+- [CodeDiving](http://github.com/codediving)
+- [donlianggit](https://github.com/donlianggit)
 - [ThatMrL](https://github.com/ThatMrL)
-- [DonLiangGit](https://github.com/donlianggit)
+- [Kris](https://github.com/krislq)
+- [SamanthaChou](https://github.com/SamanthaChou)
+- [marshluca](https://github.com/marshluca)
+- [ZeroLu](https://github.com/ZeroLu)
 - [fortianwei](https://github.com/fortianwei)
 
 ***
