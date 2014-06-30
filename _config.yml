@@ -1,10 +1,11 @@
 # Site settings
 title: Material Design@中文版
 email: admin@1sters.com
-description: "Material Design中文版."
-baseurl: "http://iceskysl.github.io/material_design_zh/"
+description: "Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平台的设计语言规范，对从业人员意义重大，我们正通过互联网的方式将其翻译成中文~"
+baseurl: "http://1sters.github.io/material_design_zh/"
+# baseurl: ""
 highlighter: ""
-url: "http://iceskysl.github.io/material_design_zh/"
+url: "http://1sters.github.io/material_design_zh/"
 
 # Build settings
 markdown: kramdown
