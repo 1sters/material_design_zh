@@ -1,3 +1,10 @@
+---
+layout: page
+title: 菜单
+permalink: menus.html
+---
+
+
 **菜单**
 
 > **目录**
