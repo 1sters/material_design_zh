@@ -1,3 +1,9 @@
+---
+layout: page
+title: 工具提示(Tooltips)
+permalink: tooltips.html
+---
+
 **工具提示(Tooltips)**
 
 > **目录**
