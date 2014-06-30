@@ -55,12 +55,12 @@ permalink: grids.html
 
 动作可以打开一个随后的视图，比如卡片或者悬浮卡片（hovercard）。
 
-### 主要动作 ###
+**主要动作**
 
 - 充满整个瓦片，因此不会通过图标或者文本呈现。
 - 在指定的网格中，所有瓦片的动作是一致的。比如，在单个网格中，对于所有瓦片的主要动作可以用于查看图片的详细信息。
 
-### 次要动作或者内容 ###
+**次要动作或者内容**
 
 - 通过图标或者文本呈现出来。
 - 在指定的网格中，所有瓦片的动作是一致的。
@@ -156,7 +156,7 @@ permalink: grids.html
 ![](images/components-grids-keylines-imageOnlyGrid_01_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-imageOnlyGrid_03_large_mdpi.png)
@@ -182,7 +182,7 @@ permalink: grids.html
 ![](images/components-grids-keylines-SingleLineGrid_01b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-SingleLineGrid_02_large_mdpi.png)
@@ -207,7 +207,7 @@ permalink: grids.html
 ![](images/components-grids-keylines-SingleLineGrid_03b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-SingleLineGrid_03c_large_mdpi.png)
@@ -238,13 +238,13 @@ permalink: grids.html
 ![](images/components-grids-keylines-TwoLineGrid_01b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-TwoLineGrid_02_large_mdpi.png)
 
 
-内容
+**内容**
 
 **带有图标的文本**
 
@@ -265,7 +265,7 @@ permalink: grids.html
 ![](images/components-grids-keylines-TwoLineGrid_03b_large_mdpi.png)
 
 
-元素
+**元素**
 
 
 ![](images/components-grids-keylines-TwoLineGrid_03c_large_mdpi.png)
@@ -276,4 +276,4 @@ permalink: grids.html
 
 ![](images/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)
 
-内容
+**内容**
