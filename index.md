@@ -12,6 +12,12 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 如果想做出贡献(翻译或者校对)的话，请加QQ群：137198122，谢谢！
 
 
+## Material Design演示
+
+<video crossorigin="anonymous"  loop  controls width="600" height="337">
+<source src="http://materialdesign.qiniudn.com/Material%20design.mp4" type="video/webm">
+</video>
+
 ## 目录
 * Material Design 
   * [概述](material_design/material-design/introduction.html) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
