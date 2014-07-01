@@ -3,7 +3,7 @@
 * Material Design 
   * [Introduction](material-design/introduction.md)
 * Animation
-  * [Authentic Motion](animation/authentic-motion.md) by [zhenbeiju](https://github.com/zhenbeiju)
+  * [Authentic Motion](animation/authentic-motion.md)
   * [Responsive Interaction](animation/responsive-interaction.md)
   * [Meaningful Transitions](animation/meaningful-transitions.md)
   * [Delightful Details](animation/delightful-details.md)
