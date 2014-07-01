@@ -27,7 +27,7 @@ permalink: color.html
   
 ### 选择你的调色板
 
-通过在调色板中限制你选择的原色和强调色，以及在它们之间选出来的中间色，这三种颜色中选出你想要的颜色。强调色倒退色调可有可无。
+通过在调色板中限制你选择的原色和强调色，以及在它们之间选出来的中间色，这三种颜色中选出你想要的颜色。强调色用于后备可有可无。
   
 ![choose1 icon](images/style-color-colorapplication-color_application-01a_large_mdpi.png)  
 ![choose2 icon](images/style-color-colorapplication-color_application-01b_large_mdpi.png)  
@@ -56,9 +56,9 @@ permalink: color.html
 ![choose6 icon](images/style-color-colorapplication-color_application-05_large_mdpi.png)  
 ![choose7 icon](images/style-color-colorapplication-color_application-08_large_mdpi.png)  
   
-### 倒退强调色
+### 后备强调色
 
-如果你的强调色相对于背景色太亮或者太暗，根据倒退的规则应该去选一个比原来更暗或更亮的颜色。如果你的强调色无法正常显示，倒退色会使用500原色值的白色。如果背景是原色值为500的颜色，倒退色应该是100%的白色或者54%的黑色。
+如果你的强调色相对于背景色太亮或者太暗，根据后备的规则应该去选一个比原来更暗或更亮的颜色。如果你的强调色无法正常显示，后备色会使用500原色值的白色。如果背景是原色值为500的颜色，后备色应该是100%的白色或者54%的黑色。
   
 ![choose8 icon](images/style-color-colorapplication-color_application-04_large_mdpi.png)  
   
