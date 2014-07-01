@@ -15,6 +15,13 @@ permalink: color.html
 ## 用户界面调色板
   
 调色板以原色为开始，填补了频谱来建立一个完整的色块，可用的调色板为Android，Web和iOS的。原色值的范围是500以内。
+![choose11 icon](images/style-color-palette-1.png)  
+![choose12 icon](images/style-color-palette-2.png)    
+![choose13 icon](images/style-color-palette-3.png)  
+![choose14 icon](images/style-color-palette-4.png)  
+![choose15 icon](images/style-color-palette-5.png)  
+![choose16 icon](images/style-color-palette-6.png)  
+![choose17 icon](images/style-color-palette-7.png)  
     
 ## 用户界面颜色应用
   
