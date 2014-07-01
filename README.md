@@ -75,7 +75,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) √ by [CodeDiving](http://github.com/codediving)
   * [List controls](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [Jingsha](https://github.com/jingsha)（空白）
   * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) √ by [CodeDiving](http://github.com/codediving)
-  * [Progress and Activity](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)（空白）
+  * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) √ by [SamanthaChou](https://github.com/SamanthaChou)
   * [Sliders](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)（空白）
   * [Snackbars and Toasts](SOURCE/components/snackbars-and-toasts.md) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) 1% by [ThatMrL](https://github.com/ThatMrL)（空白）
   * [副标题](SOURCE/components/subheaders.md) - [Subheaders](http://www.google.com/design/spec/components/subheaders.html) √ by [marshluca](https://github.com/marshluca)
