@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 颜色
+title: 色彩
 permalink: color.html
 ---
   
-# 颜色
+# 色彩
   
 ![SystemIcons icon](images/style-color-colorstory-01_large_xhdpi.png)   
   
