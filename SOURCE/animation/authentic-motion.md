@@ -10,11 +10,19 @@
 ##最佳实践##
 一个严重的挑战是‘动作’在‘material design’中如何完整的展现物体的各个真实的特性，譬如 优雅、易用、美好和神奇的无缝的用户体验，下面是个动画简介，帮助大家理解这些理念。
 http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.mp4
+<video crossorigin="anonymous"  loop  controls width="740" height="270">
+<source src="http://materialdesign.qiniudn.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.mp4 type="video/webm">
+</video>
+
 好
 
-迅速的加速和温柔的减速会感到自然和愉快
+迅速的加速和平滑的减速会感到自然和愉快
 
-http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex2_large_xhdpi.mp4
+
+<video crossorigin="anonymous"  loop  controls width="740" height="270">
+<source src="http://materialdesign.qiniudn.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex2_large_xhdpi.mp4 type="video/webm">
+</video>
+
 不好
 
 线性动作感到机械，在结尾和开始的地方生硬的速度变化意味着物体突然开始运动或停止，这是不贴合现实的。
@@ -22,18 +30,23 @@ http://material-design.storage.googleapis.com/videos/animation-authentic-motion-
 
 ###特殊情况：进入和退出的场景###
 
-当一个物体进入这个场景时，请确保它移动在它的最高速度下，这个行为模拟了自然移动：一个人进入这个场景的视图，并不是从场景的边缘开始走入的，而是从更远的地方。当然，一个物体退出这个场景时，需要维持它的速度，缓慢的离开场景。容易的进入和缓慢的离开会吸引用户的注意力到这个动作上，在大多数情况下，这是你希望的效果。
+当一个物体进入这个场景时，请确保它移动在它的最高速度下，这个行为模拟了自然移动：一个人进入这个场景的视图，并不是从场景的边缘开始走入的，而是从更远的地方。当然，一个物体退出这个场景时，需要维持它的速度，缓慢的离开场景，容易的进入和缓慢的离开会吸引用户的注意力到这个动作上，在大多数情况下，这是你希望的效果。
 
 http://material-design.storage.googleapis.com/videos/videos-authenticMotion_massAndWeight_ex3_do_large_xhdpi.mp4
+<video crossorigin="anonymous"  loop  controls width="740" height="270">
+<source src="http://materialdesign.qiniudn.com/videos/videos-authenticMotion_massAndWeight_ex3_do_large_xhdpi.mp4 type="video/webm">
+
 *好*
 
 *小球进入和退出场景在最大的速度下，制造了一个确信的过渡效果。*
 
 http://material-design.storage.googleapis.com/videos/animation-authenticmotion-massandweight-authenticmotion_massandweight_example6_large_xhdpi.mp4
+<video crossorigin="anonymous"  loop  controls width="740" height="270">
+<source src="http://materialdesign.qiniudn.com/videos/animation-authenticmotion-massandweight-authenticmotion_massandweight_example6_large_xhdpi.mp4 type="video/webm">
 
 *不好*
 
-*快速进入和缓慢离开，不会使用户注意力转移到速度上。*
+*快速进入和缓慢离开，不会使用户注意力转移到速度变化上。*
 
 
 ##需要做的调整##
