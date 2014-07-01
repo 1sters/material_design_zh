@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: 促进的动作
 permalink: promoted-actions.html
