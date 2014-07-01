@@ -194,7 +194,9 @@ Raised Dark/Dark Color
 
 ![p35](  images/components-buttons-mobile-dropdowns-3_large_xhdpi.png)
  
-<video src="http://material-design.storage.googleapis.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.mp4" controls="controls" width="360" loop height="450" />  
+<video crossorigin="anonymous"  loop  controls width="359" height="401">
+<source src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" type="video/webm">
+</video>  
  
 **桌面下拉相关**  
 
