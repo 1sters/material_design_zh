@@ -4,4 +4,4 @@ ebooks
 epub_tmp
 _site/
 Gemfile.lock
-script/
+script/publish
