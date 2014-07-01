@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: 影像处理
 permalink: imagery-treatment.html
