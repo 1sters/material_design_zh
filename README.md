@@ -71,11 +71,11 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [纸片](SOURCE/components/chips.md) - [Chips](http://www.google.com/design/spec/components/chips.html) √ by [Kris](https://github.com/krislq)
   * [提示框](SOURCE/components/dialogs.md) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html) √ by [Kris](https://github.com/krislq)
   * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html) √ by [Kris](https://github.com/krislq)
-  * [网格](SOURCE/components/grids.md)--[Grids](http://www.google.com/design/spec/components/grids.html) 99% by [CodeDiving](http://github.com/codediving)
-  * [列表](SOURCE/components/lists.md)--[Lists](http://www.google.com/design/spec/components/lists.html) 99% by [CodeDiving](http://github.com/codediving)
-  * [List controls](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [Jingsha](https://github.com/jingsha)
-  * [菜单](SOURCE/components/menus.md)--[Menus](http://www.google.com/design/spec/components/menus.html) 99% by [CodeDiving](http://github.com/codediving)
-  * [Progress and Activity](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)
+  * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html) √ by [CodeDiving](http://github.com/codediving)
+  * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) √ by [CodeDiving](http://github.com/codediving)
+  * [List controls](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [Jingsha](https://github.com/jingsha)（空白）
+  * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) √ by [CodeDiving](http://github.com/codediving)
+  * [Progress and Activity](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)（空白）
   * [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)
   * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) 1% by [ThatMrL](https://github.com/ThatMrL)
   * [Subheaders](http://www.google.com/design/spec/components/subheaders.html) 1% by [marshluca](https://github.com/marshluca)
