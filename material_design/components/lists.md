@@ -14,10 +14,10 @@ permalink: lists.html
 瓦片中存放内容，并且在列表中可以改变高度。
 
 
-![](images/components-lists-1_large_mdpi.png)
+![](images/components-lists-1_large_mdpi.png)  
 
 
-![](images/components-lists-2_large_mdpi.png)
+![](images/components-lists-2_large_mdpi.png)  
 
 
 列表最适合应用于显示**同类的数据类型或者数据类型组（homogeneous data type or sets of data types）**，比如图片和文本，目标是区分多个数据类型数据或单一类型的数据特性，使得理解起来更加简单。
@@ -27,10 +27,9 @@ permalink: lists.html
 如果内容的主要区别来源于图片，换用网格列表（grid list）。
 
 
-![](images/components-lists-3_large_mdpi.png)
+![](images/components-lists-3_large_mdpi.png)  
 
 
-----------
 
 ## 内容 ##
 
@@ -43,7 +42,7 @@ permalink: lists.html
 与瓦片的左侧和多行内容中的瓦片内的第一行相比较，更偏向于瓦片中的有明显区别的内容。
 
 
-![](images/components-lists-4_large_mdpi.png)
+![](images/components-lists-4_large_mdpi.png)  
 
 
 ### 文本动作 ###
@@ -70,10 +69,8 @@ permalink: lists.html
 避免不断在瓦片中使用额外动作来制造“噪声”，比如在每个瓦片中显示分享动作按钮。触发按钮，比如星标（starts）或者置顶（pins）是一个特例，因为它们通过显示状态来呈现出有效的信息。
 
 
-![](images/components-lists-5_large_mdpi.png)
+![](images/components-lists-5_large_mdpi.png)  
 
-
-----------
 
 ## 行为 ##
 
@@ -94,32 +91,30 @@ permalink: lists.html
 列表瓦片可以通过数据、文件大小、字母顺序或者其它参数来编程改变其顺序或者实现过滤。
 
 
-![](images/components-lists-6_large_mdpi.png)
+![](images/components-lists-6_large_mdpi.png)  
 
 
 要(Do)
 
 
-![](images/components-lists-7_large_mdpi.png)
+![](images/components-lists-7_large_mdpi.png)  
 
 
 不要（Don't）
 
-
-----------
 
 ## 边框 ##
 
 在**单行列表**中，每个瓦片包含了单行的文本。文本字数可以在同一列表的不同瓦片间改变。
 
 
-![](images/components-keylinesinlists-1_large_mdpi.png)
+![](images/components-keylinesinlists-1_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-keylinesinlists-2_large_mdpi.png)
+![](images/components-keylinesinlists-2_large_mdpi.png)  
 
 
 **内容**
@@ -127,13 +122,13 @@ permalink: lists.html
 在**两行列表**中，每个瓦片最多包含两行的文本。文本字数可以在同一列表的不同瓦片间改变。
 
 
-![](images/components-keylinesinlists-3_large_mdpi.png)
+![](images/components-keylinesinlists-3_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-keylinesinlists-4_large_mdpi.png)
+![](images/components-keylinesinlists-4_large_mdpi.png)  
 
 
 **内容**
@@ -143,13 +138,13 @@ permalink: lists.html
 文本的字数可以在同一列表的不同瓦片间改变。
 
 
-![](images/components-keylinesinlists-5_large_mdpi.png)
+![](images/components-keylinesinlists-5_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-keylinesinlists-6_large_mdpi.png)
+![](images/components-keylinesinlists-6_large_mdpi.png)  
 
 
 **内容**
@@ -167,18 +162,18 @@ permalink: lists.html
 在列表的上部和下部添加8dp的内边距。一个特例是在带有表头条目（subheader）的列表上部，因为表头条目包含了它们自己的内边距。
 
 
-![](images/components-singlelinelists-1_large_mdpi.png)
+![](images/components-singlelinelists-1_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-singlelinelists-2_large_mdpi.png)
+![](images/components-singlelinelists-2_large_mdpi.png)  
 
 **元素**
 
 
-![](images/components-singlelinelists-6_large_mdpi.png)
+![](images/components-singlelinelists-6_large_mdpi.png)  
 
 
 **内容**
@@ -198,18 +193,18 @@ permalink: lists.html
 在列表的上部和下部添加8dp的内边距。一个特例是在带有表头条目（subheader）的列表上部，因为表头条目包含了它们自己的内边距。
 
 
-![](images/components-singlelinelists-7_large_mdpi.png)
+![](images/components-singlelinelists-7_large_mdpi.png)  
 
 **元素**
 
 
-![](images/components-singlelinelists-8_large_mdpi.png)
+![](images/components-singlelinelists-8_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-singlelinelists-3_large_mdpi.png)
+![](images/components-singlelinelists-3_large_mdpi.png)  
 
 
 **内容**
@@ -229,19 +224,19 @@ permalink: lists.html
 在列表的上部和下部添加8dp的内边距。一个特例是在带有表头条目（subheader）的列表上部，因为表头条目包含了它们自己的内边距。
 
 
-![](images/components-singlelinelists-7_large_mdpi.png)
+![](images/components-singlelinelists-7_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-singlelinelists-8_large_mdpi.png)
+![](images/components-singlelinelists-8_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-singlelinelists-11_large_mdpi.png)
+![](images/components-singlelinelists-11_large_mdpi.png)  
 
 
 **内容**
@@ -261,19 +256,19 @@ permalink: lists.html
 在列表的上部和下部添加8dp的内边距。一个特例是在带有表头条目（subheader）的列表上部，因为表头条目包含了它们自己的内边距。
 
 
-![](images/components-recommendedtwolinelists-1_large_mdpi.png)
+![](images/components-recommendedtwolinelists-1_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedtwolinelists-2_large_mdpi.png)
+![](images/components-recommendedtwolinelists-2_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedtwolinelists-3_large_mdpi.png)
+![](images/components-recommendedtwolinelists-3_large_mdpi.png)  
 
 
 **内容**
@@ -298,19 +293,19 @@ permalink: lists.html
 在列表的上部和下部添加8dp的内边距。一个特例是在带有表头条目（subheader）的列表上部，因为表头条目包含了它们自己的内边距。
 
 
-![](images/components-recommendedtwolinelists-6_large_mdpi.png)
+![](images/components-recommendedtwolinelists-6_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedtwolinelists-7_large_mdpi.png)
+![](images/components-recommendedtwolinelists-7_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedtwolinelists-8_large_mdpi.png)
+![](images/components-recommendedtwolinelists-8_large_mdpi.png)  
 
 
 **内容**
@@ -335,19 +330,19 @@ permalink: lists.html
 在列表的上部和下部添加8dp的内边距。一个特例是在带有表头条目（subheader）的列表上部，因为表头条目包含了它们自己的内边距。
 
 
-![](images/components-recommendedtwolinelists-9_large_mdpi.png)
+![](images/components-recommendedtwolinelists-9_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedtwolinelists-10_large_mdpi.png)
+![](images/components-recommendedtwolinelists-10_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedtwolinelists-11_large_mdpi.png)
+![](images/components-recommendedtwolinelists-11_large_mdpi.png)  
 
 
 **内容**
@@ -367,19 +362,19 @@ permalink: lists.html
 在列表的上部和下部添加8dp的内边距。一个特例是在带有表头条目（subheader）的列表上部，因为表头条目包含了它们自己的内边距。
 
 
-![](ages/components-recommendedthreelinelists-1_large_mdpi.png)
+![](ages/components-recommendedthreelinelists-1_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedthreelinelists-2_large_mdpi.png)
+![](images/components-recommendedthreelinelists-2_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedthreelinelists-3_large_mdpi.png)
+![](images/components-recommendedthreelinelists-3_large_mdpi.png)  
 
 
 **内容**
@@ -404,19 +399,19 @@ permalink: lists.html
 在列表的上部和下部添加8dp的内边距。一个特例是在带有表头条目（subheader）的列表上部，因为表头条目包含了它们自己的内边距。
 
 
-![](images/components-recommendedthreelinelists-6_large_mdpi.png)
+![](images/components-recommendedthreelinelists-6_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedthreelinelists-7_large_mdpi.png)
+![](images/components-recommendedthreelinelists-7_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedthreelinelists-10_large_mdpi.png)
+![](images/components-recommendedthreelinelists-10_large_mdpi.png)  
 
 
 **内容**
@@ -443,19 +438,19 @@ permalink: lists.html
 在列表的上部和下部添加8dp的内边距。一个特例是在带有表头条目（subheader）的列表上部，因为表头条目包含了它们自己的内边距。
 
 
-![](images/components-recommendedthreelinelists-8_large_mdpi.png)
+![](images/components-recommendedthreelinelists-8_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedthreelinelists-9_large_mdpi.png)
+![](images/components-recommendedthreelinelists-9_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-recommendedthreelinelists-12_large_mdpi.png)
+![](images/components-recommendedthreelinelists-12_large_mdpi.png)  
 
 
 **内容**
