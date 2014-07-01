@@ -12,7 +12,7 @@ permalink: imagery-treatment.html
 
 在交错的期间，插图和照片可以在三个维度下载入和过渡，而不是只依靠透明度的改变。调节等级是为了达到曝光上的低对比度和颜色上的低饱和度。在最后的阶段，图片只有在透明度已经达到100%之后，才会达到一个全彩色的饱和度。较暗图像的低对比度的效果是伽马值的升高和黑色通道输出的升高组合产生的。   
 
-![](images/patterns-imagetreatment-imageload1_large_mdpi.png)      
+![](images/patterns-ImageTreatment-ImageLoad-1graph_large_mdpi.png)          
 
 ![](images/patterns-imagetreatment-imageload2_large_mdpi.png)    
 低透明度和低对比度                        
