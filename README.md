@@ -61,7 +61,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html) 90% by [Haoxiqiang](https://github.com/haoxiqiang)（还剩一段未翻译）  
   * [Imagery](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)（空白）
 * Layout
-  * [Principles](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)（空白）
+  * [Principles](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [lightlz](https://github.com/lightlz)（空白）
   * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [CodeDiving](http://github.com/codediving)
   * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) 80% by [donlianggit](https://github.com/donlianggit)（需从繁体转化成简体）
 * Components
@@ -262,13 +262,14 @@ To git@github.com:IceskYsl/material_design_zh.git
 - [acely](https://github.com/acely)
 - [Haoxiqiang](https://github.com/haoxiqiang)
 - [lhyqy5](https://github.com/lhyqy5)
-- [vincent4j](https://github.com/vincent4j)
+- [lightlz](https://github.com/lightlz)
 - [CodeDiving](http://github.com/codediving)
 - [donlianggit](https://github.com/donlianggit)
 - [ThatMrL](https://github.com/ThatMrL)
 - [Kris](https://github.com/krislq)
 - [SamanthaChou](https://github.com/SamanthaChou)
 - [marshluca](https://github.com/marshluca)
+- [vincent4j](https://github.com/vincent4j)
 - [ZeroLu](https://github.com/ZeroLu)
 - [fortianwei](https://github.com/fortianwei)
 
