@@ -56,7 +56,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [有意义的转场动画](SOURCE/animation/meaningful-transitions.md) - [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) √ by [Jingsha](https://github.com/jingsha)
   * [Delightful Details](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) 1% by [com360](https://github.com/com360)
 * Style
-  * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
+  * [色彩](SOURCE/style/color.md) - [Color](http://www.google.com/design/spec/style/color.html) √ by [arjinmc](https://github.com/arjinmc)
   * [Typography](http://www.google.com/design/spec/style/typography.html) 1% by [acely](https://github.com/acely)
   * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html)  √ by [Haoxiqiang](https://github.com/haoxiqiang)
   * [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)
