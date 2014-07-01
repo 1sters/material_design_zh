@@ -206,7 +206,7 @@ permalink: promoted-actions.html
 ![](images/patterns-promotedactions-placementFAB31_large_mdpi.png)      
 不要                    
   
-不要用零食条和吐司（译者注：原文snackbars or toasts，是两种UI元素,具体可以查看Componnent>Snackbars and Toasts里的解释）把浮动按钮挡住。    
+不要用零食条和吐司（译者注：原文snackbars or toasts，是两种UI元素,具体可以查看Componnent>Snackbars and Toasts里的解释）把浮动按钮挡住。   
    
 ![](images/patterns-promotedactions-placement13do1_large_mdpi.png)      
 要   
