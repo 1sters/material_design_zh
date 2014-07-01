@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			]
+		],
+		"width": 599.0
+	},
+	"console":
+	{
+		"height": 255.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/source/1sters/material_design_zh/_layouts/page.html",
+		"/source/1sters/material_design_zh/index.md",
+		"/source/1sters/material_design_zh/material_design/material-design/introduction.md",
+		"/source/1sters/material_design_zh/_config.yml",
+		"/source/1sters/material_design_zh/script/update.sh",
+		"/source/1sters/material_design_zh/SOURCE/patterns/settings.md",
+		"/source/1sters/material_design_zh/SOURCE/patterns/promoted-actions.md",
+		"/source/1sters/material_design_zh/CNAME",
+		"/source/1sters/material_design_zh/SOURCE/components/bottom-sheets.md",
+		"/source/1sters/material_design_zh/SOURCE/animation/responsive-interaction.md",
+		"/source/1sters/material_design_zh/SOURCE/animation/meaningful-transitions.md",
+		"/source/1sters/material_design_zh/css/main.css",
+		"/source/1sters/material_design_zh/_includes/head.html",
+		"/source/1sters/material_design_zh/SOURCE/material-design/introduction.md",
+		"/source/1sters/material_design_zh/_site/README.md",
+		"/source/1sters/material_design_zh/_site/index.html",
+		"/source/1sters/material_design_zh/_plugins/md_converter.rb",
+		"/source/1sters/material_design_zh/Gemfile",
+		"/source/1sters/material_design_zh/README.md",
+		"/source/1sters/material_design_zh/SOURCE/style/icons.md",
+		"/source/1sters/material_design_zh/Guide.md",
+		"/source/1sters/material_design_zh/_datas/members.yml",
+		"/source/1sters/material_design_zh/_datas/contributors.yml",
+		"/source/1sters/material_design_zh/_plugins/rhg_textile_converter.rb",
+		"/Users/iceskysl/Desktop/API_Overview.md",
+		"/Users/iceskysl/Dropbox/eoer/books/The Swift Programming Language/提纲",
+		"/source/github/campo/app/views/users/index.html.slim",
+		"/source/github/campo/config/application.rb",
+		"/source/github/campo/script/setup.sh",
+		"/source/github/campo/lib/tasks/elasticseach.rake",
+		"/source/github/campo/app/controllers/admin/application_controller.rb",
+		"/source/github/campo/app/views/topics/show.html.slim",
+		"/source/github/campo/config/locales/zh-CN.yml",
+		"/source/github/campo/config/routes.rb",
+		"/source/github/campo/config/locales/zh-TW.yml",
+		"/source/github/campo/config/locales/en.yml",
+		"/source/github/campo/INSTALL",
+		"/source/github/campo/README.md",
+		"/source/github/campo/.gitignore",
+		"/Users/iceskysl/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/source/github/campo/config/config.yml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".css",
+			"page/",
+			"](/",
+			".mp4",
+			"material-design.storage.googleapis.com",
+			".md",
+			"SOURCE/",
+			".mp4",
+			"aterial-design.storage.googleapis.com",
+			"img",
+			"Principles",
+			"user",
+			"topics",
+			"h2",
+			"32",
+			"h2, .h2",
+			"index",
+			"sidekiq",
+			"settings",
+			"admin@example.com",
+			"admin_emails",
+			"mono_logger"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"material_design/",
+			"](page/",
+			".webm",
+			"materialdesign.qiniudn.com",
+			".html",
+			"/",
+			".webm",
+			"materialdesign.qiniudn.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"in",
+				"INSTALL"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"topic",
+				"app/models/topic.rb"
+			],
+			[
+				"set",
+				"script/setup.sh"
+			],
+			[
+				"con",
+				"config/config.yml"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"confirmation",
+				"app/views/user_mailer/confirmation.html.slim"
+			],
+			[
+				"notificationmailer",
+				"app/mailers/notification_mailer.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}
