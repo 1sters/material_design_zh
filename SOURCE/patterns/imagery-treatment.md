@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 影像处理
 permalink: imagery-treatment.html
@@ -56,5 +56,6 @@ permalink: imagery-treatment.html
 <video crossorigin="anonymous"  loop  controls width="720" height="720">
 <source src="http://materialdesign.qiniudn.com/videos/patterns-imagerytreatment-adding-animation_large_xhdpi.webm" type="video/webm">
 </video>
+
 
 
