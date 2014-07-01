@@ -8,13 +8,10 @@ permalink: typography.html
 
 ##Roboto
 
-自从Ice Cream Sandwich发布以来, Roboto都被作为Android系统的默认字体集。在这个版本中，将Roboto做了进一步全面优化，以适配更广泛的平台。它变得稍宽了一点，并进行了轻微圆化，进一步提升了清晰度，让阅读更加舒适。
-![style-typography-roboto-typography.roboto2_specimen_large_mdpi](images/style-typography-roboto-typography.roboto2_specimen_large_mdpi.png)
+自从Ice Cream Sandwich发布以来, Roboto都被作为Android系统的默认字体集。在这个版本中，将Roboto做了进一步全面优化，以适配更广泛的平台。它变得稍宽了一点，并进行了轻微圆化，进一步提升了清晰度，让阅读更加舒适。  
+![style-typography-roboto-typography.roboto2_specimen_large_mdpi](images/style-typography-roboto-typography.roboto2_specimen_large_mdpi.png)  
 
-[Roboto字体](downloads/RobotoTTF.zip)
-1.21 MB (.zip)
-
---- 
+[Roboto字体 - 1.21 MB(.zip)](http://materialdesign.qiniudn.com/downloads/RobotoTTF.zip)    
 
 ##标准样式（Standard Styles）
 
