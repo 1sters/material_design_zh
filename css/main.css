@@ -187,7 +187,8 @@ a:visited { color: #205caa; }
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
-
+.post-content video {margin: 2px 0;}
+.post-content p {margin: 2px 20px 20px 0px;}
 
 .post-content h1,
 .post-content h2,
@@ -223,6 +224,16 @@ a:visited { color: #205caa; }
   letter-spacing: -1px;
   font-style: italic;
   margin: 30px 0;
+}
+
+.post-content ul li{
+  font-size: 18px;
+  font-weight: 120;
+}
+
+.post-content ul li ul li{
+  font-size: 16px;
+  font-weight: 80;
 }
 
 .post-content ul,
