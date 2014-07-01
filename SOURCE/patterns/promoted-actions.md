@@ -1,6 +1,12 @@
-#模式
-##促进的动作
-###浮动按钮
+﻿---
+layout: page
+title: 促进的动作
+permalink: promoted-actions.html
+---
+
+# 促进的动作
+
+##浮动按钮
 浮动按钮是一个促进动作的一个特殊案例。它像一个圆形的标识浮在所有界面之上，并且在改变、启动、转换锚点时有特殊的动作，这使浮动按钮与其他的按钮相区别。  
 有两种大小的浮动按钮：默认大小和迷你版的。迷你版的浮动按钮只应该在需要和屏幕上的其他元素产生视觉上的延续性时使用。   
 ![](images/patterns-promotedactions-floatingactionbuttonFAB02b_large_mdpi.png)&nbsp;
@@ -172,7 +178,7 @@
 ![](images/patterns-promotedactions-placementFAB31_large_mdpi.png)
 <br>
 错误                  
-不要用零食条和吐司（snackbars or toasts）把浮动按钮挡住。   
+不要用零食条和吐司（译者注：原文snackbars or toasts，是两种UI元素,具体可以查看Componnent>Snackbars and Toasts里的解释）把浮动按钮挡住。   
 ![](images/patterns-promotedactions-placement13do1_large_mdpi.png)
 <br> 
 正确                    

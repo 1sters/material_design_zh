@@ -1,3 +1,9 @@
+---
+layout: page
+title: 学习指南
+permalink: guide.html
+---
+
 Material Design 学习指南
 ====================
 
@@ -17,16 +23,17 @@ Material Design 学习指南
 
 **Google Material Design文档**
 
-* 官方英文：http://www.google.com/design/spec/material-design/introduction.html
-* 中文翻译：https://github.com/1sters/material_design_zh
+* 官方英文：<http://www.google.com/design/spec/material-design/introduction.html>
+* 中文翻译：<https://github.com/1sters/material_design_zh>
 
 **Material Design@Android L Developer Preview**
-http://developer.android.com/preview/material/index.html
+<http://developer.android.com/preview/material/index.html>
 
 ## 文章
 
 * [Material Design：向拟物回跳一下的扁平化设计](http://zhuanlan.zhihu.com/bigertech/19787211) by 笔戈科技漫画师@8HPencil
 * [What Is Flat Design?](http://gizmodo.com/what-is-flat-design-508963228) by Kelsey Campbell-Dollaghan
+* [Google 设计师谈论 Material Design](http://www.ifanr.com/429330) by 爱范儿
 
 ## 讨论
 

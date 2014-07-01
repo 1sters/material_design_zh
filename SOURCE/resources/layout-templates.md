@@ -1,5 +1,10 @@
-布局模板(Layout Templates)
-===============
+---
+layout: page
+title: 布局模板
+permalink: layout-templates.html
+---
+
+# 布局模板(Layout Templates)
 
 ## 移动设备(Mobile)
 

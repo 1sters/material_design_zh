@@ -1,5 +1,10 @@
-Sticker Sheets
-=========================
+---
+layout: page
+title: Sticker Sheets
+permalink: sticker-sheets.html
+---
+
+# Sticker Sheets
 
 ## Structural Elements
 
