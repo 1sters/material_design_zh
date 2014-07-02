@@ -40,7 +40,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 如果不熟悉的Markdown的，请参考
 
-- <https://help.github.com/articles/markdown-basics>
+- <https://help.github.com/articles/markdownl-basics>
 - <https://help.github.com/articles/github-flavored-markdown>
 
 ***
@@ -59,7 +59,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [色彩](SOURCE/style/color.md) - [Color](http://www.google.com/design/spec/style/color.html) √ by [arjinmc](https://github.com/arjinmc)
   * [字体排版](SOURCE/style/typography.md) - [Typography](http://www.google.com/design/spec/style/typography.html) √ by [acely](https://github.com/acely)
   * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html) 90% by [Haoxiqiang](https://github.com/haoxiqiang)（还剩一段未翻译）  
-  * [Imagery](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)（空白）
+  * [图像](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html) 85% by [lhyqy5](https://github.com/lhyqy5)（部分句子未翻译）
 * Layout
   * [Principles](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [lightlz](https://github.com/lightlz)（空白）
   * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [CodeDiving](http://github.com/codediving)
@@ -89,7 +89,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [促进的动作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) √ by [ZeroLu](https://github.com/ZeroLu)
   * [设置](SOURCE/patterns/settings.md) - [Settings](http://www.google.com/design/spec/patterns/settings.html) √ by [ZeroLu](https://github.com/ZeroLu)
   * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) √ by [ZeroLu](https://github.com/ZeroLu)
-  * [Search](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html)  1% by [lhyqy5](https://github.com/lhyqy5)（空白）
+  * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html)  99% by [lhyqy5](https://github.com/lhyqy5)
 * Usability
   * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) √ by [fortianwei](https://github.com/fortianwei)
 * Resources
