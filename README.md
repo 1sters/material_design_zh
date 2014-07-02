@@ -253,6 +253,9 @@ To git@github.com:IceskYsl/material_design_zh.git
 ***
 
 ## 参与者（按认领章节排序）
+
+**翻译**
+
 - [iceskysl](https://github.com/iceskysl)
 - [zhenbeiju](https://github.com/zhenbeiju)
 - [7heaven](https://github.com/7heaven)
@@ -271,6 +274,10 @@ To git@github.com:IceskYsl/material_design_zh.git
 - [marshluca](https://github.com/marshluca)
 - [ZeroLu](https://github.com/ZeroLu)
 - [fortianwei](https://github.com/fortianwei)
+
+**校对**
+
+- [siton](https://github.com/siton)
 
 ***
 
