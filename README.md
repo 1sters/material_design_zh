@@ -63,7 +63,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 * Layout
   * [Principles](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [lightlz](https://github.com/lightlz)（空白）
   * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [CodeDiving](http://github.com/codediving)
-  * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) 80% by [donlianggit](https://github.com/donlianggit)（需从繁体转化成简体）
+  * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) √ by [donlianggit](https://github.com/donlianggit)
 * Components
   * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) √ by [com360](https://github.com/com360)
   * [按钮](SOURCE/components/buttons.md) - [Buttons](http://www.google.com/design/spec/components/buttons.html) 90% by [7heaven](https://github.com/7heaven)（图片改成 mdpi）
