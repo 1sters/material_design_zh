@@ -14,7 +14,7 @@ permalink: grids.html
 
 网格列表最适合用于**同类的数据类型（homogeneous data type）**，典型的如图片，并且对，比如数据类型的**可视化理解（visual comprehension ）**和区别进行了优化。
 
-![](images/components-grids-usage-spec_grid_drawings_01_large_mdpi.png)
+![](images/components-grids-usage-spec_grid_drawings_01_large_mdpi.png)  
 
 **网格列表**是一个连续元素（continuous element），该元素由棋盘式、规律性的小格子构成，通常称这些格子为**单元格（cells）**。单元格中包含有**瓦片（tiles）**。
 
@@ -22,10 +22,10 @@ permalink: grids.html
 
 瓦片用以存放内容，并且可以跨越一个或者多个垂直或者水平的单元格。
 
-![](images/components-grids-usage-spec_grid_drawings_02a_large_mdpi.png)
+![](images/components-grids-usage-spec_grid_drawings_02a_large_mdpi.png)  
 
 
-![](images/components-grids-usage-spec_grid_drawings_02b_large_mdpi.png)
+![](images/components-grids-usage-spec_grid_drawings_02b_large_mdpi.png)  
 
 
 如果瓦片中的文本需要与其他主要的内容有着足够显著的区别，可以考虑使用一个容器，比如列表（Lists）或者卡片（Cards）。这是显示文本、增强阅读理解的最佳方案。
@@ -34,8 +34,6 @@ permalink: grids.html
 
 **Cards：**用于不同格式的内容，比如带有不同高度题注的图片，或者应用于不同类内容的数据集合中，比如具有图片、视频和图书的混合式数据集。
 
-
-----------
 
 ## 内容 ##
 
@@ -46,7 +44,7 @@ permalink: grids.html
 为瓦片提供一个不带有主要内容的默认图片。
 
 
-![](images/components-grids-content-spec_grid_drawings_03_large_mdpi.png)
+![](images/components-grids-content-spec_grid_drawings_03_large_mdpi.png)  
 
 
 ### 瓦片中的动作 ###
@@ -67,10 +65,8 @@ permalink: grids.html
 - 在指定网格的瓦片中放置的位置是一致的，但是位置可能会在不同的网格（边角或者边界， corners or edges）间有变化。比如，网格中的所有瓦片可能放置在了左下角。
 
 
-![](images/components-grids-content-spec_grid_drawings_04_large_mdpi.png)
+![](images/components-grids-content-spec_grid_drawings_04_large_mdpi.png)  
 
-
-----------
 
 ## 行为 ##
 
@@ -83,16 +79,11 @@ permalink: grids.html
 砍去网格瓦片达到与滚动方向通信的目的会造成内容的溢出。
 
 
-![](images/components-grids-behavior-spec_grid_drawings_06_large_mdpi.png)
+![](images/components-grids-behavior-spec_grid_drawings_06_large_mdpi.png)  
+要  
 
-
-鼓励
-
-
-![](images/components-grids-behavior-spec_grid_drawings_05_large_mdpi.png)
-
-
-不提倡
+![](images/components-grids-behavior-spec_grid_drawings_05_large_mdpi.png)  
+不要   
 
 （图片用来）说明砍去网格瓦片造成内容溢出
 
@@ -113,7 +104,6 @@ permalink: grids.html
 当水平空间受限时，网格列表不会发生改变。网格列表与列表在强调不同数据类型时时不同的结构：图片优于文本与文本优于图片的区别。
 
 
-----------
 
 ## 边框 ##
 
@@ -138,10 +128,10 @@ permalink: grids.html
 每行的默认字体大小： 16sp/12sp或者14sp/14sp
 
 
-![](images/components-grids-keylines-Grid_footer_overview_01a_large_mdpi.png)
+![](images/components-grids-keylines-Grid_footer_overview_01a_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-Grid_footer_overview_01b_large_mdpi.png)
+![](images/components-grids-keylines-Grid_footer_overview_01b_large_mdpi.png)  
 
 
 ### 仅有图片的网格列表 ###
@@ -153,13 +143,13 @@ permalink: grids.html
 仔细考虑网格列表中的次要文本是否需要使用多列瓦片，因为大的瓦片可能会造成很大的空间浪费。
 
 
-![](images/components-grids-keylines-imageOnlyGrid_01_large_mdpi.png)
+![](images/components-grids-keylines-imageOnlyGrid_01_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-grids-keylines-imageOnlyGrid_03_large_mdpi.png)
+![](images/components-grids-keylines-imageOnlyGrid_03_large_mdpi.png)  
 
 
 
@@ -176,16 +166,16 @@ permalink: grids.html
 网格内边距： 4dp
 
 
-![](images/components-grids-keylines-SingleLineGrid_01a_large_mdpi.png)
+![](images/components-grids-keylines-SingleLineGrid_01a_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-SingleLineGrid_01b_large_mdpi.png)
+![](images/components-grids-keylines-SingleLineGrid_01b_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-grids-keylines-SingleLineGrid_02_large_mdpi.png)
+![](images/components-grids-keylines-SingleLineGrid_02_large_mdpi.png)  
 
 
 **带图标的文本**
@@ -201,22 +191,22 @@ permalink: grids.html
 网格列表表尾或者表头的中的次要文本可以右对齐或左对齐。
 
 
-![](images/components-grids-keylines-SingleLineGrid_03a_large_mdpi.png)
+![](images/components-grids-keylines-SingleLineGrid_03a_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-SingleLineGrid_03b_large_mdpi.png)
+![](images/components-grids-keylines-SingleLineGrid_03b_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-grids-keylines-SingleLineGrid_03c_large_mdpi.png)
+![](images/components-grids-keylines-SingleLineGrid_03c_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-SingleLineGrid_03d_large_mdpi.png)
+![](images/components-grids-keylines-SingleLineGrid_03d_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-SingleLineGrid_04_large_mdpi.png)
+![](images/components-grids-keylines-SingleLineGrid_04_large_mdpi.png)  
 
 
 ### 两行网格列表 ###
@@ -232,16 +222,16 @@ permalink: grids.html
 网格内边距： 4dp
 
 
-![](images/components-grids-keylines-TwoLineGrid_01a_large_mdpi.png)
+![](images/components-grids-keylines-TwoLineGrid_01a_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-TwoLineGrid_01b_large_mdpi.png)
+![](images/components-grids-keylines-TwoLineGrid_01b_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-grids-keylines-TwoLineGrid_02_large_mdpi.png)
+![](images/components-grids-keylines-TwoLineGrid_02_large_mdpi.png)  
 
 
 **内容**
@@ -259,21 +249,21 @@ permalink: grids.html
 网格内边距是4dp
 
 
-![](images/components-grids-keylines-TwoLineGrid_03a_large_mdpi.png)
+![](images/components-grids-keylines-TwoLineGrid_03a_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-TwoLineGrid_03b_large_mdpi.png)
+![](images/components-grids-keylines-TwoLineGrid_03b_large_mdpi.png)  
 
 
 **元素**
 
 
-![](images/components-grids-keylines-TwoLineGrid_03c_large_mdpi.png)
+![](images/components-grids-keylines-TwoLineGrid_03c_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-TwoLineGrid_03d_large_mdpi.png)
+![](images/components-grids-keylines-TwoLineGrid_03d_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)
+![](images/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)  
 
 **内容**

@@ -51,52 +51,52 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 * Material Design 
   * [概述](SOURCE/material-design/introduction.md) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
 * Animation
-  * [Authentic Motion](SOURCE/animation/authentic-motion.md) - [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 1% by [zhenbeiju](https://github.com/zhenbeiju)
+  * [真实的动作](SOURCE/animation/authentic-motion.md) - [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) √ by [zhenbeiju](https://github.com/zhenbeiju)
   * [交互响应](SOURCE/animation/responsive-interaction.md) - [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
-  * [有意义的转场动画](SOURCE/animation/meaningful-transitions.md) - [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) √ by [Jingsha](https://github.com/jingsha)
-  * [Delightful Details](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) 1% by [com360](https://github.com/com360)
+  * [有意义的转场动画](SOURCE/animation/meaningful-transitions.md) - [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) 90% by [Jingsha](https://github.com/jingsha)（部分视频缺省）    
+  * [让用户愉悦的细节](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) √ by [com360](https://github.com/com360)
 * Style
-  * [Color](http://www.google.com/design/spec/style/color.html) 1% by [arjinmc](https://github.com/arjinmc)
-  * [Typography](http://www.google.com/design/spec/style/typography.html) 1% by [acely](https://github.com/acely)
-  * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html)  √ by [Haoxiqiang](https://github.com/haoxiqiang)
-  * [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)
+  * [色彩](SOURCE/style/color.md) - [Color](http://www.google.com/design/spec/style/color.html) √ by [arjinmc](https://github.com/arjinmc)
+  * [字体排版](SOURCE/style/typography.md) - [Typography](http://www.google.com/design/spec/style/typography.html) √ by [acely](https://github.com/acely)
+  * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html) 90% by [Haoxiqiang](https://github.com/haoxiqiang)（还剩一段未翻译）  
+  * [Imagery](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)（空白）
 * Layout
-  * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)
-  * [度量与边框](SOURCE/layout/metrics-and-keylines.md)--[Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) 99% by [CodeDiving](http://github.com/codediving)
-  * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) 90% by [donlianggit](https://github.com/donlianggit)
+  * [Principles](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [lightlz](https://github.com/lightlz)（空白）
+  * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [CodeDiving](http://github.com/codediving)
+  * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) √ by [donlianggit](https://github.com/donlianggit)
 * Components
   * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) √ by [com360](https://github.com/com360)
-  * [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [7heaven](https://github.com/7heaven)
-  * [Cards](http://www.google.com/design/spec/components/cards.html) 1% by [ThatMrL](https://github.com/ThatMrL)
-  * [纸片-Chips](SOURCE/components/chips.md) - [Chips](http://www.google.com/design/spec/components/chips.html) √ by [Kris](https://github.com/krislq)
-  * [提示框-Dialogs](SOURCE/components/dialogs.md) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html) √ by [Kris](https://github.com/krislq)
-  * [分隔线-Dividers](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html) √ by [Kris](https://github.com/krislq)
-  * [网格](SOURCE/components/grids.md)--[Grids](http://www.google.com/design/spec/components/grids.html) 99% by [CodeDiving](http://github.com/codediving)
-  * [列表](SOURCE/components/lists.md)--[Lists](http://www.google.com/design/spec/components/lists.html) 99% by [CodeDiving](http://github.com/codediving)
-  * [List controls](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [Jingsha](https://github.com/jingsha)
-  * [菜单](SOURCE/components/menus.md)--[Menus](http://www.google.com/design/spec/components/menus.html) 99% by [CodeDiving](http://github.com/codediving)
-  * [Progress and Activity](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)
-  * [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)
-  * [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) 1% by [ThatMrL](https://github.com/ThatMrL)
-  * [Subheaders](http://www.google.com/design/spec/components/subheaders.html) 1% by [marshluca](https://github.com/marshluca)
-  * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) 80% by [vincent4j](https://github.com/vincent4j)
+  * [按钮](SOURCE/components/buttons.md) - [Buttons](http://www.google.com/design/spec/components/buttons.html) 90% by [7heaven](https://github.com/7heaven)（图片改成 mdpi）
+  * [卡片](SOURCE/components/cards.md) - [Cards](http://www.google.com/design/spec/components/cards.html) √ by [ThatMrL](https://github.com/ThatMrL)
+  * [纸片](SOURCE/components/chips.md) - [Chips](http://www.google.com/design/spec/components/chips.html) √ by [Kris](https://github.com/krislq)
+  * [提示框](SOURCE/components/dialogs.md) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html) √ by [Kris](https://github.com/krislq)
+  * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html) √ by [Kris](https://github.com/krislq)
+  * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html) √ by [CodeDiving](http://github.com/codediving)
+  * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) √ by [CodeDiving](http://github.com/codediving)
+  * [List controls](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [leiweibo](https://github.com/leiweibo)（空白）
+  * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) √ by [CodeDiving](http://github.com/codediving)
+  * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) √ by [SamanthaChou](https://github.com/SamanthaChou)
+  * [Sliders](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)（空白）
+  * [Snackbars and Toasts](SOURCE/components/snackbars-and-toasts.md) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) 1% by [ThatMrL](https://github.com/ThatMrL)（空白）
+  * [副标题](SOURCE/components/subheaders.md) - [Subheaders](http://www.google.com/design/spec/components/subheaders.html) √ by [marshluca](https://github.com/marshluca)
+  * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) √ by [vincent4j](https://github.com/vincent4j)
   * [Tabs](SOURCE/components/tabs.md) - [Tabs](http://www.google.com/design/spec/components/tabs.html) √ % by [vincent4j](https://github.com/vincent4j)
-  * [Text fields](SOURCE/components/text-fields.md) - [Text fields](http://www.google.com/design/spec/components/text-fields.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)
-  * [工具提示](SOURCE/components/tooltips.md) - [Tooltips](http://www.google.com/design/spec/components/tooltips.html) 99% by [lhyqy5](https://github.com/lhyqy5)
+  * [文本框](SOURCE/components/text-fields.md) - [Text fields](http://www.google.com/design/spec/components/text-fields.html) √ by [SamanthaChou](https://github.com/SamanthaChou)
+  * [工具提示](SOURCE/components/tooltips.md) - [Tooltips](http://www.google.com/design/spec/components/tooltips.html) √ by [lhyqy5](https://github.com/lhyqy5)
 * Patterns
-  * [选择](SOURCE/patterns/selection.md) - [Selection](http://www.google.com/design/spec/patterns/selection.html) 99% by [lhyqy5](https://github.com/lhyqy5)
-  * [Gestures](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html) 1% by [Jingsha](https://github.com/jingsha)
-  * [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) 90% by [ZeroLu](https://github.com/ZeroLu)
-  * [Settings](http://www.google.com/design/spec/patterns/settings.html) 90% by [ZeroLu](https://github.com/ZeroLu)
-  * [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) 90% by [ZeroLu](https://github.com/ZeroLu)
-  * [Search](http://www.google.com/design/spec/patterns/search.html)  1% by [lhyqy5](https://github.com/lhyqy5)
+  * [选择](SOURCE/patterns/selection.md) - [Selection](http://www.google.com/design/spec/patterns/selection.html) √ by [lhyqy5](https://github.com/lhyqy5)
+  * [Gestures](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html) 1% by [Jingsha](https://github.com/jingsha)（空白）
+  * [促进的动作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) √ by [ZeroLu](https://github.com/ZeroLu)
+  * [设置](SOURCE/patterns/settings.md) - [Settings](http://www.google.com/design/spec/patterns/settings.html) √ by [ZeroLu](https://github.com/ZeroLu)
+  * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) √ by [ZeroLu](https://github.com/ZeroLu)
+  * [Search](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html)  1% by [lhyqy5](https://github.com/lhyqy5)（空白）
 * Usability
-  * [Accessibility](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) 1% by [fortianwei](https://github.com/fortianwei)
+  * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) √ by [fortianwei](https://github.com/fortianwei)
 * Resources
-  * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) 90% by [iceskysl](https://github.com/iceskysl)
-  * [贴纸](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) 90% by [iceskysl](https://github.com/iceskysl)
-  * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) 90% by [iceskysl](https://github.com/iceskysl)
-  * [调色板](SOURCE/resources/color-palettes.md) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html) 90% by [iceskysl](https://github.com/iceskysl)
+  * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) √ by [iceskysl](https://github.com/iceskysl)
+  * [贴片集](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) √ by [iceskysl](https://github.com/iceskysl)
+  * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) √ by [iceskysl](https://github.com/iceskysl)
+  * [调色板](SOURCE/resources/color-palettes.md) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html) √ by [iceskysl](https://github.com/iceskysl)
 
 
 ***
@@ -262,13 +262,15 @@ To git@github.com:IceskYsl/material_design_zh.git
 - [acely](https://github.com/acely)
 - [Haoxiqiang](https://github.com/haoxiqiang)
 - [lhyqy5](https://github.com/lhyqy5)
-- [vincent4j](https://github.com/vincent4j)
+- [lightlz](https://github.com/lightlz)
 - [CodeDiving](http://github.com/codediving)
 - [donlianggit](https://github.com/donlianggit)
 - [ThatMrL](https://github.com/ThatMrL)
 - [Kris](https://github.com/krislq)
+- [leiweibo](https://github.com/leiweibo)
 - [SamanthaChou](https://github.com/SamanthaChou)
 - [marshluca](https://github.com/marshluca)
+- [vincent4j](https://github.com/vincent4j)
 - [ZeroLu](https://github.com/ZeroLu)
 - [fortianwei](https://github.com/fortianwei)
 

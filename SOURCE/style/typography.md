@@ -1,16 +1,17 @@
-#字体排版（Typography）
-
 ---
+layout: page
+title: 字体排版
+permalink: typography.html
+---
+
+# 字体排版（Typography）
 
 ##Roboto
 
-自从Ice Cream Sandwich发布以来, Roboto都被作为Android系统的默认字体集。在这个版本中，将Roboto做了进一步全面优化，以适配更广泛的平台。它变得稍宽了一点，并进行了轻微圆化，进一步提升了清晰度，让阅读更加舒适。
-![style-typography-roboto-typography.roboto2_specimen_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-roboto-typography.roboto2_specimen_large_mdpi.png)
+自从Ice Cream Sandwich发布以来, Roboto都被作为Android系统的默认字体集。在这个版本中，将Roboto做了进一步全面优化，以适配更广泛的平台。它变得稍宽了一点，并进行了轻微圆化，进一步提升了清晰度，让阅读更加舒适。  
+![style-typography-roboto-typography.roboto2_specimen_large_mdpi](images/style-typography-roboto-typography.roboto2_specimen_large_mdpi.png)  
 
-[Roboto字体](http://material-design.storage.googleapis.com/downloads/RobotoTTF.zip)
-1.21 MB (.zip)
-
---- 
+[Roboto字体 - 1.21 MB(.zip)](http://materialdesign.qiniudn.com/downloads/RobotoTTF.zip)    
 
 ##标准样式（Standard Styles）
 
@@ -21,44 +22,44 @@
 
 这些尺寸和样式在传统应用场合中让内容密度和阅读舒适度取得平衡。字体尺寸是通过SP（可缩放像素数，scaleable pixels）指定的，让大尺寸字体获得更好的[可接受度](../usability/accessibility.md)。
 
-![style-typography1_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography1_large_mdpi.png)
+![style-typography1_large_mdpi](images/style-typography-01_large_mdpi.png)
 
-![style-typography-8_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-8_large_mdpi.png)
-![style-typography2_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography2_large_mdpi.png)
+![style-typography-8_large_mdpi](images/style-typography-08_large_mdpi.png)
+![style-typography2_large_mdpi](images/style-typography-02_large_mdpi.png)
 
 “显示（Display）”样式的例子
 
-![style-typography4_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography4_large_mdpi.png)
-![style-typography5_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography5_large_mdpi.png)
+![style-typography4_large_mdpi](images/style-typography-04_large_mdpi.png)
+![style-typography5_large_mdpi](images/style-typography-05_large_mdpi.png)
 
 “纲要（Headline）”样式的例子
 
 不论其余因素如何变化，App Bar中出现的所有标题都要使用“标题”样式。
 
-![style-typography6_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography6_large_mdpi.png)
-![style-typography7_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography7_large_mdpi.png)
+![style-typography6_large_mdpi](images/style-typography-06_large_mdpi.png)
+![style-typography7_large_mdpi](images/style-typography-07_large_mdpi.png)
 
 “标题（Title）”样式的例子
 
 在某些特定场合中，要使用“次要标题”样式，而不用较小的“主体”样式。这些个体包含了一小段文字预览，或者有标题与一行“主体”样式的文字一同出现。
 
-![style-typography9_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography9_large_mdpi.png)
-![style-typography-23_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-23_large_mdpi.png)
+![style-typography9_large_mdpi](images/style-typography-09_large_mdpi.png)
+![style-typography-23_large_mdpi](images/style-typography-23_large_mdpi.png)
 
 “次要标题（Subhead）”样式的例子
 
-![style-typography10_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography10_large_mdpi.png)
-![style-typography11_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography11_large_mdpi.png)
+![style-typography10_large_mdpi](images/style-typography-10_large_mdpi.png)
+![style-typography11_large_mdpi](images/style-typography-11_large_mdpi.png)
 
 “主体（Body）”样式的例子
 
-![style-typography12_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography12_large_mdpi.png)
-![style-typography13_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography13_large_mdpi.png)
+![style-typography12_large_mdpi](images/style-typography-12_large_mdpi.png)
+![style-typography13_large_mdpi](images/style-typography-13_large_mdpi.png)
 
 “主体（Body）”样式的例子
 
-![style-typography14_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography14_large_mdpi.png)
-![style-typography15_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography15_large_mdpi.png)
+![style-typography14_large_mdpi](images/style-typography-14_large_mdpi.png)
+![style-typography15_large_mdpi](images/style-typography-15_large_mdpi.png)
 
 “按钮（Button）”样式的例子
 
@@ -70,13 +71,13 @@
 
 这些色彩的组合同样要考虑到某些非典型用户对于对比度的反应。
 
-![style-typography-16_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-16_large_mdpi.png)
+![style-typography-16_large_mdpi](images/style-typography-16_large_mdpi.png)
 
-![style-typography-17_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-17_large_mdpi.png)
-![style-typography-18_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-18_large_mdpi.png)
+![style-typography-17_large_mdpi](images/style-typography-17_large_mdpi.png)
+![style-typography-18_large_mdpi](images/style-typography-18_large_mdpi.png)
 
-![style-typography-19_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-19_large_mdpi.png)
-![style-typography-20_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-20_large_mdpi.png)
+![style-typography-19_large_mdpi](images/style-typography-19_large_mdpi.png)
+![style-typography-20_large_mdpi](images/style-typography-20_large_mdpi.png)
 
 ###大号字/动态字体尺寸（Big Type / Dynamic Type sizes）
 
@@ -86,27 +87,27 @@
 
 非常不推荐轻率地的使用小号字来适配较小的容器，除非万不得已。
 
-![style-typography-21_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-21_large_mdpi.png)
-![style-typography-22_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-22_large_mdpi.png)
+![style-typography-21_large_mdpi](images/style-typography-21_large_mdpi.png)
+![style-typography-22_large_mdpi](images/style-typography-22_large_mdpi.png)
 样例对比
 
-![style-typography-23_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-23_large_mdpi.png)
-![style-typography-24_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-24_large_mdpi.png)
+![style-typography-23_large_mdpi](images/style-typography-23_large_mdpi.png)
+![style-typography-24_large_mdpi](images/style-typography-24_large_mdpi.png)
 
 ###行高（Line Height）
 
 行高是通过每个样式各自的尺寸和粗细决定的，以获得合适的可读性和良好的间距。只有“主体”、“次要标题”、“大纲”等类似的样式中才允许使用自动换行。其它所有样式应当以单行形式出现。
 
-![style-typography-25_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-25_large_mdpi.png)
+![style-typography-25_large_mdpi](images/style-typography-25_large_mdpi.png)
 样例对比
 
-![style-typography-27_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-27_large_mdpi.png)
+![style-typography-27_large_mdpi](images/style-typography-27_large_mdpi.png)
 
-![style-typography-30_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-30_large_mdpi.png)
+![style-typography-30_large_mdpi](images/style-typography-30_large_mdpi.png)
 
 ###换行规则/连字符（Line breaking rules / Hypenation）
 
-|![style-typography-33_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-32_large_mdpi.png)|![](http://material-design.storage.googleapis.com/images/style-typography-33_large_mdpi.png)|
+|![style-typography-33_large_mdpi](images/style-typography-32_large_mdpi.png)|![](images/style-typography-33_large_mdpi.png)|
 |---|---|
 |**对的**|**错的**|
 
@@ -125,4 +126,4 @@
  
 ###字间距（Tracking and kerning）
 
-![style-typography-36_large_mdpi](http://material-design.storage.googleapis.com/images/style-typography-36_large_mdpi.png)
+![style-typography-36_large_mdpi](images/style-typography-36_large_mdpi.png)

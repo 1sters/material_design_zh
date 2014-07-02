@@ -1,10 +1,21 @@
-有意义的转场动画
-===============
+---
+layout: page
+title: 有意义的转场动画
+permalink: meaningful-transitions.html
+---
+
+#有意义的转场动画
 
 对于普通用户来说，是更关注一个应用本身，还是更关注这个应用的元件如何从A点到B点转变的过程，这种选择往往有些难。谨慎编排的动画可以在有多步操作的过程中有效地指引用户的注意力；在版面变化或元件重组时避免造成困惑；提高用户体验的整体美感。动画设计不仅应当优美，更应当服务于功能。
 
-案例
-<video width="720" src="http://material-design.storage.googleapis.com/videos/animations-meaningfultransitions-hierarchical_transitions_topLevel_large_xhdpi.webm" controls="controls"></video>
+案例   
+<video crossorigin="anonymous"  loop  controls width="622" height="360">
+<source src="http://materialdesign.qiniudn.com/videos/animations-meaningfultransitions-hierarchical_transitions_topLevel_large_xhdpi.webm" type="video/webm">
+</video>    
+
+<video crossorigin="anonymous"  loop  controls width="622" height="360">
+<source src="http://materialdesign.qiniudn.com/videos/animation-meaningfultransitions-view_contact_large_xhdpi.webm" type="video/webm">
+</video>     
 
 ## 视觉连贯性
 
