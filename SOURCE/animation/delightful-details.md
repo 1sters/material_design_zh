@@ -19,3 +19,6 @@ permalink: delightful-details.html
 <source src="http://materialdesign.qiniudn.com/videos/animation-delightfulDetails-statusChange-example_large_xhdpi.webm" type="video/webm">
 </video>    
 
+<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" controls="controls"></video>
+
+<video width="720" height="270" src="http://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" controls="controls"></video>
