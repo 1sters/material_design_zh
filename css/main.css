@@ -433,3 +433,7 @@ p img{
   padding-top: 10px;
   border-top:1px dashed #666;
 }
+
+.share{
+  float: right;
+}

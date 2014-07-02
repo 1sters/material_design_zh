@@ -11,6 +11,41 @@ layout: default
   {{ content }}
   </article>
 
+
+ <div class="share">
+	  <div class="bdsharebuttonbox" data-tag="share_1">
+		<!-- 此处添加展示按钮 -->
+		<a class="bds_mshare" data-cmd="mshare"></a>
+		<a class="bds_tsina" data-cmd="tsina"></a>
+		<a class="bds_sqq" data-cmd="sqq"></a>
+		<a class="bds_qzone" data-cmd="qzone" href="#"></a>
+		<a class="bds_renren" data-cmd="renren"></a>
+		<a class="bds_tqq" data-cmd="tqq"></a>
+		<a class="bds_weixin" data-cmd="weixin"></a>
+		<a class="bds_more" data-cmd="more">更多</a>
+		<a class="bds_count" data-cmd="count"></a>
+	</div>
+
+	<script>
+	window._bd_share_config = {
+		common : {		
+			bdSign: 'normal',
+			bdText : 'Material Design@中文版',	
+			bdDesc : 'Google I/O 2014发布的Material Design的中文版本来啦，速度看过来，速度传播~~',	
+			bdPic : 'http://design.1sters.com/material_design/material-design/images/materialdesign-goals-landingimage_large_mdpi.png'
+		},
+		share : [{
+			"tag" : "share_1",
+			"bdSize" : 16
+		}]
+	}
+	</script>
+
+	<script>
+		with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
+	</script>
+</div>
+
   <div class="comment">
   <!-- 多说评论框 start -->
 	<div class="ds-thread" data-thread-key="{{ page.permalink }}" data-title="{{ page.title }}" data-url="{{ page.url  | prepend: site.url }}"></div>
