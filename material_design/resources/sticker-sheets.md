@@ -1,18 +1,22 @@
 ---
 layout: page
-title: Sticker Sheets
+title: 贴片集
 permalink: sticker-sheets.html
 ---
 
-# Sticker Sheets
+# 贴片集（Sticker Sheets）
 
-## Structural Elements
+## 结构组件元素（Structural Elements）
 
-The Structural Elements sticker sheet contains various elements that make up layouts. The sticker sheet contains light and dark themes for the status bar, app bar, bottom toolbar, cards, dropdowns, search field, dividers, side nav, dialog, and floating action buttons.
+> 原文：The Structural Elements sticker sheet contains various elements that make up layouts. The sticker sheet contains light and dark themes for the status bar, app bar, bottom toolbar, cards, dropdowns, search field, dividers, side nav, dialog, and floating action buttons.
+
+结构元素贴片（Structural Elements sticker sheet）包含许多组成布局的元素，其中包括状态栏（status bar）的light和dark主题，应用操作条（app bar），底部工具条（bottom toolbar），卡片（cards），下拉（dropdowns），搜索条（search field），分割线（dividers），侧滑导航（side nav），对话框（dialog）和浮动操作按钮（floating action buttons）
+
+ 
 
 * [Structural Elements](http://material-design.storage.googleapis.com/downloads/stickersheet_uielements.ai) - 1.2 MB (.ai)
 
-## Containers
+## 容器(Containers)
 
 下载如下文件
 
@@ -26,7 +30,7 @@ The Structural Elements sticker sheet contains various elements that make up lay
 * [Tabs Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_tabs.ai) - 183.18 MB (.ai)
 
 
-## UI Elements
+## UI组件（UI Elements）
 下载如下文件
 
 * [Buttons Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_buttons.ai) - 50.86 MB (.ai)
