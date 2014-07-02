@@ -104,7 +104,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 ## 进度记录
 
 - 2014.6.27, Iceskysl和4j商量启动协同翻译，创建github仓库，制定协同规范；
-- 2014.6.28, zhenbeiju，7heaven，com360，Jingsha等人参与进来，开始翻译；
+- 2014.6.28, zhenbeiju，7heaven，com360，Jingsha，Kris等人参与进来，开始翻译；
 - 2014.6.29, 合计8个模块42篇正文，其他人员加入，共20人参与，全部认领完成；
 - 2014.6.30, 完成http://design.1sters.com/网站和电子书生成功能（PDF，epub，mobi）；
 - 2014.7.1 , 紧张的翻译过程，部分校对的人开始加入，准备后续校对；
