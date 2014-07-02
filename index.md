@@ -94,12 +94,18 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
  
 
-## 支持媒体
+## 感谢
 
 - [极客学院](http://www.jikexueyuan.com/)
-- [eoeAndroid开发者社区](http://www.eoeandroid.com/)
 - [优设-UISDC](http://www.uisdc.com/)
 - [UI中国-专业界面设计平台](http://www.ui.cn/)
+- [eoeAndroid开发者社区](http://www.eoeandroid.com/)
+- [七牛云存储](http://qiniu.com/)
+- [多说评论框](http://duoshuo.com/)
+- [Github](http://github.com/)
+- [Jekyll](http://jekyllrb.com/)
+- [Calibre](http://calibre-ebook.com/)
+
 
 ## 进度记录
 
