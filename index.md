@@ -70,7 +70,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [调色板](material_design/resources/color-palettes.html) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html) √ by [iceskysl](https://github.com/iceskysl)
 
 
-***
+ 
 
 ## 参与者（按认领章节排序）
 
@@ -93,7 +93,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 - [ZeroLu](https://github.com/ZeroLu)
 - [fortianwei](https://github.com/fortianwei)
 
-*** 
+ 
 
 ## 支持媒体
 
