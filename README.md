@@ -73,7 +73,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html) √ by [Kris](https://github.com/krislq)
   * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html) √ by [CodeDiving](http://github.com/codediving)
   * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) √ by [CodeDiving](http://github.com/codediving)
-  * [List controls](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [Jingsha](https://github.com/jingsha)（空白）
+  * [List controls](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [leiweibo](https://github.com/leiweibo)（空白）
   * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) √ by [CodeDiving](http://github.com/codediving)
   * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) √ by [SamanthaChou](https://github.com/SamanthaChou)
   * [Sliders](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)（空白）
@@ -267,6 +267,7 @@ To git@github.com:IceskYsl/material_design_zh.git
 - [donlianggit](https://github.com/donlianggit)
 - [ThatMrL](https://github.com/ThatMrL)
 - [Kris](https://github.com/krislq)
+- [leiweibo](https://github.com/leiweibo)
 - [SamanthaChou](https://github.com/SamanthaChou)
 - [marshluca](https://github.com/marshluca)
 - [vincent4j](https://github.com/vincent4j)
