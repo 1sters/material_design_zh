@@ -40,7 +40,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 如果不熟悉的Markdown的，请参考
 
-- <https://help.github.com/articles/markdownl-basics>
+- <https://help.github.com/articles/markdown-basics>
 - <https://help.github.com/articles/github-flavored-markdown>
 
 ***
@@ -89,7 +89,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [促进的动作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) √ by [ZeroLu](https://github.com/ZeroLu)
   * [设置](SOURCE/patterns/settings.md) - [Settings](http://www.google.com/design/spec/patterns/settings.html) √ by [ZeroLu](https://github.com/ZeroLu)
   * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) √ by [ZeroLu](https://github.com/ZeroLu)
-  * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html)  99% by [lhyqy5](https://github.com/lhyqy5)
+  * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html) √ by [lhyqy5](https://github.com/lhyqy5)
 * Usability
   * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) √ by [fortianwei](https://github.com/fortianwei)
 * Resources
