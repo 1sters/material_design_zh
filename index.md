@@ -32,7 +32,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [图标](material_design/style/icons.html) - [Icons](http://www.google.com/design/spec/style/icons.html) 90% by [Haoxiqiang](https://github.com/haoxiqiang)（还剩一段未翻译）  
   * [Imagery](material_design/style/imagery.html) - [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)（空白）
 * Layout
-  * [Principles](material_design/layout/layout-principles.html) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)（空白）
+  * [Principles](material_design/layout/layout-principles.html) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [lightlz](https://github.com/lightlz)（空白）
   * [度量与边框](material_design/layout/metrics-and-keylines.html) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [CodeDiving](http://github.com/codediving)
   * [结构](material_design/layout/structure.html) - [Structure](http://www.google.com/design/spec/layout/structure.html) 80% by [donlianggit](https://github.com/donlianggit)（需从繁体转化成简体）
 * Components
@@ -46,13 +46,13 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [列表](material_design/components/lists.html) - [Lists](http://www.google.com/design/spec/components/lists.html) √ by [CodeDiving](http://github.com/codediving)
   * [List controls](material_design/components/list-controls.html) - [List controls](http://www.google.com/design/spec/components/list-controls.html) 1% by [Jingsha](https://github.com/jingsha)（空白）
   * [菜单](material_design/components/menus.html) - [Menus](http://www.google.com/design/spec/components/menus.html) √ by [CodeDiving](http://github.com/codediving)
-  * [Progress and Activity](material_design/components/progress-activity.html) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)（空白）
+  * [进度和动态](material_design/components/progress-activity.html) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) √ by [SamanthaChou](https://github.com/SamanthaChou)
   * [Sliders](material_design/components/sliders.html) - [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)（空白）
   * [Snackbars and Toasts](material_design/components/snackbars-and-toasts.html) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) 1% by [ThatMrL](https://github.com/ThatMrL)（空白）
   * [副标题](material_design/components/subheaders.html) - [Subheaders](http://www.google.com/design/spec/components/subheaders.html) √ by [marshluca](https://github.com/marshluca)
   * [开关](material_design/components/switches.html) - [Switches](http://www.google.com/design/spec/components/switches.html) 90% by [vincent4j](https://github.com/vincent4j)（还剩两段未翻译）
   * [Tabs](material_design/components/tabs.html) - [Tabs](http://www.google.com/design/spec/components/tabs.html) √ % by [vincent4j](https://github.com/vincent4j)
-  * [Text fields](material_design/components/text-fields.html) - [Text fields](http://www.google.com/design/spec/components/text-fields.html) 1% by [SamanthaChou](https://github.com/SamanthaChou)（空白）
+  * [文本框](material_design/components/text-fields.html) - [Text fields](http://www.google.com/design/spec/components/text-fields.html) √ by [SamanthaChou](https://github.com/SamanthaChou)
   * [工具提示](material_design/components/tooltips.html) - [Tooltips](http://www.google.com/design/spec/components/tooltips.html) √ by [lhyqy5](https://github.com/lhyqy5)
 * Patterns
   * [选择](material_design/patterns/selection.html) - [Selection](http://www.google.com/design/spec/patterns/selection.html) √ by [lhyqy5](https://github.com/lhyqy5)
@@ -62,13 +62,12 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [影像处理](material_design/patterns/imagery-treatment.html) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) √ by [ZeroLu](https://github.com/ZeroLu)
   * [Search](material_design/patterns/search.html) - [Search](http://www.google.com/design/spec/patterns/search.html)  1% by [lhyqy5](https://github.com/lhyqy5)（空白）
 * Usability
-  * [Accessibility](material_design/usability/accessibility.html) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) 1% by [fortianwei](https://github.com/fortianwei)（空白）
+  * [可达性](material_design/usability/accessibility.html) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) √ by [fortianwei](https://github.com/fortianwei)
 * Resources
-  * [布局模板](material_design/resources/layout-templates.html) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) 50% by [iceskysl](https://github.com/iceskysl)（还有好几段未翻译）
-  * [贴纸](material_design/resources/sticker-sheets.html) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) 90% by [iceskysl](https://github.com/iceskysl)（还有一段未翻译）
+  * [布局模板](material_design/resources/layout-templates.html) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) √ by [iceskysl](https://github.com/iceskysl)
+  * [贴片集](material_design/resources/sticker-sheets.html) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) √ by [iceskysl](https://github.com/iceskysl)
   * [Roboto 字体](material_design/resources/roboto-font.html) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) √ by [iceskysl](https://github.com/iceskysl)
   * [调色板](material_design/resources/color-palettes.html) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html) √ by [iceskysl](https://github.com/iceskysl)
-
 
  
 
