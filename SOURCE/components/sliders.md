@@ -10,10 +10,10 @@
 
 在不要求精准、以主观感觉为主的设置中使用无缝滑片，让使用者做出更有意义的调整。
 
-![Light theme](images/components-sliders-sliders-sliders_spec_07_large_xhdpi.png)  
+![Light theme](images/components-sliders-sliders-sliders_spec_07_large_mdpi.png)  
 Light theme
 
-![Dark theme](images/components-sliders-sliders-sliders_spec_09_large_xhdpi.png)  
+![Dark theme](images/components-sliders-sliders-sliders_spec_09_large_mdpi.png)  
 Dark theme
 
 <video crossorigin="anonymous"  loop  controls width="370" height="301">
@@ -22,15 +22,15 @@ Dark theme
 
 在滑动条(Bar)上图标相对于左边和/或右边的间距的呈现。
 
-![](images/components-sliders-sliders-sliders_12_large_xhdpi.png)
-![](images/components-sliders-sliders-sliders_spec_16_large_xhdpi.png)
+![](images/components-sliders-sliders-sliders_12_large_mdpi.png)
+![](images/components-sliders-sliders-sliders_spec_16_large_mdpi.png)
 
 **带有可编辑数值的滑片**
 
 用于使用者需要设定精确数值的设置项，可以通过点触缩略图、文本框来进行编辑。
 
-![](images/components-sliders-sliders-sliders_14_large_xhdpi.png)
-![](images/components-sliders-sliders-sliders_spec_24_large_xhdpi.png)
+![](images/components-sliders-sliders-sliders_14_large_mdpi.png)
+![](images/components-sliders-sliders-sliders_spec_24_large_mdpi.png)
 
 
 ---
@@ -43,16 +43,17 @@ Dark theme
 
 用于使用者需要知晓精确数值的设置项。
 
-![Light theme](images/components-sliders-discreteslider-sliders_precise_03_large_xhdpi.png)  
+![Light theme](images/components-sliders-discreteslider-sliders_precise_03_large_mdpi.png)  
 Light theme
 
-![Dark theme](images/components-sliders-discreteslider-sliders_precise_06_large_xhdpi.png)  
+![Dark theme](images/components-sliders-discreteslider-sliders_precise_06_large_mdpi.png)  
 Dark theme
 
 <video crossorigin="anonymous"  loop  controls width="360" height="305">
 <source src="http://materialdesign.qiniudn.com/videos/components-sliders-discrete_large_xhdpi.webm" type="video/webm">
 </video>
 
-(本章翻译由[阿九](http://www.isiton.me)完成)
+(本章翻译由[阿九(siton)](http://www.isiton.me)完成)
 
-<a align="left" href="progress-activity.md">【上一章: 进度和动态(Progress and Activity)】</a>      <a align="right" href="snackbars-and-toasts.md">【下一章: (Snackbars and Toasts)】</a>
+<a align="left" href="progress-activity.md">【上一章: 进度和动态(Progress and Activity)】</a>  
+<a align="right" href="snackbars-and-toasts.md">【下一章: (Snackbars and Toasts)】</a>
