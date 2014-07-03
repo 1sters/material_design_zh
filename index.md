@@ -9,10 +9,11 @@ permalink: index.html
 Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平台的设计语言规范，对从业人员意义重大，我们正通过互联网的方式将其翻译成中文~
 
 我们欢迎每一个人参与进来一起翻译和校队~~
-如果想做出贡献(翻译或者校对)的话，请加QQ群：137198122，谢谢！
+如果想做出贡献(翻译或者校对)的话，请加QQ群：137198122，谢谢！其他路过的朋友请帮忙`点赞`或`分享吆喝`支持下咯~
+
 
 **Material Design演示视频**
-<video crossorigin="anonymous"   controls width="600" height="337" autoplay="autoplay">
+<video crossorigin="anonymous"   controls width="600" height="337">
 <source src="http://materialdesign.qiniudn.com/Material%20design.mp4" type="video/webm">
 </video>
 
