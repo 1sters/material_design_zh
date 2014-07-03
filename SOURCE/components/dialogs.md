@@ -18,7 +18,7 @@ Dialog最典型的应用场景是提示用户去做一个些被安排好的决�
 一些复杂的操作，尤其是每个决策都需要相关解释说明的情况下是不适合使用Dialog形式的。
 
 
-![contact chips](images/components-dialogs-usage-dialog_03_large_mdpi.png)
+![contact chips](images/components-dialogs-usage-dialog_03_large_mdpi.png)    
 
 
 Dialog包含了一个标题（可选），内容 ，事件。
@@ -30,15 +30,15 @@ Dialog包含了一个标题（可选），内容 ，事件。
 **事件**：主要是用于开始用户所作的决策。
 
 
-![contact chips](images/components-dialogs-usage-dialogs_07_large_mdpi.png)
+![contact chips](images/components-dialogs-usage-dialogs_07_large_mdpi.png)    
 
 ###按钮的宽度及边框示例
 
-![contact chips](images/components-buttons-buttonsindialogs_large_mdpi.png)
+![contact chips](images/components-buttons-buttonsindialogs_large_mdpi.png)    
 
-![contact chips](images/components-dialogs-usage-dialogs_07a_large_mdpi.png)
+![contact chips](images/components-dialogs-usage-dialogs_07a_large_mdpi.png)    
 
-![contact chips](images/components-dialogs-usage-dialogs_07b_large_mdpi.png)
+![contact chips](images/components-dialogs-usage-dialogs_07b_large_mdpi.png)    
 
 
 ###加宽型竖排按钮（Stacked full-width buttons）
@@ -46,16 +46,16 @@ Dialog包含了一个标题（可选），内容 ，事件。
 
 当按钮的文本超过了通常的按钮宽度时，你就可以使用这种竖向叠加加宽型模式来呈现我们的按钮文字信息。
 
-![contact chips](images/components-dialogs-usage-stackedfullwidthbuttonsa_large_mdpi.png)
+![contact chips](images/components-dialogs-usage-stackedfullwidthbuttonsa_large_mdpi.png)    
 
 
 
 ###并排按钮（Side-by-side buttons）
 在每个按钮的文本信息都没有超过通常的按钮宽度时，推荐使用并排模式。比如说最常用的 确定/取消 按钮 
 
-![contact chips](images/components-dialogs-usage-sidebysidebuttonsa_large_mdpi.png)
+![contact chips](images/components-dialogs-usage-sidebysidebuttonsa_large_mdpi.png)    
 
-![contact chips](images/components-dialogs-usage-sidebysidebuttonsb_large_mdpi.png)
+![contact chips](images/components-dialogs-usage-sidebysidebuttonsb_large_mdpi.png)    
 
 
 
@@ -71,8 +71,8 @@ Dialog包含了一个标题（可选），内容 ，事件。
 
 提示框的内容是变化多样的。但是通常情况下由文本 和(或) 其它UI元素组成的，并且主要是用于聚焦于某个任务或者是某个步骤。比如说"确认"、"删除"或选择某个选项。
 
-![contact chips](images/components-dialogs-content-dialogs_03a_large_mdpi.png)
-![contact chips](images/components-dialogs-content-dialogs_03b_large_mdpi.png)
+![contact chips](images/components-dialogs-content-dialogs_03a_large_mdpi.png)    
+![contact chips](images/components-dialogs-content-dialogs_03b_large_mdpi.png)    
 
 
 
@@ -89,7 +89,7 @@ Dialog包含了一个标题（可选），内容 ，事件。
 
 
 肯定事件和否定事件除了可以使用"确认"/"取消"外，也可以是其它一些动词或者是动词短语来表明决策后的结果。
-![contact chips](images/components-dialogs-actions-dialogs_11_large_mdpi.png)
+![contact chips](images/components-dialogs-actions-dialogs_11_large_mdpi.png)    
 
 
 
@@ -102,7 +102,7 @@ Dialog包含了一个标题（可选），内容 ，事件。
 
 
 如果可以，请尽量保持提示框里面的内容不需要滚动 。如果滚动的内容太多了，那么可以考虑使用其它的容器或者是呈现方式。然而，如果内容是滚动的，那么请使用较明显的方式来提示用户。比如说被让文字或者是控件露一截出来。
-![contact chips](images/components-dialogs-behavior-dialogs_12_large_mdpi.png)
+![contact chips](images/components-dialogs-behavior-dialogs_12_large_mdpi.png)    
 
 ###手势
 

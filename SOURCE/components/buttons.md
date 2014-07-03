@@ -1,4 +1,10 @@
-#<font color="#3E4EB8">按钮</font>  
+---
+layout: page
+title: 按钮
+permalink: buttons.html
+---
+
+# 按钮
 
 按钮由文字或者图案组成，文字或者图案必须能让人轻易地和点击后展示的内容联系起来.
 主要的按钮有三种:
@@ -188,7 +194,9 @@ Raised Dark/Dark Color
 
 ![p35](  images/components-buttons-mobile-dropdowns-3_large_xhdpi.png)
  
-<video src="http://material-design.storage.googleapis.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.mp4" controls="controls" width="360" loop height="450" />  
+<video crossorigin="anonymous"  loop  controls width="359" height="401">
+<source src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" type="video/webm">
+</video>  
  
 **桌面下拉相关**  
 

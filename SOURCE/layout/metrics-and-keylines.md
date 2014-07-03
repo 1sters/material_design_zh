@@ -22,8 +22,8 @@ permalink: metrics-and-keylines.html
 有关详细信息请参见[组件](../components/bottom-sheets.html)一节。
 
 ![](images/layout-metrics-baselinegrids-baseline-03_large_mdpi.png)
-有关详细信息请参见[字体排版](../style/typography.html)一节。
 
+有关详细信息请参见[字体排版](../style/typography.html)一节。
 
 ----------
 
@@ -34,7 +34,8 @@ permalink: metrics-and-keylines.html
 
 移动设备布局模板包含了多种多样的屏幕和信息，这些信息描述了边框与间距如何应用于屏幕边界和元素。下面是一个有关屏幕的实例，这个实例可以通过如下的链接获得。
 
-[移动设备布局模板](http://materialdesign.qiniudn.com/downloads/Layout_Mobile_Whiteframe.ai)
+[移动设备布局模板 - 2.4 MB(.ai)](http://materialdesign.qiniudn.com/downloads/Layout_Mobile_Whiteframe.ai)
+
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-01ba_large_mdpi.png)
 **内容**
@@ -199,6 +200,7 @@ permalink: metrics-and-keylines.html
 
 ----------
 
+
 ## 增量边框 ##
 
 ### 增量边框 ###
@@ -214,10 +216,7 @@ permalink: metrics-and-keylines.html
 
 ![](images/layout-metrics-incrementalkeylines-incrementalkeylines-03_large_mdpi.png)
 
-![](images/layout-metrics-incrementalkeylines-incrementalkeylines-04_large_mdpi.png)
-
-
-----------
+![](images/layout-metrics-incrementalkeylines-incrementalkeylines-04_large_mdpi.png)   
 
 ## 触摸目标尺寸 ##
 
