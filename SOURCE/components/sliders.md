@@ -54,6 +54,3 @@ Dark theme
 </video>
 
 (本章翻译由[阿九(siton)](http://www.isiton.me)完成)
-
-<a align="left" href="progress-activity.md">【上一章: 进度和动态(Progress and Activity)】</a>  
-<a align="right" href="snackbars-and-toasts.md">【下一章: (Snackbars and Toasts)】</a>
