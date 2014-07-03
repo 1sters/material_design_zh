@@ -4,7 +4,7 @@
 
 > **接下来的内容**  
 > 无缝滑片(Continuous Slider)  
-> 断续滑片(Discrete Slider)
+> 间续滑片(Discrete Slider)
 
 ### 无缝滑片(Continuous Slider)
 
@@ -16,7 +16,9 @@ Light theme
 ![Dark theme](images/components-sliders-sliders-sliders_spec_09_large_xhdpi.png)  
 Dark theme
 
-[video]
+<video crossorigin="anonymous"  loop  controls width="370" height="301">
+<source src="http://materialdesign.qiniudn.com/videos/components-sliders-continuous_large_xhdpi.webm" type="video/webm">
+</video>
 
 在滑动条(Bar)上图标相对于左边和/或右边的间距的呈现。
 
@@ -33,9 +35,9 @@ Dark theme
 
 ---
 
-### 断续滑片(Discrete Slider)
+### 间续滑片(Discrete Slider)
 
-断续滑片会恰好咬合到在滑动条上平均分布的间隙标记(tick mark)上。在要求精准、以客观设定为主的设置项中使用断续滑片，让使用者做出更有意义的调整。间隙标记(tick mark)应当设定一定的等级区间进行分割，使得其调整效果对于使用者来说显而易见。这些生成区间的值应当是预先设定好的，使用者不可对其进行编辑。
+间续滑片会恰好咬合到在滑动条上平均分布的间续标记(tick mark)上。在要求精准、以客观设定为主的设置项中使用间续滑片，让使用者做出更有意义的调整。间续标记(tick mark)应当设定一定的等级区间进行分割，使得其调整效果对于使用者来说显而易见。这些生成区间的值应当是预先设定好的，使用者不可对其进行编辑。
 
 **附带数值标签的滑片**
 
@@ -47,7 +49,8 @@ Light theme
 ![Dark theme](images/components-sliders-discreteslider-sliders_precise_06_large_xhdpi.png)  
 Dark theme
 
-[video2]
+<video crossorigin="anonymous"  loop  controls width="360" height="305">
+<source src="http://materialdesign.qiniudn.com/videos/components-sliders-discrete_large_xhdpi.webm" type="video/webm">
+</video>
 
-
-<a align="left" href="">【上一章: Progress and Activity】</a><a align="right" href="">【下一章: Snackbars and Toasts】</a>
+<a align="left" href="progress-activity.md">【上一章: 进度和动态(Progress and Activity)】</a>      <a align="right" href="snackbars-and-toasts.md">【下一章: (Snackbars and Toasts)】</a>
