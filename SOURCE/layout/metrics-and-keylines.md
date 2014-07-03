@@ -36,19 +36,33 @@ permalink: metrics-and-keylines.html
 
 [移动设备布局模板](http://materialdesign.qiniudn.com/downloads/Layout_Mobile_Whiteframe.ai)
 
-| ![](images/layout-metrics-keylines-keylines-spacing-mobile-01ba_large_mdpi.png) | ![](images/layout-metrics-keylines-keylines-spacing-mobile-01bb_large_mdpi.png) | ![](images/layout-metrics-keylines-keylines-spacing-mobile-01bc_large_mdpi.png)|
-|------------- |:--------------------: |-------------------: |
-|**内容** |**垂直边框和水平外边距** |**垂直边距** |
-|该屏幕演示图标、头像和一个2行文本的列表如何左对齐，以及一个56dp的浮动动作按钮和文本如何右对齐。 |左右各有16dp的垂直边框。带有图标或者头像的内容有72dp的左边距。在移动设备上有16dp的水平外边距。|1. 24dp
+![](images/layout-metrics-keylines-keylines-spacing-mobile-01ba_large_mdpi.png)
+**内容**
+
+该屏幕演示图标、头像和一个2行文本的列表如何左对齐，以及一个56dp的浮动动作按钮和文本如何右对齐。
+
+
+![](images/layout-metrics-keylines-keylines-spacing-mobile-01bb_large_mdpi.png)
+**垂直边框和水平外边距**
+
+左右各有16dp的垂直边框。带有图标或者头像的内容有72dp的左边距。
+
+在移动设备上有16dp的水平外边距。
+
+![](images/layout-metrics-keylines-keylines-spacing-mobile-01bc_large_mdpi.png)
+**垂直边距**
+
+1. 24dp
 2. 56dp
 3. 48dp
-4. 72dp|
+4. 72dp
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-02ba_large_mdpi.png)
 
 **内容**
 
-该屏幕演示图标、头像、2行文本列表、子标题和40dp的浮动动作按钮如何左对齐。小图标右对齐。
+该屏幕演示图标、头像、2行文本列表、子标题和40
+dp的浮动动作按钮如何左对齐。小图标右对齐。
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-02bb_large_mdpi.png)
 
