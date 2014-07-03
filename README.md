@@ -76,7 +76,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) √ by [leiweibo](https://github.com/leiweibo)
   * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) √ by [CodeDiving](http://github.com/codediving)
   * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) √ by [SamanthaChou](https://github.com/SamanthaChou)
-  * [Sliders](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [ThatMrL](https://github.com/ThatMrL)（空白）
+  * [Sliders](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [siton](https://github.com/siton)（空白）
   * [Snackbars and Toasts](SOURCE/components/snackbars-and-toasts.md) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) 1% by [chenzimu7](https://github.com/chenzimu7)（空白）
   * [副标题](SOURCE/components/subheaders.md) - [Subheaders](http://www.google.com/design/spec/components/subheaders.html) √ by [marshluca](https://github.com/marshluca)
   * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) √ by [vincent4j](https://github.com/vincent4j)
@@ -269,7 +269,8 @@ To git@github.com:IceskYsl/material_design_zh.git
 - [CodeDiving](http://github.com/codediving)
 - [donlianggit](https://github.com/donlianggit)
 - [ThatMrL](https://github.com/ThatMrL)
-- [Kris](https://github.com/krislq)
+- [Kris](https://github.com/krislq)  
+- [siton](https://github.com/siton)
 - [chenzimu7](https://github.com/chenzimu7)
 - [leiweibo](https://github.com/leiweibo)
 - [SamanthaChou](https://github.com/SamanthaChou)
