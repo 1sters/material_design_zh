@@ -56,3 +56,5 @@ permalink: Sliders.html
 <video crossorigin="anonymous"  loop  controls width="360" height="305">
 <source src="http://materialdesign.qiniudn.com/videos/components-sliders-discrete_large_xhdpi.webm" type="video/webm">
 </video>
+
+> 翻译：[阿九(siton)](http://www.isiton.me) 校对：[vincent4j](https://github.com/vincent4j)
