@@ -187,7 +187,7 @@ a:visited { color: #205caa; }
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
-.post-content video {margin: 2px 0; max-width: 100%; max-height: 800px;}
+.post-content video {margin: 2px 0; max-width: 100%; max-height: 600px;}
 .post-content p {margin: 2px 20px 20px 0px;}
 
 .post-content h1,
