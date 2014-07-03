@@ -61,24 +61,16 @@ permalink: menus.html
 下面这些动画演示了菜单的滚动和级联。
 
 
-<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls="controls"></video>
-
-
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls="controls"></video>  
 下拉
 
-<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
-
-
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" controls="controls"></video>  
 文本框下拉
 
-<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-appbar_dropdown2_spec_large_xhdpi.webm" controls="controls"></video>
-
-
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-appbar_dropdown2_spec_large_xhdpi.webm" controls="controls"></video>  
 应用工具条下拉
 
-<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
-
-
+<video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" controls="controls"></video>  
 级联下拉
 
 
@@ -86,7 +78,7 @@ permalink: menus.html
 
 每一个菜单项限制为单行文本，并且能够说明在菜单项项选中时所发生的动作。
 
-菜单项的文本一般是单个单词或者短语，但是也可能包含了图标和帮助文本，比如快捷方式，同时也可包含像复选标记之类的控件来标识多选条目或状态。可以参考[列表控件](list-controls.md)。
+菜单项的文本一般是单个单词或者短语，但是也可能包含了图标和帮助文本，比如快捷方式，同时也可包含像复选标记之类的控件来标识多选条目或状态。可以参考[列表控件](list-controls.html)。
 
 带有静态文本的菜单应当在菜单的上部放置最常使用的菜单项。
 
@@ -123,25 +115,25 @@ permalink: menus.html
 不要显示选中的菜单项的副本。
 
 
-![](images/components-menus-behavior-menus-p-01_large_mdpi.png)  
+![](images/components-menus-behavior-menus-p-01_large_mdpi.png)    
 要（Do）
 
-![](images/components-menus-behavior-menus-p-02_large_mdpi.png)  
+![](images/components-menus-behavior-menus-p-02_large_mdpi.png)    
 不要（Don't)
 
 菜单不要与触摸的位置水平对齐。
 
-![](images/components-menus-behavior-menus-p-03a_large_mdpi.png)  
+![](images/components-menus-behavior-menus-p-03a_large_mdpi.png)    
 要（Do）
 
-![](images/components-menus-behavior-menus-p-03b_large_mdpi.png)  
+![](images/components-menus-behavior-menus-p-03b_large_mdpi.png)    
 要（Do）
 
-![](images/components-menus-behavior-menus-p-04a_large_mdpi.png)  
+![](images/components-menus-behavior-menus-p-04a_large_mdpi.png)    
 不要（Don't)
 
 
-![](images/components-menus-behavior-menus-p-04b_large_mdpi.png)  
+![](images/components-menus-behavior-menus-p-04b_large_mdpi.png)    
 不要（Don't)
 
 ## 度量 ##

@@ -79,7 +79,7 @@ permalink: grids.html
 砍去网格瓦片达到与滚动方向通信的目的会造成内容的溢出。
 
 
-![](images/components-grids-behavior-spec_grid_drawings_06_large_mdpi.png)  
+![](images/components-grids-behavior-spec_grid_drawings_06_large_mdpi.png)    
 要  
 
 ![](images/components-grids-behavior-spec_grid_drawings_05_large_mdpi.png)  
@@ -144,10 +144,7 @@ permalink: grids.html
 
 
 ![](images/components-grids-keylines-imageOnlyGrid_01_large_mdpi.png)  
-
-
 **元素**
-
 
 ![](images/components-grids-keylines-imageOnlyGrid_03_large_mdpi.png)  
 
@@ -170,8 +167,6 @@ permalink: grids.html
 
 
 ![](images/components-grids-keylines-SingleLineGrid_01b_large_mdpi.png)  
-
-
 **元素**
 
 
@@ -195,8 +190,6 @@ permalink: grids.html
 
 
 ![](images/components-grids-keylines-SingleLineGrid_03b_large_mdpi.png)  
-
-
 **元素**
 
 
@@ -226,8 +219,6 @@ permalink: grids.html
 
 
 ![](images/components-grids-keylines-TwoLineGrid_01b_large_mdpi.png)  
-
-
 **元素**
 
 
@@ -253,8 +244,6 @@ permalink: grids.html
 
 
 ![](images/components-grids-keylines-TwoLineGrid_03b_large_mdpi.png)  
-
-
 **元素**
 
 
@@ -265,5 +254,4 @@ permalink: grids.html
 
 
 ![](images/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)  
-
 **内容**
