@@ -13,16 +13,16 @@ permalink: metrics-and-keylines.html
 所有组件都以一个8dp\*8dp的基准网格对齐。排版（Type）以一个4dp\*4dp的基准网格对齐。在工具条中的图标同样以一个4dp\*4dp的基准网格对齐。这些规则适用于移动设备、平板设备以及桌面应用程序。
 
 ![](images/layout-metrics-baselinegrids-01-8dp-baselinea_large_mdpi.png)
+
 ![](images/layout-metrics-baselinegrids-01-8dp-baselineb_large_mdpi.png)
+
 ![](images/layout-metrics-baselinegrids-01-8dp-baselinec_large_mdpi.png)
 
 ![](images/layout-metrics-baselinegrids-02-8dp-baseline_large_mdpi.png)
-
-有关详细信息请参见[组件](../components/bottom-sheets.md)一节。
+有关详细信息请参见[组件](../components/bottom-sheets.html)一节。
 
 ![](images/layout-metrics-baselinegrids-baseline-03_large_mdpi.png)
-
-有关详细信息请参见[字体排版](../style/typography.md)一节。
+有关详细信息请参见[字体排版](../style/typography.html)一节。
 
 
 ----------
@@ -36,36 +36,38 @@ permalink: metrics-and-keylines.html
 
 [移动设备布局模板](http://materialdesign.qiniudn.com/downloads/Layout_Mobile_Whiteframe.ai)
 
-![](images/layout-metrics-keylines-keylines-spacing-mobile-01ba_large_mdpi.png)
+| ![](images/layout-metrics-keylines-keylines-spacing-mobile-01ba_large_mdpi.png) 
+| ![](images/layout-metrics-keylines-keylines-spacing-mobile-01bb_large_mdpi.png)
+| ![](images/layout-metrics-keylines-keylines-spacing-mobile-01bc_large_mdpi.png)
+|
 
-**内容**
+|------------- |:--------------------: |-------------------: |
 
-该屏幕演示图标、头像和一个2行文本的列表如何左对齐，以及一个56dp的浮动动作按钮和文本如何右对齐。
+|**内容**
+该屏幕演示图标、头像和一个2行文本的列表如何左对齐，以及一个56dp的浮动动作按钮和文本如何右对齐。|**垂直边框和水平外边距**
 
-
-![](images/layout-metrics-keylines-keylines-spacing-mobile-01bb_large_mdpi.png)
-
-**垂直边框和水平外边距**
-
-左右各有16dp的垂直边框。带有图标或者头像的内容有72dp的左边距。
-
-在移动设备上有16dp的水平外边距。
-
-![](images/layout-metrics-keylines-keylines-spacing-mobile-01bc_large_mdpi.png)
-
-**垂直边距**
+左右各有16dp的垂直边框。带有图标或者头像的内容有72dp的左边距。在移动设备上有16dp的水平外边距。|**垂直边距**
 
 1. 24dp
 2. 56dp
 3. 48dp
 4. 72dp
 
+
+
+
+
+
+
+
+
+
+
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-02ba_large_mdpi.png)
 
 **内容**
 
-该屏幕演示图标、头像、2行文本列表、子标题和40
-dp的浮动动作按钮如何左对齐。小图标右对齐。
+该屏幕演示图标、头像、2行文本列表、子标题和40dp的浮动动作按钮如何左对齐。小图标右对齐。
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-02bb_large_mdpi.png)
 
