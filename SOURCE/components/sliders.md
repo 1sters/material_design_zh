@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 滑片
-permalink: Sliders.html
+permalink: sliders.html
 ---
 
 # 滑片控件(Sliders)
