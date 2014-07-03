@@ -1,4 +1,10 @@
-## 滑片控件(Sliders)
+---
+layout: page
+title: 滑片
+permalink: Sliders.html
+---
+
+# 滑片控件(Sliders)
 
 滑片控件(Sliders，简称滑片)可以让我们通过在连续或间断的区间内滑动锚点来选择一个合适的数值。区间最小值放在左边，对应的，最大值放在右边。滑片(Sliders)可以在滑动条的左右两端设定图标来反映数值的强度。这种交互特性使得它在设置诸如音量、亮度、色彩饱和度等需要反映强度等级的选项时成为一种极好的选择。
 
@@ -11,10 +17,10 @@
 在不要求精准、以主观感觉为主的设置中使用无缝滑片，让使用者做出更有意义的调整。
 
 ![Light theme](images/components-sliders-sliders-sliders_spec_07_large_mdpi.png)  
-Light theme
+亮色主题(Light theme)
 
 ![Dark theme](images/components-sliders-sliders-sliders_spec_09_large_mdpi.png)  
-Dark theme
+暗色主题(Dark theme)
 
 <video crossorigin="anonymous"  loop  controls width="370" height="301">
 <source src="http://materialdesign.qiniudn.com/videos/components-sliders-continuous_large_xhdpi.webm" type="video/webm">
@@ -42,13 +48,11 @@ Dark theme
 用于使用者需要知晓精确数值的设置项。
 
 ![Light theme](images/components-sliders-discreteslider-sliders_precise_03_large_mdpi.png)  
-Light theme
+亮色主题(Light theme)
 
 ![Dark theme](images/components-sliders-discreteslider-sliders_precise_06_large_mdpi.png)  
-Dark theme
+暗色主题(Dark theme)
 
 <video crossorigin="anonymous"  loop  controls width="360" height="305">
 <source src="http://materialdesign.qiniudn.com/videos/components-sliders-discrete_large_xhdpi.webm" type="video/webm">
 </video>
-
-(本章翻译由[阿九(siton)](http://www.isiton.me)完成)
