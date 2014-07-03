@@ -6,10 +6,13 @@ permalink: index.html
 
 ## 写在前面
 
-Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平台的设计语言规范，对从业人员意义重大，我们正通过互联网的方式将其翻译成中文~
+Google I/O 2014 发布的 Material Design 将会成为统一 Android Mobile，Android Table, Desktop 等平台的设计语言规范，对从业人员意义重大，我们正通过互联网的方式将其翻译成中文~
 
-我们欢迎每一个人参与进来一起翻译和校队~~
+我们欢迎每一个人参与进来一起翻译和校对~~  
 到来的朋友请`点赞`或`分享吆喝`支持，想做出贡献(翻译或者校对)的话，请加QQ群：137198122，谢谢！
+
+当前进度 2014.07.03   
+启动「校对」，任务认领中... （[如何认领>>](https://github.com/1sters/material_design_zh/blob/master/README.md#%E6%A0%A1%E5%AF%B9%E8%AE%A4%E9%A2%86%E7%AB%A0%E8%8A%82%E8%AE%B0%E5%BD%95%E8%AE%A4%E9%A2%86ing)）   
 
 **Material Design演示视频**
 <video crossorigin="anonymous"   controls width="600" height="337" autoplay="autoplay">
@@ -32,7 +35,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [图标](material_design/style/icons.html) - [Icons](http://www.google.com/design/spec/style/icons.html) 90% by [Haoxiqiang](https://github.com/haoxiqiang)（还剩一段未翻译）  
   * [图像](material_design/style/imagery.html) - [Imagery](http://www.google.com/design/spec/style/imagery.html) 85% by [lhyqy5](https://github.com/lhyqy5)（部分句子未翻译）
 * Layout
-  * [准则](material_design/layout/layout-principles.html) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 50% by [lightlz](https://github.com/lightlz)（努力翻译中...）
+  * [准则](material_design/layout/layout-principles.html) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 95% by [lightlz](https://github.com/lightlz)（还剩三句未翻译）
   * [度量与边框](material_design/layout/metrics-and-keylines.html) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [CodeDiving](http://github.com/codediving)
   * [结构](material_design/layout/structure.html) - [Structure](http://www.google.com/design/spec/layout/structure.html) √ by [donlianggit](https://github.com/donlianggit)
 * Components
@@ -114,4 +117,4 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 - 2014.6.29, 合计8个模块42篇正文，其他人员加入，共20人参与，全部认领完成；
 - 2014.6.30, 完成 <http://design.1sters.com/> 网站和电子书生成功能（PDF，epub，mobi）；
 - 2014.7.1 , 紧张的翻译过程，部分校对的人开始加入，准备后续校对；
-- 2014.7.2 , 完成全部文章翻译，正式发布第一稿，同时启动校队任务；
+- 2014.7.2 , 完成全部文章翻译，正式发布第一稿，同时[启动校对任务](https://github.com/1sters/material_design_zh/issues/140)；
