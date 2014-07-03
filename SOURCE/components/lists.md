@@ -362,7 +362,7 @@ permalink: lists.html
 在列表的上部和下部添加8dp的内边距。一个特例是在带有表头条目（subheader）的列表上部，因为表头条目包含了它们自己的内边距。
 
 
-![](ages/components-recommendedthreelinelists-1_large_mdpi.png)  
+![](images/components-recommendedthreelinelists-1_large_mdpi.png)  
 
 
 **元素**
