@@ -113,7 +113,7 @@ Android也提供了一种弹出提示框 Toast，主要用于提示系统消息�
 
 ### Android toast
 
-Developers can create custom toasts and/or custom screen placements for them. If making a custom toast, you are strongly encouraged to adhere to the snackbar style provided above.
+开发者可以自定义的Toast和它在屏幕上的位置。如果你打算自定义Toast的话，强烈建议按照上述Snackbar的样式来设计。
 
 ![](images/components-toasts--specs-snackbar_toast_14_large_mdpi.png)
 
