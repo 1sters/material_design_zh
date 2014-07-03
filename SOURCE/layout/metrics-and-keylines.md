@@ -39,8 +39,7 @@ permalink: metrics-and-keylines.html
 | ![](images/layout-metrics-keylines-keylines-spacing-mobile-01ba_large_mdpi.png) | ![](images/layout-metrics-keylines-keylines-spacing-mobile-01bb_large_mdpi.png) | ![](images/layout-metrics-keylines-keylines-spacing-mobile-01bc_large_mdpi.png)|
 |------------- |:--------------------: |-------------------: |
 |**内容** |**垂直边框和水平外边距** |**垂直边距** |
-|该屏幕演示图标、头像和一个2行文本的列表如何左对齐，以及一个56dp的浮动动作按钮和文本如何右对齐。 |左右各有16dp的垂直边框。带有图标或者头像的内容有72dp的左边距。在移动设备上有16dp的水平外边距。|
-1. 24dp
+|该屏幕演示图标、头像和一个2行文本的列表如何左对齐，以及一个56dp的浮动动作按钮和文本如何右对齐。 |左右各有16dp的垂直边框。带有图标或者头像的内容有72dp的左边距。在移动设备上有16dp的水平外边距。|1. 24dp
 2. 56dp
 3. 48dp
 4. 72dp|
