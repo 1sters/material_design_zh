@@ -41,7 +41,6 @@ permalink: metrics-and-keylines.html
 
 该屏幕演示图标、头像和一个2行文本的列表如何左对齐，以及一个56dp的浮动动作按钮和文本如何右对齐。
 
-
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-01bb_large_mdpi.png)
 **垂直边框和水平外边距**
 
@@ -58,14 +57,11 @@ permalink: metrics-and-keylines.html
 4. 72dp
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-02ba_large_mdpi.png)
-
 **内容**
 
-该屏幕演示图标、头像、2行文本列表、子标题和40
-dp的浮动动作按钮如何左对齐。小图标右对齐。
+该屏幕演示图标、头像、2行文本列表、子标题和40dp的浮动动作按钮如何左对齐。小图标右对齐。
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-02bb_large_mdpi.png)
-
 **垂直边框和水平边距**
 
 图标（大小图标）有16dp的左右垂直边框。带有图标或者头像的内容有72dp的左边距。
@@ -73,7 +69,6 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 在移动设备上有16dp的水平外边距。
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-02bc_large_mdpi.png)
-
 **垂直边距**
 
 1. 24dp
@@ -83,13 +78,11 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 5. 8dp
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-03ba_large_mdpi.png)
-
 **内容**
 
 该屏幕演示图标如何左对齐，以及图标和一个56dp的浮动动作按钮如何右对齐。
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-03bb_large_mdpi.png)
-
 **垂直边框和水平边距**
 
 图标有16dp的左垂直边框。带有图标或头像的内容有72dp的左边框。另外有32dp的边框添加到了右边，与56dp的圆形浮动动作按钮的边框有重叠。这样做是允许在浮动动作按钮下的图标对齐的。
@@ -97,7 +90,6 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 在移动设备上有16dp的外边距。
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-03bc_large_mdpi.png)
-
 **垂直边距**
 
 1. 24dp
@@ -106,13 +98,11 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 4. 72dp
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-04ba_large_mdpi.png)
-
 **内容**
 
 该屏幕演示图标、头像和文本如何左对齐，浮动动作按钮、图标和文本如何右对齐。
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-04bb_large_mdpi.png)
-
 **垂直边框和水平边距**
 
 图标有16dp的左右垂直边框。带有图标或头像的内容有72dp的左边框。
@@ -120,7 +110,6 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 在移动设备上有16dp的水平边距。
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-04bc_large_mdpi.png)
-
 **垂直边距**
 
 1. 24dp
@@ -129,13 +118,10 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 4. 8dp
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-05ba_large_mdpi.png)
-
 **内容**
 
 该屏幕演示了侧边导航菜单的宽度，以及图标、头像和文本如何左对齐，小图标如何右对齐。
-
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-05bb_large_mdpi.png)
-
 **垂直边框和水平边距**
 
 图标有16dp的左垂直边框和距侧边导航菜单16dp的右垂直边框。带有图标或者头像的内容距侧边导航菜单72dp的左垂直边框。侧边导航菜单的宽度等于屏幕的宽度减去动作条的高度，即在本例中距屏幕右侧56dp的宽。
@@ -143,7 +129,6 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 在移动设备上有16dp的水平外边距。
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-05bc_large_mdpi.png)
-
 **垂直边距**
 
 1. 48dp
@@ -200,19 +185,15 @@ dp的浮动动作按钮如何左对齐。小图标右对齐。
 应用于移动设备屏幕的宽度和移动设备、平板设备以及桌面应用程序的UI元素的宽度。
 
 ![](images/layout-metrics-ratiokeylines-keylines_15_large_mdpi.png)
-
 屏幕的宽度
 
 ![](images/layout-metrics-ratiokeylines-ratiokeylines-02_large_mdpi.png)
-
 示例
 
 ![](images/layout-metrics-ratiokeylines-keylines_19_large_mdpi.png)
-
 元素的宽度
 
 ![](images/layout-metrics-ratiokeylines-keylines_18_large_mdpi.png)
-
 示例
 
 
