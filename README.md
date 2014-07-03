@@ -45,8 +45,9 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 ***
 
-## 认领章节记录（已经全部被认领）
-认领章节的同学在这里标示（参考已有的标示规范）~
+## 认领章节记录
+
+### 翻译认领章节记录（已经全部被认领）
 
 * Material Design 
   * [概述](SOURCE/material-design/introduction.md) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
@@ -98,6 +99,57 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) √ by [iceskysl](https://github.com/iceskysl)
   * [调色板](SOURCE/resources/color-palettes.md) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html) √ by [iceskysl](https://github.com/iceskysl)
 
+### 校对认领章节记录（认领ing...）
+
+* Material Design 
+  * [概述](SOURCE/material-design/introduction.md) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html)
+* Animation
+  * [真实的动作](SOURCE/animation/authentic-motion.md) - [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html)
+  * [交互响应](SOURCE/animation/responsive-interaction.md) - [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html)
+  * [有意义的转场动画](SOURCE/animation/meaningful-transitions.md) - [Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html)
+  * [让用户愉悦的细节](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html)
+* Style
+  * [色彩](SOURCE/style/color.md) - [Color](http://www.google.com/design/spec/style/color.html)
+  * [字体排版](SOURCE/style/typography.md) - [Typography](http://www.google.com/design/spec/style/typography.html)
+  * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html)
+  * [图像](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html)
+* Layout
+  * [准则](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html)（难）
+  * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html)
+  * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html)
+* Components
+  * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html)
+  * [按钮](SOURCE/components/buttons.md) - [Buttons](http://www.google.com/design/spec/components/buttons.html)
+  * [卡片](SOURCE/components/cards.md) - [Cards](http://www.google.com/design/spec/components/cards.html)
+  * [纸片](SOURCE/components/chips.md) - [Chips](http://www.google.com/design/spec/components/chips.html)
+  * [提示框](SOURCE/components/dialogs.md) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html)
+  * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html)
+  * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html)
+  * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html)
+  * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html)
+  * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html)
+  * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
+  * [Sliders](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html)
+  * [Snackbars and Toasts](SOURCE/components/snackbars-and-toasts.md) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html)
+  * [副标题](SOURCE/components/subheaders.md) - [Subheaders](http://www.google.com/design/spec/components/subheaders.html)
+  * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html)
+  * [Tabs](SOURCE/components/tabs.md) - [Tabs](http://www.google.com/design/spec/components/tabs.html)
+  * [文本框](SOURCE/components/text-fields.md) - [Text fields](http://www.google.com/design/spec/components/text-fields.html)
+  * [工具提示](SOURCE/components/tooltips.md) - [Tooltips](http://www.google.com/design/spec/components/tooltips.html)
+* Patterns
+  * [选择](SOURCE/patterns/selection.md) - [Selection](http://www.google.com/design/spec/patterns/selection.html)
+  * [Gestures](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html)
+  * [促进的动作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html)
+  * [设置](SOURCE/patterns/settings.md) - [Settings](http://www.google.com/design/spec/patterns/settings.html)
+  * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html)
+  * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html)
+* Usability
+  * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html)
+* Resources
+  * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html)
+  * [贴片集](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html)
+  * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html)
+  * [调色板](SOURCE/resources/color-palettes.md) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html)
 
 ***
 ##协作过程演示
@@ -254,7 +306,7 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ## 参与者（按认领章节排序）
 
-**翻译**
+### 翻译
 
 - [iceskysl](https://github.com/iceskysl)
 - [zhenbeiju](https://github.com/zhenbeiju)
@@ -279,9 +331,10 @@ To git@github.com:IceskYsl/material_design_zh.git
 - [ZeroLu](https://github.com/ZeroLu)
 - [fortianwei](https://github.com/fortianwei)
 
-**校对**
+### 校对
 
 - [siton](https://github.com/siton)
+- 就不一一加了，等校对完成之后，一波给他全加上来
 
 ***
 
