@@ -9,7 +9,12 @@ Material Design 中文协同翻译
 
 Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平台的设计语言规范，对从业人员意义重大，我们正通过互联网的方式将其翻译成中文~
 
-我们欢迎每一个人参与进来一起翻译和校队~~
+我们欢迎每一个人参与进来一起翻译和校对~~
+
+## 当前进度
+
+2014.07.03  
+启动「校对」，任务认领中... （[如何认领>>](https://github.com/1sters/material_design_zh/blob/master/README.md#%E6%A0%A1%E5%AF%B9%E8%AE%A4%E9%A2%86%E7%AB%A0%E8%8A%82%E8%AE%B0%E5%BD%95%E8%AE%A4%E9%A2%86ing)）
 
 ***
 
