@@ -82,7 +82,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) √ by [leiweibo](https://github.com/leiweibo)
   * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) √ by [CodeDiving](http://github.com/codediving)
   * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) √ by [SamanthaChou](https://github.com/SamanthaChou)
-  * [Sliders](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [siton](https://github.com/siton)（7.3 号上午认领）
+  * [滑片](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) √ by [siton](https://github.com/siton)
   * [Snackbars 与 Toasts](SOURCE/components/snackbars-and-toasts.md) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) √ by [chenzimu7](https://github.com/chenzimu7)
   * [副标题](SOURCE/components/subheaders.md) - [Subheaders](http://www.google.com/design/spec/components/subheaders.html) √ by [marshluca](https://github.com/marshluca)
   * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) √ by [vincent4j](https://github.com/vincent4j)
@@ -132,11 +132,11 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [提示框](SOURCE/components/dialogs.md) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html)
   * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html)
   * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html)
-  * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [KOST](https://github.com/KOST)
+  * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [K0ST](https://github.com/KOST)
   * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html)
   * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html)
   * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
-  * [Sliders](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html)（翻译尚未完成）
+  * [滑片](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html)
   * [Snackbars 与 Toasts](SOURCE/components/snackbars-and-toasts.md) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html)
   * [副标题](SOURCE/components/subheaders.md) - [Subheaders](http://www.google.com/design/spec/components/subheaders.html)
   * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html)
@@ -151,7 +151,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html)
   * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html)
 * Usability
-  * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) 1% by [KOST](https://github.com/KOST)
+  * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) 1% by [K0ST](https://github.com/KOST)
 * Resources
   * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html)
   * [贴片集](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html)
