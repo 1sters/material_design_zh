@@ -438,3 +438,15 @@ p img{
   float: right;
 }
 
+
+.ue-backtoTop-box {
+  position: fixed;
+  left: 50%;
+  margin-left: 480px;
+  bottom: 20px;
+  width: 20px;
+  background: #eee;
+  border-radius: 2px;
+  padding: 5px 10px;
+  text-align: center;
+}
