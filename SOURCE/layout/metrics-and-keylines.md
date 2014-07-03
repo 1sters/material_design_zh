@@ -43,8 +43,7 @@ permalink: metrics-and-keylines.html
 1. 24dp
 2. 56dp
 3. 48dp
-4. 72dp
-|
+4. 72dp|
 
 ![](images/layout-metrics-keylines-keylines-spacing-mobile-02ba_large_mdpi.png)
 
