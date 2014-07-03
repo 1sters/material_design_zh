@@ -127,7 +127,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 * Components
   * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html)
   * [按钮](SOURCE/components/buttons.md) - [Buttons](http://www.google.com/design/spec/components/buttons.html)
-  * [卡片](SOURCE/components/cards.md) - [Cards](http://www.google.com/design/spec/components/cards.html)
+  * [卡片](SOURCE/components/cards.md) - [Cards](http://www.google.com/design/spec/components/cards.html) 1% by [xianglifei](https://github.com/xianglifei)
   * [纸片](SOURCE/components/chips.md) - [Chips](http://www.google.com/design/spec/components/chips.html)
   * [提示框](SOURCE/components/dialogs.md) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html)
   * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html)
