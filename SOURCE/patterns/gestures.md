@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 手势
-permalink: patterns.html
+permalink: gestures.html
 ---
 
 #手势
@@ -261,4 +261,4 @@ permalink: patterns.html
 倾斜会使用拖拽动作
 ![Gestures-TouchActivities-10](images/Patterns-Gestures-TouchActivities-10_large_mdpi.png)
 
-参照了Daqian.Dong对于折叠，展开的解释 http://www.ui.cn/project.php?id=19050
+参照了Daqian.Dong对于折叠，展开的解释 http://www.ui.cn/project.php?id=19050 
