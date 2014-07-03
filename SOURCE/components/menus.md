@@ -62,23 +62,15 @@ permalink: menus.html
 
 
 <video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls="controls"></video>
-
-
 下拉
 
 <video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
-
-
 文本框下拉
 
 <video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-appbar_dropdown2_spec_large_xhdpi.webm" controls="controls"></video>
-
-
 应用工具条下拉
 
 <video width="720" height="270" src="http://materialdesign.qiniudn.com/videos/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" controls="controls"></video>
-
-
 级联下拉
 
 
@@ -86,7 +78,7 @@ permalink: menus.html
 
 每一个菜单项限制为单行文本，并且能够说明在菜单项项选中时所发生的动作。
 
-菜单项的文本一般是单个单词或者短语，但是也可能包含了图标和帮助文本，比如快捷方式，同时也可包含像复选标记之类的控件来标识多选条目或状态。可以参考[列表控件](list-controls.md)。
+菜单项的文本一般是单个单词或者短语，但是也可能包含了图标和帮助文本，比如快捷方式，同时也可包含像复选标记之类的控件来标识多选条目或状态。可以参考[列表控件](list-controls.html)。
 
 带有静态文本的菜单应当在菜单的上部放置最常使用的菜单项。
 
