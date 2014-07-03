@@ -96,3 +96,108 @@ Material Design 使用的基本工具是来自大量的印刷设计，像基线�
 
 
 ***
+
+##自适应准则
+
+当设计跨设备布局的时候，我们为网格行为结合固定的，粘性的和流畅的类型。
+
+这里有一些简单的指南：
+
+1.遵循人的习惯。
+
+2.更大的屏幕  ≠  更大的认知能力。
+
+3.
+
+4.
+
+5.
+
+在多重层次等级中使用类型，就类似于屏幕层级和卡片层级。
+
+桌面模版演示了几个响应屏幕的所有网格规则应用。
+
+[Desktop Template - 100MB(.ai)](http://material-design.storage.googleapis.com/downloads/Layout_Desktop_Whiteframe.ai)
+
+
+![](images/layout-principles-responsive-responsive-01_large_mdpi.png)
+
+***
+
+## 维度
+
+在dps中深度是可被测量的，就像x轴和y轴。然而，在z坐标空间里去考虑元素的**优先级**是更有效的，而不只是依据绝对的固定的位置。
+
+
+**一个概念模型**
+
+在一个高层次级别上，每个app都可以被认为是放置在一个独特的空间或容器。
+
+这样就意味着一个应用软件里的页面不能在Z轴空间插入另外一个页面。
+
+这也意味着操作和物体是独立在app中:例如,在一个软件里让一个列表消失将不会导致那个列表穿过另一个不相关app的空间。
+
+容器允许多种app视图同步化，例如，在多种浏览器标签里。
+
+![](images/layout-principles-dimensionality-dimensionality-01_large_mdpi.png)
+
+
+在一个特定的软件里，根据z轴主要和次要的层阶[step]，很多元素都是相对放置的。例如，一个按钮的聚焦状态是次要的层阶，而它的按下状态是一个主要的层阶。
+
+
+其他元素在app的Z轴里有固定的优先级，意味着他们位于其他元素上面或者下面，不管那些元素是否处于Z轴相关的位置上。比如，浮动操作按钮在内容和工具栏之上，不管这个app可能会用到多少个页面。
+
+![](images/layout-principles-dimensionality-dimensionality-02_large_mdpi.png)
+
+
+系统元素，比如状态栏和系统对话框，它们存在于单独的系统空间里，在所有app容器的上方和下方。
+
+取决于内容， 系统元素有可能不出现在一个app里（比如在关灯模式中），但当系统元素存在时，系统空间建立系统元素的相对优先权。这可确保，比如，一个系统对话框总出现在当前app的上面。
+
+![](image/slayout-principles-dimensionality-dimensionality-03_large_mdpi.png)
+
+**布局注意事项**
+
+深度不仅仅是装饰。
+
+优先考虑元素的z轴空间，不是绝对的位置。
+
+app中的深度应该沟通层级和发挥重要作用，并且帮助用户关注手头的任务。
+
+
+![](images/layout-principles-dimensionality-dimensionality-04_large_mdpi.png)
+
+
+
+**阴影**
+
+阴影有两部分组成：顶层的深度阴影和底层的清晰度阴影。
+
+![](images/layout-principles-dimensionality-shadows-01_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-08_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-02_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-08_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-03_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-08_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-04_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-08_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-05_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-08_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-06_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-08_large_mdpi.png)
+
+![](images/layout-principles-dimensionality-shadows-07_large_mdpi.png)
+
+
+
