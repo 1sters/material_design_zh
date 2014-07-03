@@ -22,15 +22,13 @@ Dark theme
 
 在滑动条(Bar)上图标相对于左边和/或右边的间距的呈现。
 
-![](images/components-sliders-sliders-sliders_12_large_mdpi.png)
-![](images/components-sliders-sliders-sliders_spec_16_large_mdpi.png)
+![](images/components-sliders-sliders-sliders_12_large_mdpi.png)&nbsp;&nbsp;![](images/components-sliders-sliders-sliders_spec_16_large_mdpi.png)
 
 **带有可编辑数值的滑片**
 
 用于使用者需要设定精确数值的设置项，可以通过点触缩略图、文本框来进行编辑。
 
-![](images/components-sliders-sliders-sliders_14_large_mdpi.png)
-![](images/components-sliders-sliders-sliders_spec_24_large_mdpi.png)
+![](images/components-sliders-sliders-sliders_14_large_mdpi.png)&nbsp;&nbsp;![](images/components-sliders-sliders-sliders_spec_24_large_mdpi.png)
 
 
 ---
