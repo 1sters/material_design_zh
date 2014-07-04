@@ -11,13 +11,13 @@
 
 按钮的设计应当和应用的颜色主题保持一致.    
 ##<font color="#3E4EB8">用法</font>    
-![p0](  images/components-buttons-usage-01_intro_large_xhdpi.png)
+![p0](  images/components-buttons-usage-01_intro_large_mdpi.png)
  
 悬浮响应按钮  
 
-![p1](  images/components-buttons-usage-02_intro_large_xhdpi.png)
+![p1](  images/components-buttons-usage-02_intro_large_mdpi.png)
 浮动按钮  
-![p2](  images/components-buttons-usage-03_intro_large_xhdpi.png)
+![p2](  images/components-buttons-usage-03_intro_large_mdpi.png)
 扁平按钮      
 **主按钮**  
 
@@ -29,36 +29,36 @@
 
 最后，检查你的布局. 一个容器应该只使用一种类型的按钮. 只在比较特殊的情况下（比如需要强调一个浮起的效果）才应该混合使用多种类型按钮.
 
-![p3](  images/components-buttons-usage-05_chart_large_xhdpi.png)      
+![p3](  images/components-buttons-usage-05_chart_large_mdpi.png)      
  
 **对话框中的按钮**
 
 对话框中使用扁平按钮作为主要按钮类型以避免过多的层次叠加。
-![p4](  images/components-buttons-dialog_usage_1_large_xhdpi.png)
+![p4](  images/components-buttons-dialog_usage_1_large_mdpi.png)
 
-![p5](  images/components-buttons-dialog_usage_2_large_xhdpi.png)
+![p5](  images/components-buttons-dialog_usage_2_large_mdpi.png)
  
 **按钮内部**
 
 根据特定的布局来选择使用扁平按钮或者浮动按钮. 对于扁平按钮，应该在内部四周留出足够的空间以使按钮清晰可见.
-![p6](  images/components-buttons-usage-1_usage_padding_large_xhdpi.png)  
-![p7](  images/components-buttons-usage-2_usage_padding_large_xhdpi.png)    
+![p6](  images/components-buttons-usage-1_usage_padding_large_mdpi.png)  
+![p7](  images/components-buttons-usage-2_usage_padding_large_mdpi.png)    
  
 **底部固定按钮**
 
 如果需要一个对用户持续可见的功能按钮, 应该首先考虑使用悬浮响应按钮。如果需要一个非主要，但是能快速定位到的按钮, 则可以使用底部固定按钮。
 
-![p8](  images/components-buttons-usage-1_buttons_usage_19_large_xhdpi.png)  
-![p9](  images/components-buttons-usage-2_buttons_usage_19_large_xhdpi.png)  
-![p10](  images/components-buttons-persistant-footer-1_large_xhdpi.png)
+![p8](  images/components-buttons-usage-1_buttons_usage_19_large_mdpi.png)  
+![p9](  images/components-buttons-usage-2_buttons_usage_19_large_mdpi.png)  
+![p10](  images/components-buttons-persistant-footer-1_large_mdpi.png)
  
 不可在底部固定按钮的区域内使用浮动按钮.
 
-![p11](  images/components-buttons-usage-usage_persistent_large_xhdpi.png)
+![p11](  images/components-buttons-usage-usage_persistent_large_mdpi.png)
  
 底部固定按钮也可以用在内容可拉动的对话框中，前提是要加上divider.
-![p12](  images/components-buttons-persistant-footer-4a_large_xhdpi.png)  
-![p13](  images/components-buttons-persistant-footer-4b_large_xhdpi.png)  
+![p12](  images/components-buttons-persistant-footer-4a_large_mdpi.png)  
+![p13](  images/components-buttons-persistant-footer-4b_large_mdpi.png)  
 
 ========
  
@@ -69,28 +69,28 @@
 悬浮响应按钮是促进动作里的特殊类型。 是一个圆形的漂浮在界面之上的拥有一系列特殊动作的按钮，这些动作通常和变换、启动、以及它本身的转换锚点相关。
 更多关于悬浮响应按钮的信息, 请参考 [模式: 浮起动作](http://www.google.com/design/spec/patterns/promoted-actions.html "Patterns: Promoted Actions").
 
-![p14](  images/components-buttons-floating-actions-1a_large_xhdpi.png)  
-![p15](  images/components-buttons-floating-actions-1b_large_xhdpi.png)  
+![p14](  images/components-buttons-floating-actions-1a_large_mdpi.png)  
+![p15](  images/components-buttons-floating-actions-1b_large_mdpi.png)  
  
 悬浮响应按钮有两种尺寸: 默认尺寸和迷你尺寸. 迷你尺寸仅仅用于配合屏幕上的其他元素制造视觉上的连续性。
 
-![p16](  images/patterns-promotedactions-floatingactionbuttonFAB3_large_xhdpi.png)  
-![p17](  images/patterns-promotedactions-floatingactionbuttonFAB4_large_xhdpi.png)
+![p16](  images/patterns-promotedactions-floatingactionbuttonFAB3_large_mdpi.png)  
+![p17](  images/patterns-promotedactions-floatingactionbuttonFAB4_large_mdpi.png)
  
 **浮动按钮**
 
 浮动按钮使按钮在比较拥挤的界面上更清晰可见。能给大多数扁平的布局带来层次感。
  
-![p18](  images/components-buttons-usage-raised-do_large_xhdpi.png)  
-![p19](  images/components-buttons-usage-raised-dont_large_xhdpi.png)  
+![p18](  images/components-buttons-usage-raised-do_large_mdpi.png)  
+![p19](  images/components-buttons-usage-raised-dont_large_mdpi.png)  
  
-![p20](  images/components-buttons-usage-raised-1a_large_xhdpi.png)
+![p20](  images/components-buttons-usage-raised-1a_large_mdpi.png)
 
 <span style="background:#48B04B" ><font color="#48B048">===============================================</font></span>  
 <font color="#48B04B">正确。</font>  
 浮动按钮的正确使用。  
 
-![p21](  images/components-buttons-usage-raised-1b_large_xhdpi.png)
+![p21](  images/components-buttons-usage-raised-1b_large_mdpi.png)
 <span style="background:#F74E2D" ><font color="#F74E2D">===============================================</font></span>  
 <font color="#F74E2D">错误</font>   
 按钮不明显。    
@@ -98,17 +98,17 @@
 
 扁平按钮一般用于对话框或者工具栏, 可避免页面上过多无意义的层叠。
 
-![p22](  images/components-buttons-usage-flat-1a_large_xhdpi.png)
+![p22](  images/components-buttons-usage-flat-1a_large_mdpi.png)
 
-![p23](  images/components-buttons-usage-flat-1b_large_xhdpi.png)
+![p23](  images/components-buttons-usage-flat-1b_large_mdpi.png)
 
 
-![p24](  images/components-buttons-usage-flat-do_large_xhdpi.png) 
+![p24](  images/components-buttons-usage-flat-do_large_mdpi.png) 
 <span style="background:#48B04B" ><font color="#48B048">===============================================</font></span>  
 <font color="#48B04B">正确。</font>  
 扁平按钮的正确使用。  
 
-![p25](  images/components-buttons-usage-flat-dont_large_xhdpi.png) 
+![p25](  images/components-buttons-usage-flat-dont_large_mdpi.png) 
 <span style="background:#F74E2D" ><font color="#F74E2D">===============================================</font></span>  
 <font color="#F74E2D">错误</font>   
 层次感太重。
@@ -126,21 +126,21 @@
 模拟按钮状态的时候, 可以使用图形轮换来表现动画。注意聚焦状态会一直处于动画的状态。 (下面这些图并没有显示出真实的聚焦状态。)
 
   
-![p26](  images/components-buttons-states-for-mocks-1a_large_xhdpi.png)  
+![p26](  images/components-buttons-states-for-mocks-1a_large_mdpi.png)  
 Flat Light/Light color  
 最小宽度: 88 DP, 高度: 36 DP  
 覆盖状态: 20% #999, 点击状态: 40% #999, 不可用状态: 10% #999  
  
-![p27](  images/components-buttons-states-for-mocks-1b_large_xhdpi.png)  
+![p27](  images/components-buttons-states-for-mocks-1b_large_mdpi.png)  
 Flat Dark/Dark Color  
 最小宽度: 88 DP, 高度: 36 DP  
 覆盖状态: 15% #ccc, 点击状态: 25% #ccc, 不可用状态: 10% #ccc  
  
-![p28](  images/components-buttons-states-for-mocks-2a_large_xhdpi.png)  
+![p28](  images/components-buttons-states-for-mocks-2a_large_mdpi.png)  
 Raised Light/Light Color  
 最小宽度: 88 DP, 高度: 36 DP  
 
-![p29](  images/components-buttons-states-for-mocks-2b_large_xhdpi.png)  
+![p29](  images/components-buttons-states-for-mocks-2b_large_mdpi.png)  
  
 Raised Dark/Dark Color  
 最小宽度: 88 DP, 高度: 36 DP  
@@ -161,9 +161,9 @@ Raised Dark/Dark Color
 
 图标开关可以在它的范围内呈现弹性或者非弹性的墨水扩散涟漪效果. 更多信息请参考： [面响应](http://www.google.com/design/spec/animation/responsive-interaction.html#responsive-interaction-ink-reactions).
 
-![p30](  images/components-buttons-icon-toggles-1_large_xhdpi.png)
-![p31](  images/components-buttons-icon-toggles-2_large_xhdpi.png)
-![p32](  images/components-buttons-icon-toggles-3_large_xhdpi.png)
+![p30](  images/components-buttons-icon-toggles-1_large_mdpi.png)
+![p31](  images/components-buttons-icon-toggles-2_large_mdpi.png)
+![p32](  images/components-buttons-icon-toggles-3_large_mdpi.png)
  
 ####**移动端下拉菜单按钮**    
 
@@ -171,8 +171,8 @@ Raised Dark/Dark Color
   
 下拉菜单按钮可以用来控制对象状态; 一般会有两个甚至更多的状态。 按钮会显示当前状态以及一个向下的箭头—当按钮触发后, 一个包含所有状态的菜单会在按钮周围弹出（通常都是在下方）. 菜单中的状态通常会以字符、调色板、图标或者其他的形式呈现出来。点击任意一个状态将会改变按钮的状态显示。这展示的是一个常见的带有列表式菜单的下拉菜单按钮。
 
-![p33](  images/components-buttons-mobile-dropdowns-1a_large_xhdpi.png)  
-![p34](  images/components-buttons-mobile-dropdowns-1b_large_xhdpi.png)  
+![p33](  images/components-buttons-mobile-dropdowns-1a_large_mdpi.png)  
+![p34](  images/components-buttons-mobile-dropdowns-1b_large_mdpi.png)  
  
 **溢出下拉菜单按钮**  
   
@@ -186,11 +186,11 @@ Raised Dark/Dark Color
   
 可编辑分段式下拉菜单按钮的当前状态位置是可编辑的（例如用来选择文字大小的下拉菜单）. 点击当前状态位置会触发相应的动作并且当前状态会变成可编辑。点击下拉箭头会显示所有状态。
 
-![p35](  images/components-buttons-mobile-dropdowns-3_large_xhdpi.png)
+![p35](  images/components-buttons-mobile-dropdowns-3_large_mdpi.png)
  
 <video src="http://material-design.storage.googleapis.com/videos/components-menus-menus-textfield_dropdown_spec_large_xhdpi.mp4" controls="controls" width="360" loop height="450" />  
  
 **桌面下拉相关**  
 
 桌面应用工具栏 
-![p36](  images/components-buttons-desktop-dropdowns_large_xhdpi.png)
+![p36](  images/components-buttons-desktop-dropdowns_large_mdpi.png)
