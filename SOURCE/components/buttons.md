@@ -1,4 +1,4 @@
-#<font color="#3E4EB8">按钮</font>  
+#按钮  
 
 按钮由文字或者图案组成，文字或者图案必须能让人轻易地和点击后展示的内容联系起来.
 主要的按钮有三种:
@@ -10,7 +10,7 @@
 颜色饱满的图标应当是功能性的-尽量避免把他们作为纯粹装饰用的物体。
 
 按钮的设计应当和应用的颜色主题保持一致.    
-##<font color="#3E4EB8">用法</font>    
+##用法    
 ![p0](  images/components-buttons-usage-01_intro_large_mdpi.png)
  
 悬浮响应按钮  
@@ -62,7 +62,7 @@
 
 ========
  
-##<font color="#3E4EB8">主按钮</font>    
+##主按钮    
 
 **悬浮响应按钮**
 
@@ -86,13 +86,13 @@
  
 ![p20](  images/components-buttons-usage-raised-1a_large_mdpi.png)
 
-<span style="background:#48B04B" ><font color="#48B048">===============================================</font></span>  
-<font color="#48B04B">正确。</font>  
+===============================================  
+正确。  
 浮动按钮的正确使用。  
 
 ![p21](  images/components-buttons-usage-raised-1b_large_mdpi.png)
-<span style="background:#F74E2D" ><font color="#F74E2D">===============================================</font></span>  
-<font color="#F74E2D">错误</font>   
+===============================================  
+错误   
 按钮不明显。    
 **扁平按钮**
 
@@ -104,13 +104,13 @@
 
 
 ![p24](  images/components-buttons-usage-flat-do_large_mdpi.png) 
-<span style="background:#48B04B" ><font color="#48B048">===============================================</font></span>  
-<font color="#48B04B">正确。</font>  
+===============================================  
+正确。  
 扁平按钮的正确使用。  
 
 ![p25](  images/components-buttons-usage-flat-dont_large_mdpi.png) 
-<span style="background:#F74E2D" ><font color="#F74E2D">===============================================</font></span>  
-<font color="#F74E2D">错误</font>   
+===============================================  
+错误   
 层次感太重。
 
 **扁平和浮动按钮状态**
@@ -153,7 +153,7 @@ Raised Dark/Dark Color
 扁平按钮  
 <video src="http://material-design.storage.googleapis.com/videos/components-buttons-mainbuttons-buttons-motionraised_large_xhdpi.mp4" controls="controls" width="360" loop height="450"></video>  
 浮动按钮   
-##<font color="#3E4EB8">其他类型的按钮</font>    
+##其他类型的按钮    
 
 **图标开关**  
   
