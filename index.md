@@ -15,8 +15,8 @@ Google I/O 2014 发布的 Material Design 将会成为统一 Android Mobile，An
 启动「校对」，任务认领中... （[如何认领>>](https://github.com/1sters/material_design_zh/blob/master/README.md#%E6%A0%A1%E5%AF%B9%E8%AE%A4%E9%A2%86%E7%AB%A0%E8%8A%82%E8%AE%B0%E5%BD%95%E8%AE%A4%E9%A2%86ing)）   
 
 **Material Design演示视频**
-<video crossorigin="anonymous"   controls width="600" height="337" autoplay="autoplay">
-<source src="http://materialdesign.qiniudn.com/Material%20design.mp4" type="video/webm">
+<video crossorigin="anonymous" controls poster="http://materialdesign.qiniudn.com/poster.png" >
+<source src="http://materialdesign.qiniudn.com/Material%20design.mp4"  type="video/webm">
 </video>
 
 
