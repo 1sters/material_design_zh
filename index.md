@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Material Design 中文版
+title: Material Design
 permalink: index.html
 ---
 
