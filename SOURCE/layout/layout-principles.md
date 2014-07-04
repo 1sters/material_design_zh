@@ -199,5 +199,4 @@ app中的深度应该沟通层级和发挥重要作用，并且帮助用户关�
 
 ![](images/layout-principles-dimensionality-shadows-07_large_mdpi.png)
 
-
-
+>   原文： [Principles]([http://www.google.com/design/spec/layout/layout-principles.html](http://www.google.com/design/spec/layout/layout-principles.html))   翻译： [lightlz]([https://github.com/lightlz](https://github.com/lightlz))
