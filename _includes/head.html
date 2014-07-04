@@ -1,11 +1,12 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} - - {{site.title}} {% else %}{{ site.title }}{% endif %}</title>
+    <meta name="keywords" content="Material Design 中文版,Material Design,Animation,Style,Layout,Components,Patterns,Usability,Resources" />
+    <meta name="description" content="{{ site.description }}">
     <meta name="viewport" content="width=device-width">
     <meta name="baidu-site-verification" content="db13ccb0748b53c26c9b36dc6a4cb1e0"/>
-    <meta name="keywords" content="Material Design,Google Material Design,Animation,Style,Layout,Components,Patterns,Usability,Resources" />
-    <meta name="description" content="{{ site.description }}">
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="icon" type="image/x-icon" href="{{ "/favico.ico" | prepend: site.baseurl }}" />
     <!-- Custom CSS -->
