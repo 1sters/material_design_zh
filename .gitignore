@@ -5,3 +5,4 @@ epub_tmp
 _site/
 Gemfile.lock
 script/publish
+sitemap.xml

@@ -21,3 +21,4 @@ sitemap:
       - "/feed/index.xml"
   include_posts:
       - "/index.html"
+

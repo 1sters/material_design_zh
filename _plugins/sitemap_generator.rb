@@ -60,7 +60,8 @@ module Jekyll
     def write(dest)
       begin
         super(dest)
-      rescue
+      rescue  => e  
+        puts "---#{e}-----"
       end
 
       true
@@ -109,14 +110,18 @@ module Jekyll
 
       # File I/O: create sitemap.xml file and write out pretty-printed XML
       filename = @config['filename']
-      file = File.new(File.join(site.dest, filename), "w")
+      # puts "---------#{site.source}"
+      file = File.new(File.join(site.source, filename), "w")
       formatter = REXML::Formatters::Pretty.new(4)
+      # puts "=====#{formatter}"
       formatter.compact = true
       formatter.write(sitemap, file)
       file.close
+      # puts "---#{Jekyll::SitemapFile.new(site, site.source, "/", filename)}"
 
       # Keep the sitemap.xml file from being cleaned by Jekyll
-      site.static_files << Jekyll::SitemapFile.new(site, site.dest, "/", filename)
+      site.static_files << Jekyll::SitemapFile.new(site, site.source, "/", filename)
+
     end
 
     # Create url elements for all the posts and find the date of the latest one
