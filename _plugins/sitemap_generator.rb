@@ -111,7 +111,7 @@ module Jekyll
       # File I/O: create sitemap.xml file and write out pretty-printed XML
       filename = @config['filename']
       # puts "---------#{site.source}"
-      file = File.new(File.join(site.source, filename), "w")
+      file = File.new(File.join(site.dest, filename), "w")
       formatter = REXML::Formatters::Pretty.new(4)
       # puts "=====#{formatter}"
       formatter.compact = true
@@ -120,7 +120,7 @@ module Jekyll
       # puts "---#{Jekyll::SitemapFile.new(site, site.source, "/", filename)}"
 
       # Keep the sitemap.xml file from being cleaned by Jekyll
-      site.static_files << Jekyll::SitemapFile.new(site, site.source, "/", filename)
+      site.static_files << Jekyll::SitemapFile.new(site, site.dest, "/", filename)
 
     end
 

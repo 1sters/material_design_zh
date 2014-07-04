@@ -10,7 +10,7 @@ module Jekyll
  
     def generate(site)
       # puts "---------generate----#{File.join(site.source, 'version.html')}---"
-      File.open(File.join(site.source, 'version.html'), 'w') do |f|
+      File.open(File.join(site.dest, 'version.html'), 'w') do |f|
         f.write(generate_report(site))
       end
     end
