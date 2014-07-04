@@ -12,7 +12,7 @@ permalink: bottom-sheets.html
 
 底部窗口（bottom sheets）特别适合有三个或者三个以上的功能需要展示给用户选，并且不需要对动作有额外解释的情景。如果只有两个或者更少的功能，或者需要详加描述的，可以考虑使用菜单（menu）或者对话框替代。
 
-底部窗口（bottom sheets）可以是列表样式的也可以是表格样式的。表格布局可以增加视觉的清晰度。
+底部窗口（bottom sheets）可以是列表样式的也可以是宫格样式的。宫格布局可以增加视觉的清晰度。
 
 你可以使用底部窗口（bottom sheets）展示和其他app相关的功能，比如做为进入其他app的入口（通过app的icon进入）。
 
@@ -20,7 +20,7 @@ permalink: bottom-sheets.html
 
 在一个标准的列表样式的底部窗口（bottom sheets）中,每一个功能应该有一个文本描述和一个左对齐的icon。如果需要的话，也可以使用分隔符对这些功能进行逻辑分组，也可以使用子标题或者标题供上下选择。
 
-一个可以滚动的表格样式的底部窗口，可以用来包含标准的分享功能。
+一个可以滚动的宫格样式的底部窗口，可以用来包含标准的分享功能。
 
 ![图1](images/components-bottomsheet-for-mobile-1a_large_mdpi.png)
 ![图2](images/components-bottomsheet-for-mobile-1b_large_mdpi.png)
@@ -49,4 +49,4 @@ permalink: bottom-sheets.html
 ![图1](images/components-bottomsheets-content-actionsheet_20_large_mdpi.png)
 ![图2](images/components-bottomsheets-content-actionsheet_20b_large_mdpi.png)
 
-（上图）表格样式的包含标准的跳转到其他程序功能的底部窗口规格设计
+（上图）包含跳转到其他程序入口的标准宫格样式的底部窗口规格设计
