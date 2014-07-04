@@ -81,11 +81,10 @@ permalink: grids.html
 
 ![](images/components-grids-behavior-spec_grid_drawings_06_large_mdpi.png)    
 要  
+（图片用来）说明砍去网格瓦片造成内容溢出   
 
 ![](images/components-grids-behavior-spec_grid_drawings_05_large_mdpi.png)  
 不要   
-
-（图片用来）说明砍去网格瓦片造成内容溢出
 
 ### 手势 ###
 
@@ -101,13 +100,11 @@ permalink: grids.html
 
 重置网格列表的尺寸会导致瓦片在有水平空间可用时重新排序。但是瓦片并不会缩放以填充可用的水平空间。
 
-当水平空间受限时，网格列表不会发生改变。网格列表与列表在强调不同数据类型时时不同的结构：图片优于文本与文本优于图片的区别。
-
-
+当水平空间受限时，网格列表不会发生改变。网格列表与列表在强调不同数据类型时时不同的结构：图片优于文本与文本优于图片的区别。   
 
 ## 边框 ##
 
-### 网格列表表头/表尾（header/footers ###）
+### 网格列表表头/表尾（header/footers）###
 
 **单行表头/表尾**
 
@@ -144,11 +141,10 @@ permalink: grids.html
 
 
 ![](images/components-grids-keylines-imageOnlyGrid_01_large_mdpi.png)  
-**元素**
+**元素**    
 
 ![](images/components-grids-keylines-imageOnlyGrid_03_large_mdpi.png)  
-
-
+  
 
 ### 单行网格列表 ###
 
@@ -167,7 +163,7 @@ permalink: grids.html
 
 
 ![](images/components-grids-keylines-SingleLineGrid_01b_large_mdpi.png)  
-**元素**
+**元素**   
 
 
 ![](images/components-grids-keylines-SingleLineGrid_02_large_mdpi.png)  
@@ -189,8 +185,8 @@ permalink: grids.html
 ![](images/components-grids-keylines-SingleLineGrid_03a_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-SingleLineGrid_03b_large_mdpi.png)  
-**元素**
+![](images/components-grids-keylines-SingleLineGrid_03b_large_mdpi.png)   
+**元素**    
 
 
 ![](images/components-grids-keylines-SingleLineGrid_03c_large_mdpi.png)  
@@ -219,13 +215,11 @@ permalink: grids.html
 
 
 ![](images/components-grids-keylines-TwoLineGrid_01b_large_mdpi.png)  
-**元素**
+**元素**    
 
 
-![](images/components-grids-keylines-TwoLineGrid_02_large_mdpi.png)  
-
-
-**内容**
+![](images/components-grids-keylines-TwoLineGrid_02_large_mdpi.png)    
+**内容**     
 
 **带有图标的文本**
 
@@ -243,15 +237,14 @@ permalink: grids.html
 ![](images/components-grids-keylines-TwoLineGrid_03a_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-TwoLineGrid_03b_large_mdpi.png)  
-**元素**
+![](images/components-grids-keylines-TwoLineGrid_03b_large_mdpi.png)     
+元素     
+
+![](images/components-grids-keylines-TwoLineGrid_03c_large_mdpi.png)    
 
 
-![](images/components-grids-keylines-TwoLineGrid_03c_large_mdpi.png)  
+![](images/components-grids-keylines-TwoLineGrid_03d_large_mdpi.png)   
 
 
-![](images/components-grids-keylines-TwoLineGrid_03d_large_mdpi.png)  
-
-
-![](images/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)  
-**内容**
+![](images/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)   
+**内容**   
