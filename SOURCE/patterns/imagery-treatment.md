@@ -57,6 +57,6 @@ permalink: imagery-treatment.html
 <source src="http://materialdesign.qiniudn.com/videos/patterns-imagerytreatment-adding-animation_large_xhdpi.webm" type="video/webm">
 </video>
 
-原文：<a href="http://www.google.com/design/spec/patterns/imagery-treatment.html">Imagery Treatment</a>  翻译：<a href="https://github.com/ZeroLu">ZeroLu</a>    
 
+> 原文：[Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) 翻译：[ZeroLu](https://github.com/ZeroLu)
 

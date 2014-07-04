@@ -215,4 +215,4 @@ permalink: promoted-actions.html
 不要                  
 
 
-原文：<a href="http://www.google.com/design/spec/patterns/promoted-actions.html">Promoted Actions</a>  翻译：<a href="https://github.com/ZeroLu">ZeroLu</a>    
+> 原文：[Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) 翻译：[ZeroLu](https://github.com/ZeroLu)
