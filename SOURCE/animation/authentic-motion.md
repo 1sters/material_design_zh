@@ -50,4 +50,4 @@ permalink: authentic-motion.html
 
 不是所有物体的移动方式是相同的，轻的/小的物体可能会更快的加速和减速，因为它们质量比较小，所以只需要施加给他们较少的力就可以。大的/重 的物体可能花需要更多的时间来到达他的最高速度或者回到停止状态。仔细琢磨如何将他们的动作应用到你的应用的UI元素中。
 
-> 翻译: [zhenbeiju](https://github.com/zhenbeiju)  校对: [Iceskysl](https://github.com/Iceskysl)
+> 原文: [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) 翻译: [zhenbeiju](https://github.com/zhenbeiju)  校对: [Iceskysl](https://github.com/Iceskysl)
