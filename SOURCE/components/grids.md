@@ -107,7 +107,7 @@ permalink: grids.html
 
 ## 边框 ##
 
-### 网格列表表头/表尾（header/footers ###）
+### 网格列表表头/表尾（header/footers）###
 
 **单行表头/表尾**
 
