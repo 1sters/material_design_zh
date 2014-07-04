@@ -107,17 +107,17 @@ Material Design 使用的基本工具是来自大量的印刷设计，像基线�
 
 2.更大的屏幕  ≠  更大的认知能力。
 
-3.
+3.线条长度应该是可伸缩的。
 
-4.
+4.说明角的距离。
 
-5.
+5.把家具从墙上取下来：允许空白，不要把自己局限在固定的工具栏。
 
 在多重层次等级中使用类型，就类似于屏幕层级和卡片层级。
 
 桌面模版演示了几个响应屏幕的所有网格规则应用。
 
-[Desktop Template - 100MB(.ai)](http://material-design.storage.googleapis.com/downloads/Layout_Desktop_Whiteframe.ai)
+[Desktop Template - 100MB(.ai)](http://materialdesign.qiniudn.com/downloads/Layout_Desktop_Whiteframe.ai)
 
 
 ![](images/layout-principles-responsive-responsive-01_large_mdpi.png)
@@ -152,7 +152,7 @@ Material Design 使用的基本工具是来自大量的印刷设计，像基线�
 
 系统元素，比如状态栏和系统对话框，它们存在于单独的系统空间里，在所有app容器的上方和下方。
 
-取决于内容， 系统元素有可能不出现在一个app里（比如在关灯模式中），但当系统元素存在时，系统空间建立系统元素的相对优先权。这可确保，比如，一个系统对话框总出现在当前app的上面。
+取决于内容， 系统元素有可能不出现在一个app里（比如在熄灯模式中），但当系统元素存在时，系统空间建立系统元素的相对优先权。这可确保，比如，一个系统对话框总出现在当前app的上面。
 
 ![](images/layout-principles-dimensionality-dimensionality-03_large_mdpi.png)
 
