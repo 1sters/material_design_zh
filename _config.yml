@@ -2,8 +2,8 @@
 title: Material Design 中文版
 email: hey@1sters.com
 description: "Google I/O(2014)最新发布的Material Design势必会成为全平台设计规范，其适配包括 Android Mobile, Android Table, Web Chrome 在内的所有平台；对从业人员意义重大，我们已经通过互联网方式将其翻译成中文版，并保持持续更新~"
-baseurl: "http://design.1sters.com"
-# baseurl: ""
+# baseurl: "http://design.1sters.com"
+baseurl: ""
 highlighter: ""
 url: "http://design.1sters.com"
 exclude: ["SOURCE", "script", "Gemfile", "Gemfile.lock","epub_tmp","ebooks"]
