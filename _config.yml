@@ -14,7 +14,7 @@ permalink: pretty
 kramdown:
   input: GFM
 sitemap:
-  file: "/sitemap.xml"
+  file: "sitemap.xml"
   exclude:
       - "/atom.xml"
       - "/feed.xml"

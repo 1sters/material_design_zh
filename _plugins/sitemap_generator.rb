@@ -60,8 +60,8 @@ module Jekyll
     def write(dest)
       begin
         super(dest)
-      rescue  => e  
-        puts "---#{e}-----"
+      rescue 
+        # puts "---#{e}-----"
       end
 
       true

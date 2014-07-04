@@ -9,7 +9,7 @@ module Jekyll
     safe true
  
     def generate(site)
-      puts "---------generate----#{File.join(site.source, 'version.html')}---"
+      # puts "---------generate----#{File.join(site.source, 'version.html')}---"
       File.open(File.join(site.source, 'version.html'), 'w') do |f|
         f.write(generate_report(site))
       end
@@ -18,7 +18,7 @@ module Jekyll
     private
  
     def generate_report(site)
-      puts "---------generate_report---#{Jekyll::VERSION}}----"
+      # puts "---------generate_report---#{Jekyll::VERSION}}----"
       "Site generated with Jekyll version: #{Jekyll::VERSION}"
     end
  
