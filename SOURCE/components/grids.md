@@ -237,8 +237,8 @@ permalink: grids.html
 ![](images/components-grids-keylines-TwoLineGrid_03a_large_mdpi.png)  
 
 
-![](images/components-grids-keylines-TwoLineGrid_03b_large_mdpi.png)  
-**元素**     
+![](images/components-grids-keylines-TwoLineGrid_03b_large_mdpi.png)     
+元素     
 
 ![](images/components-grids-keylines-TwoLineGrid_03c_large_mdpi.png)    
 
@@ -246,5 +246,5 @@ permalink: grids.html
 ![](images/components-grids-keylines-TwoLineGrid_03d_large_mdpi.png)   
 
 
-![](images/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)    
+![](images/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)   
 **内容**   
