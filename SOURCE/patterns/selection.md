@@ -43,11 +43,9 @@ permalink: selection.html
 文本选择菜单的字体用Roboto Medium 14 sp，一律大写。 
 
 ![](images/patterns-selection-selection-textfields_select_11a_large_mdpi.png)
-
 ![](images/patterns-selection-selection-textfields_select_11b_large_mdpi.png)
 
 ![](images/patterns-selection-selection-textfields_select_11c_large_mdpi.png)
-
 ![](images/patterns-selection-selection-textfields_select_11d_large_mdpi.png)
 
 ![](images/patterns-selection-selection-textfields_select_12_large_mdpi.png)
