@@ -1,4 +1,4 @@
-﻿---
+﻿﻿---
 layout: page
 title: Readme
 permalink: readme.html
@@ -57,13 +57,13 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [让用户愉悦的细节](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) √ by [com360](https://github.com/com360)
 * Style
   * [色彩](SOURCE/style/color.md) - [Color](http://www.google.com/design/spec/style/color.html) √ by [arjinmc](https://github.com/arjinmc)
-  * [字体排版](SOURCE/style/typography.md) - [Typography](http://www.google.com/design/spec/style/typography.html) √ by [acely](https://github.com/acely)
-  * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html) 90% by [Haoxiqiang](https://github.com/haoxiqiang)（还剩一段未翻译）  
-  * [Imagery](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)（空白）
+  * [Typography](http://www.google.com/design/spec/style/typography.html) 1% by [acely](https://github.com/acely)
+  * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html)  √ by [Haoxiqiang](https://github.com/haoxiqiang)
+  * [Imagery](http://www.google.com/design/spec/style/imagery.html) 1% by [lhyqy5](https://github.com/lhyqy5)
 * Layout
-  * [Principles](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)（空白）
-  * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [CodeDiving](http://github.com/codediving)
-  * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) 80% by [donlianggit](https://github.com/donlianggit)（需从繁体转化成简体）
+  * [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 1% by [vincent4j](https://github.com/vincent4j)
+  * [度量与边框](SOURCE/layout/metrics-and-keylines.md)--[Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) 99% by [CodeDiving](http://github.com/codediving)
+  * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) 90% by [donlianggit](https://github.com/donlianggit)
 * Components
   * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) √ by [com360](https://github.com/com360)
   * [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [7heaven](https://github.com/7heaven)
@@ -193,61 +193,61 @@ To git@github.com:IceskYsl/material_design_zh.git
 ├── cover.jpg
 ├── cover_small.jpg
 ├── material-design
-│   ├── images
-│   │   ├── materialdesign-goals-cutrectangles_large_mdpi.png
-│   │   ├── materialdesign-goals-landingimage_large_mdpi.png
-│   │   ├── materialdesign-goals-swirlanddot_large_mdpi.png
-│   │   ├── materialdesign-principles-circleplus_large_mdpi.png
-│   │   ├── materialdesign-principles-flyingsquare_large_mdpi.png
-│   │   └── materialdesign-principles-layersquares_large_mdpi.png
-│   └── introduction.md
+│   ├── images
+│   │   ├── materialdesign-goals-cutrectangles_large_mdpi.png
+│   │   ├── materialdesign-goals-landingimage_large_mdpi.png
+│   │   ├── materialdesign-goals-swirlanddot_large_mdpi.png
+│   │   ├── materialdesign-principles-circleplus_large_mdpi.png
+│   │   ├── materialdesign-principles-flyingsquare_large_mdpi.png
+│   │   └── materialdesign-principles-layersquares_large_mdpi.png
+│   └── introduction.md
 ├── animation
-│   ├── authentic-motion.md
-│   ├── delightful-details.md
-│   ├── meaningful-transitions.md
-│   └── responsive-interaction.md
+│   ├── authentic-motion.md
+│   ├── delightful-details.md
+│   ├── meaningful-transitions.md
+│   └── responsive-interaction.md
 ├── style
-│   ├── color.md
-│   ├── icons.md
-│   ├── imagery.md
-│   └── typography.md
+│   ├── color.md
+│   ├── icons.md
+│   ├── imagery.md
+│   └── typography.md
 ├── layout
-│   ├── layout-principles.md
-│   ├── metrics-and-keylines.md
-│   └── structure.md
+│   ├── layout-principles.md
+│   ├── metrics-and-keylines.md
+│   └── structure.md
 ├── components
-│   ├── bottom-sheets.md
-│   ├── buttons.md
-│   ├── cards.md
-│   ├── chips-tokens.md
-│   ├── dialogs.md
-│   ├── dividers.md
-│   ├── grids.md
-│   ├── list-controls.md
-│   ├── lists.md
-│   ├── menus.md
-│   ├── progress-activity.md
-│   ├── sliders.md
-│   ├── snackbars-and-toasts.md
-│   ├── subheaders.md
-│   ├── switches.md
-│   ├── tabs.md
-│   ├── text-fields.md
-│   └── tooltips.md
+│   ├── bottom-sheets.md
+│   ├── buttons.md
+│   ├── cards.md
+│   ├── chips-tokens.md
+│   ├── dialogs.md
+│   ├── dividers.md
+│   ├── grids.md
+│   ├── list-controls.md
+│   ├── lists.md
+│   ├── menus.md
+│   ├── progress-activity.md
+│   ├── sliders.md
+│   ├── snackbars-and-toasts.md
+│   ├── subheaders.md
+│   ├── switches.md
+│   ├── tabs.md
+│   ├── text-fields.md
+│   └── tooltips.md
 ├── patterns
-│   ├── gestures.md
-│   ├── imagery-treatment.md
-│   ├── promoted-actions.md
-│   ├── search.md
-│   ├── selection.md
-│   └── settings.md
+│   ├── gestures.md
+│   ├── imagery-treatment.md
+│   ├── promoted-actions.md
+│   ├── search.md
+│   ├── selection.md
+│   └── settings.md
 └── usability
     └── accessibility.md
 ├── resources
-│   ├── color-palettes.md
-│   ├── layout-templates.md
-│   ├── roboto-font.md
-│   └── sticker-sheets.md
+│   ├── color-palettes.md
+│   ├── layout-templates.md
+│   ├── roboto-font.md
+│   └── sticker-sheets.md
 ```
 
 ***
