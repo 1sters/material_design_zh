@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 促进的动作
 permalink: promoted-actions.html
@@ -215,3 +215,4 @@ permalink: promoted-actions.html
 不要                  
 
 
+> 原文：[Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) 翻译：[ZeroLu](https://github.com/ZeroLu)
