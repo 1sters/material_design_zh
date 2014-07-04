@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: 设置
 permalink: settings.html
