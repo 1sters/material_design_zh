@@ -11,6 +11,8 @@ exclude: ["SOURCE", "script", "Gemfile", "Gemfile.lock","epub_tmp","ebooks"]
 # Build settings
 markdown: kramdown
 permalink: pretty
+gems:
+  - jekyll-sitemap
 kramdown:
   input: GFM
 sitemap:
