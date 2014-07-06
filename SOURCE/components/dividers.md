@@ -21,7 +21,7 @@ permalink: dividers.html
 
 ###基于图片的内容
 
-由于网格列表（grid）本身属性而造成的视觉效果，这就导致在网格列表中是不需要分隔线来区别子标题与内容的。在这种情况下，子标题与内容间的空白区域就可以分隔每块的内容了.
+由于网格列表（grid）本身属性而造成的视觉效果，这就导致在网格列表中是不需要分隔线来区别子标题与内容的。在这种情况下，子标题与内容间的空白区域就可以分隔每块的内容了。
 
 
 ![contact chips](images/components-dividers-image-based-1a_large_mdpi.png)
