@@ -60,3 +60,5 @@ src="http://materialdesign.qiniudn.com/videos/components-tooltips-cursorkeyboard
 ![](images/components-tooltips-touchuitooltips-tooltips_19a_large_mdpi.png)
 
 ![](images/components-tooltips-touchuitooltips-tooltips_19b_large_mdpi.png)
+
+> 原文：[Tooltips](http://www.google.com/design/spec/components/tooltips.html)  翻译：[lhyqy5](https://github.com/lhyqy5)  校对：[PoppinLp](https://github.com/poppinlp)
