@@ -35,12 +35,12 @@ Google I/O 2014 发布的 Material Design 将会成为统一 Android Mobile，An
   * [图标](material_design/style/icons.html) - [Icons](http://www.google.com/design/spec/style/icons.html) 90% by [Haoxiqiang](https://github.com/haoxiqiang)（还剩一段未翻译）  
   * [图像](material_design/style/imagery.html) - [Imagery](http://www.google.com/design/spec/style/imagery.html) 85% by [lhyqy5](https://github.com/lhyqy5)（部分句子未翻译）
 * Layout
-  * [准则](material_design/layout/layout-principles.html) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) 95% by [lightlz](https://github.com/lightlz)（还剩三句未翻译）
+  * [准则](material_design/layout/layout-principles.html) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) √ by [lightlz](https://github.com/lightlz)
   * [度量与边框](material_design/layout/metrics-and-keylines.html) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [CodeDiving](http://github.com/codediving)
   * [结构](material_design/layout/structure.html) - [Structure](http://www.google.com/design/spec/layout/structure.html) √ by [donlianggit](https://github.com/donlianggit)
 * Components
   * [底部窗口](material_design/components/bottom-sheets.html) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) √ by [com360](https://github.com/com360)
-  * [按钮](material_design/components/buttons.html) - [Buttons](http://www.google.com/design/spec/components/buttons.html) 90% by [7heaven](https://github.com/7heaven)（图片改成 mdpi）
+  * [按钮](material_design/components/buttons.html) - [Buttons](http://www.google.com/design/spec/components/buttons.html) √ by [7heaven](https://github.com/7heaven)
   * [卡片](material_design/components/cards.html) - [Cards](http://www.google.com/design/spec/components/cards.html) √ by [ThatMrL](https://github.com/ThatMrL)
   * [纸片](material_design/components/chips.html) - [Chips](http://www.google.com/design/spec/components/chips.html) √ by [Kris](https://github.com/krislq)
   * [提示框](material_design/components/dialogs.html) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html) √ by [Kris](https://github.com/krislq)
