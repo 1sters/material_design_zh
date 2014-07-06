@@ -142,7 +142,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html)
   * [Tabs](SOURCE/components/tabs.md) - [Tabs](http://www.google.com/design/spec/components/tabs.html)
   * [文本框](SOURCE/components/text-fields.md) - [Text fields](http://www.google.com/design/spec/components/text-fields.html)
-  * [工具提示](SOURCE/components/tooltips.md) - [Tooltips](http://www.google.com/design/spec/components/tooltips.html) 1% by [poppinlp](https://github.com/poppinlp)
+  * [工具提示](SOURCE/components/tooltips.md) - [Tooltips](http://www.google.com/design/spec/components/tooltips.html) √  by [poppinlp](https://github.com/poppinlp)
 * Patterns
   * [选择](SOURCE/patterns/selection.md) - [Selection](http://www.google.com/design/spec/patterns/selection.html)
   * [手势](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html)（难）
