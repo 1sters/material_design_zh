@@ -41,13 +41,13 @@ permalink: meaningful-transitions.html
 <video crossorigin="anonymous"  loop  controls width="622" height="360">
 <source src="http://materialdesign.qiniudn.com/videos/meaningfultransitions-visualcontinuity2_large_xhdpi.webm" type="video/webm">
 </video>  
-**建议**  
+**要**  
 恰当的时候使用纸片叠加方式。一般情况下，新入的纸片元素应当滑入视线。但字体元素(ink element)除外，他们应该以淡入的方式出现。不提倡全屏的淡入淡出，但也比瞬间切屏要好。  
 
 <video crossorigin="anonymous"  loop  controls width="622" height="360">
 <source src="http://materialdesign.qiniudn.com/videos/meaningfultransitions-visualcontinuity1_large_xhdpi.webm" type="video/webm">
 </video>  
-**不建议**  
+**不要**  
 避免瞬间切屏(hard cut)。瞬间切屏过于突兀，并且会导致用户很难理解这个转场。
 
 ## 有层次的时序
@@ -61,13 +61,13 @@ permalink: meaningful-transitions.html
 <video crossorigin="anonymous"  loop  controls width="255" height="150">
 <source src="http://materialdesign.qiniudn.com/videos/animation-meaningfultransitions-hierarchicaltiming4do_large_xhdpi.webm" type="video/webm">
 </video>  
-**建议**  
+**要**  
 用递次的动画引导用户注意力。  
 
 <video crossorigin="anonymous"  loop  controls width="255" height="150">
 <source src="http://materialdesign.qiniudn.com/videos/animation-meaningfultransitions-hierarchicaltiming1dont_large_xhdpi.webm" type="video/webm">
 </video>  
-**不建议**  
+**不要**  
 所有元素同时变动的话会使得重要的内容无法突出展示。如果所有元素都同样重要(你确定会发生这种情况的话)，可以考虑采用更高层级的动画，使这些元素成组的显示。  
 
 ## 连贯的编排
