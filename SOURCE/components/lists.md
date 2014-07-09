@@ -103,18 +103,18 @@ permalink: lists.html
 
 
 ![](images/components-keylinesinlists-1_large_mdpi.png)  
-**元素**   
+元素   
 
 ![](images/components-keylinesinlists-2_large_mdpi.png)  
-**内容**  
+内容  
 
 在**两行列表**中，每个瓦片最多包含两行的文本。文本字数可以在同一列表的不同瓦片间改变。  
 
 ![](images/components-keylinesinlists-3_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-keylinesinlists-4_large_mdpi.png)  
-**内容**  
+内容  
 
 在三行列表中，每个瓦片最多包含三行文本。
 
@@ -122,10 +122,10 @@ permalink: lists.html
 
 
 ![](images/components-keylinesinlists-5_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-keylinesinlists-6_large_mdpi.png)  
-**内容**  
+内容  
 
 ### 单行列表 ###
 
@@ -141,13 +141,13 @@ permalink: lists.html
 
 
 ![](images/components-singlelinelists-1_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-singlelinelists-2_large_mdpi.png)  
-**元素**   
+元素   
 
 ![](images/components-singlelinelists-6_large_mdpi.png)   
-**内容**   
+内容   
 
 **带有文本的图标**
 
@@ -165,13 +165,13 @@ permalink: lists.html
 
 
 ![](images/components-singlelinelists-7_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-singlelinelists-8_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-singlelinelists-3_large_mdpi.png)  
-**内容**
+内容
 
 **带有文本的头像**
 
@@ -189,13 +189,13 @@ permalink: lists.html
 
 
 ![](images/components-singlelinelists-7_large_mdpi.png)   
-**元素**  
+元素  
 
 ![](images/components-singlelinelists-8_large_mdpi.png)    
-**元素**   
+元素   
 
 ![](images/components-singlelinelists-11_large_mdpi.png)   
-**内容**   
+内容   
 
 ### 两行列表 ###
 
@@ -213,13 +213,13 @@ permalink: lists.html
 
 
 ![](images/components-recommendedtwolinelists-1_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-recommendedtwolinelists-2_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-recommendedtwolinelists-3_large_mdpi.png)  
-**内容**  
+内容  
 
 **带有文本的头像**
 
@@ -241,13 +241,13 @@ permalink: lists.html
 
 
 ![](images/components-recommendedtwolinelists-6_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-recommendedtwolinelists-7_large_mdpi.png)   
-**元素**  
+元素  
 
 ![](images/components-recommendedtwolinelists-8_large_mdpi.png)  
-**内容**   
+内容   
 
 **带有文本和图标的头像**
 
@@ -270,13 +270,13 @@ permalink: lists.html
 
 
 ![](images/components-recommendedtwolinelists-9_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-recommendedtwolinelists-10_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-recommendedtwolinelists-11_large_mdpi.png)  
-**内容**  
+内容  
 
 ### 三行列表 ###
 
@@ -295,14 +295,14 @@ permalink: lists.html
 
 <<<<<<< HEAD
 ![](images/components-recommendedthreelinelists-1_large_mdpi.png)    
-**元素**
+元素
 
 ![](images/components-recommendedthreelinelists-2_large_mdpi.png)  
-**元素**  
+元素  
 
 
 ![](images/components-recommendedthreelinelists-3_large_mdpi.png)  
-**内容**  
+内容  
 
 **带有文本的头像**
 
@@ -324,13 +324,13 @@ permalink: lists.html
 
 
 ![](images/components-recommendedthreelinelists-6_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-recommendedthreelinelists-7_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-recommendedthreelinelists-10_large_mdpi.png)  
-**内容**  
+内容  
 
 **带有文本和图标的头像**
 
@@ -355,10 +355,10 @@ permalink: lists.html
 
 
 ![](images/components-recommendedthreelinelists-8_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-recommendedthreelinelists-9_large_mdpi.png)  
-**元素**  
+元素  
 
 ![](images/components-recommendedthreelinelists-12_large_mdpi.png)   
-**内容**  
+内容  
