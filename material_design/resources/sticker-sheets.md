@@ -4,21 +4,17 @@ title: 贴片集
 permalink: sticker-sheets.html
 ---
 
-# 贴片集（Sticker Sheets）
+# 贴片集
 
-## 结构组件元素（Structural Elements）
+## 结构组件
 
-> 原文：The Structural Elements sticker sheet contains various elements that make up layouts. The sticker sheet contains light and dark themes for the status bar, app bar, bottom toolbar, cards, dropdowns, search field, dividers, side nav, dialog, and floating action buttons.
-
-结构元素贴片（Structural Elements sticker sheet）包含许多组成布局的元素，其中包括状态栏（status bar）的light和dark主题，应用操作条（app bar），底部工具条（bottom toolbar），卡片（cards），下拉（dropdowns），搜索条（search field），分割线（dividers），侧滑导航（side nav），对话框（dialog）和浮动操作按钮（floating action buttons）
-
- 
+结构组件贴片包含组成布局的许多种不同元素，其中包括状态栏、应用操作条、底部工具条、卡片、下拉菜单、搜索条、分割线、侧滑导航、对话框和浮动操作按钮，以及它们的浅色、深色两种主题。
 
 * [Structural Elements](http://material-design.storage.googleapis.com/downloads/stickersheet_uielements.ai) - 1.2 MB (.ai)
 
-## 容器(Containers)
+## 容器
 
-下载如下文件
+下载如下文件：
 
 * [Cards Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_cards.ai) - 346.84 MB (.ai)
 * [Dialogs Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_dialogs.ai) - 14.88 MB (.ai)
@@ -30,8 +26,9 @@ permalink: sticker-sheets.html
 * [Tabs Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_tabs.ai) - 183.18 MB (.ai)
 
 
-## UI组件（UI Elements）
-下载如下文件
+## UI组件
+
+下载如下文件：
 
 * [Buttons Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_buttons.ai) - 50.86 MB (.ai)
 * [Chips & Tokens Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_chips.ai) - 22.16 MB (.ai)
@@ -41,3 +38,5 @@ permalink: sticker-sheets.html
 * [Switches Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_switches.ai) - 0.34 MB (.ai)
 * [Text Fields Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_textfields.ai) - 34 MB (.ai)
 * [Tooltips Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_tooltips.ai) - 32.9 MB (.ai)
+
+> 原文：[Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html)  翻译：[iceskysl](https://github.com/iceskysl)  校对：[PoppinLp](https://github.com/poppinlp)
