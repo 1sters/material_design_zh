@@ -118,11 +118,11 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 * Style
   * [色彩](SOURCE/style/color.md) - [Color](http://www.google.com/design/spec/style/color.html) √ by [poppinlp](https://github.com/poppinlp)
   * [字体排版](SOURCE/style/typography.md) - [Typography](http://www.google.com/design/spec/style/typography.html)
-  * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html)
-  * [图像](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html)（难）
+  * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html) 1% by [cxytomo](https://github.com/cxytomo)
+  * [图像](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html)（难）1% by [chenyusi](https://github.com/chenyusi)
 * Layout
   * [准则](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html)（难） 1% by [Jingsha](https://github.com/jingsha)
-  * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) 1% by [cxytomo](https://github.com/cxytomo)
+  * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [cxytomo](https://github.com/cxytomo)
   * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) 1% by [breeee2008](https://github.com/breeee2008)
 * Components
   * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html)
@@ -131,16 +131,16 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [纸片](SOURCE/components/chips.md) - [Chips](http://www.google.com/design/spec/components/chips.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
   * [提示框](SOURCE/components/dialogs.md) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
   * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html) 1% by [huanglizhuo](https://github.com/huanglizhuo)
-  * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html) 
+  * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html) 1% by [huanglizhuo](https://github.com/huanglizhuo)
   * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [K0ST](https://github.com/K0ST)
   * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html)
-  * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html)
+  * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) 1% [xieweiqi1860](https://github.com/xieweiqi1860)
   * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
   * [滑片](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html)
   * [Snackbars 与 Toasts](SOURCE/components/snackbars-and-toasts.md) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html)
   * [副标题](SOURCE/components/subheaders.md) - [Subheaders](http://www.google.com/design/spec/components/subheaders.html)
   * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) √ by [poppinlp](https://github.com/poppinlp)
-  * [Tabs](SOURCE/components/tabs.md) - [Tabs](http://www.google.com/design/spec/components/tabs.html)
+  * [Tabs](SOURCE/components/tabs.md) - [Tabs](http://www.google.com/design/spec/components/tabs.html) 1% by [poppinlp](https://github.com/poppinlp)
   * [文本框](SOURCE/components/text-fields.md) - [Text fields](http://www.google.com/design/spec/components/text-fields.html)
   * [工具提示](SOURCE/components/tooltips.md) - [Tooltips](http://www.google.com/design/spec/components/tooltips.html) √ by [poppinlp](https://github.com/poppinlp)
 * Patterns
