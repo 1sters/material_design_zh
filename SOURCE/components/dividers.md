@@ -52,3 +52,6 @@ permalink: dividers.html
 
 ![contact chips](images/components-dividers-subheaders-1a_large_mdpi.png)
 ![contact chips](images/components-dividers-subheaders-1b_large_mdpi.png)
+
+翻译: [Kris](https://github.com/krislq)  校对: [huanglizhuo](https://github.com/huanglizhuo)
+

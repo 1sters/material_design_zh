@@ -115,3 +115,5 @@ Dialog包含了一个标题(可选)，内容 ，事件。
 ###提示框焦点
  
  提示框的焦点是整个屏幕。提示框在关闭前或者是用户选择了一个事件(比如说选择了一个选项)前都会持有焦点。
+
+翻译: [Kris](https://github.com/krislq)  校对: [huanglizhuo](https://github.com/huanglizhuo)
