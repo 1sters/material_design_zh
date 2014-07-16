@@ -35,3 +35,6 @@ permalink: settings.html
 
 ###选择默认项 
 用户会期望每个设置项的初始值都符合情理。以下问题可以帮助你做决定：在没有默认选项时，用户自己最有可能选择的选项是哪个？哪个选项最中立或最中庸？哪个选项风险、争议或言过其实的可能性最小？哪个选项用的电量和移动数据最少？哪个选项最尊重用户的注意力，只在最重要的时候打断用户？
+
+> 原文：[Settings](http://www.google.com/design/spec/patterns/settings.html)  翻译：[ZeroLu](https://github.com/ZeroLu)  校对：[尚未校对](http://design.1sters.com)
+
