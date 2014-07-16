@@ -58,5 +58,5 @@ permalink: imagery-treatment.html
 </video>
 
 
-
+> 原文：[Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) 翻译：[ZeroLu](https://github.com/ZeroLu)
 
