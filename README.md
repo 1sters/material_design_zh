@@ -130,7 +130,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [卡片](SOURCE/components/cards.md) - [Cards](http://www.google.com/design/spec/components/cards.html) √ by [xianglifei](https://github.com/xianglifei)
   * [纸片](SOURCE/components/chips.md) - [Chips](http://www.google.com/design/spec/components/chips.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
   * [提示框](SOURCE/components/dialogs.md) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
-  * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html) 1% by [huanglizhuo](https://github.com/huanglizhuo)
+  * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
   * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html) 1% by [huanglizhuo](https://github.com/huanglizhuo)
   * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [K0ST](https://github.com/K0ST)
   * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html)   1% by [EflakeEver](https://github.com/eflakeever)
