@@ -214,4 +214,4 @@ permalink: promoted-actions.html
 ![](images/patterns-promotedactions-placement14dont1_large_mdpi.png)      
 不要                  
 
-
+> 原文：[Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html)  翻译：[ZeroLu](https://github.com/ZeroLu)  校对：[尚未校对](http://design.1sters.com)  
