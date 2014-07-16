@@ -118,7 +118,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 * Style
   * [色彩](SOURCE/style/color.md) - [Color](http://www.google.com/design/spec/style/color.html) √ by [poppinlp](https://github.com/poppinlp)
   * [字体排版](SOURCE/style/typography.md) - [Typography](http://www.google.com/design/spec/style/typography.html) 1% by [iceskysl](https://github.com/iceskysl)
-  * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html) 1% by [cxytomo](https://github.com/cxytomo)
+  * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html) √ by [cxytomo](https://github.com/cxytomo)
   * [图像](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html)（难）1% by [chenyusi](https://github.com/chenyusi)
 * Layout
   * [准则](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html)（难） 1% by [Jingsha](https://github.com/jingsha)
@@ -136,7 +136,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html)   1% by [EflakeEver](https://github.com/eflakeever)
   * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) 1% [xieweiqi1860](https://github.com/xieweiqi1860)
   * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
-  * [滑片](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [iceskysl](https://github.com/iceskysl)
+  * [滑块](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [iceskysl](https://github.com/iceskysl)
   * [Snackbars 与 Toasts](SOURCE/components/snackbars-and-toasts.md) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html)
   * [副标题](SOURCE/components/subheaders.md) - [Subheaders](http://www.google.com/design/spec/components/subheaders.html)
   * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) √ by [poppinlp](https://github.com/poppinlp)

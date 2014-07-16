@@ -25,8 +25,6 @@ permalink: metrics-and-keylines.html
 
 有关详细信息请参见[字体排版](../style/typography.html)一节。
 
-----------
-
 ## 边框与间距 ##
 
 #### 移动设备 ####
@@ -195,11 +193,7 @@ permalink: metrics-and-keylines.html
 元素的宽度
 
 ![](images/layout-metrics-ratiokeylines-keylines_18_large_mdpi.png)  
-示例
-
-
-----------
-
+示例  
 
 ## 增量边框 ##
 
@@ -227,3 +221,4 @@ permalink: metrics-and-keylines.html
 
 ![](images/layout-metrics-touchtarget-touch-target-02b_large_mdpi.png)
 
+> 原文：[Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) 翻译：[CodeDiving](http://github.com/codediving) 校对：[cxytomo](https://github.com/cxytomo)
