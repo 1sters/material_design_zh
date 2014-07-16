@@ -133,7 +133,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html) 1% by [huanglizhuo](https://github.com/huanglizhuo)
   * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html) 1% by [huanglizhuo](https://github.com/huanglizhuo)
   * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [K0ST](https://github.com/K0ST)
-  * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html)
+  * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html)   1% by [EflakeEver](https://github.com/eflakeever)
   * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) 1% [xieweiqi1860](https://github.com/xieweiqi1860)
   * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html)
   * [滑片](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html)
