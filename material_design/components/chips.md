@@ -39,4 +39,6 @@ Chips(我们暂时叫他纸片视图)是一种小块的用来呈现复杂实体�
 
 ![打开状态的联系人纸片视图](images/components-chips-contactchips-chips_11_large_mdpi.png)   
 
-![打开状态的联系人纸片视图各种状态](images/components-chips-contactchips-chips_06_large_mdpi.png)   
+![打开状态的联系人纸片视图各种状态](images/components-chips-contactchips-chips_06_large_mdpi.png) 
+
+> 原文: [Chips](http://www.google.com/design/spec/components/chips-tokens.html)  翻译: [Kris](https://github.com/krislq)  校对: [huanglizhuo](https://github.com/huanglizhuo) 

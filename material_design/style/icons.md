@@ -43,7 +43,6 @@ permalink: icons.html
 
 正方形和矩形都应该添加一个圆角.有圆角的正方形和矩形的会展现凸凹感.所有的可触摸图标都有圆角.   
 
-A play on round corner and sharp corners can be applied to square and rectangular shapes that have a protrusion or indentation. All stroked icons have sharp corners.   
 
 ![RoundCorners1 icon](images/Style-SystemIcons-round_cornersa_large_mdpi.png)  
 ![RoundCorners2 icon](images/Style-SystemIcons-round_cornersb_large_mdpi.png)   
