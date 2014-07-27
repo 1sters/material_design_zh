@@ -249,4 +249,4 @@ Cards：用于不同格式的内容，比如带有不同长度标题的图片;�
 内容   
 
 
-原文:[Grids](https://www.google.com/design/spec/components/grids.html#grids-grids-keylines) 翻译: [CodeDiving](https://github.com/codediving) 校对: [huanglizhuo](https://github.com/huanglizhuo)
+原文：[Grids](https://www.google.com/design/spec/components/grids.html#grids-grids-keylines) 翻译：[CodeDiving](https://github.com/codediving) 校对：[huanglizhuo](https://github.com/huanglizhuo)
