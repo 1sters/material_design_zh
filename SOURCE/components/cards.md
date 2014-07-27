@@ -137,3 +137,5 @@ permalink: cards.html
 带截断内容的卡片可以扩展，这样卡片高度可以超过视图的最大值。这种情况下，卡片将与卡片集一起滚动。
 ####卡片焦点
 对于取决于连续焦点遍历用于导航的界面（方向键，键盘），单张卡片应该仅有基本操作或打开一个带基本和可用追加操作的新视图。
+
+> 原文：[Cards](http://www.google.com/design/spec/components/cards.html) 翻译：[ThatMrL](https://github.com/ThatMrL) 校对：[xianglifei](https://github.com/xianglifei) 
