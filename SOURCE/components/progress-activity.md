@@ -106,7 +106,7 @@ permalink: progress-activity.html
 **例3：下拉刷新**   
 当你想从上方刷新列表时，推荐使用不确定的圆形进度指示器来触发内容的加载。
 
-
+> 原文：[Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) 翻译：[SamanthaChou](https://github.com/SamanthaChou) 校对：[sisyphus60](https://github.com/sisyphus60)
 
   
 
