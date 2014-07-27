@@ -84,3 +84,5 @@ permalink: responsive-interaction.html
 所有输入都有中心点，涟漪效果应从触控点、语音时屏幕上的语音图标、键盘输入时具体的按键点击位置上展开。
 
 这些输入动作产生时都应该在中心点形成一个视觉上的关联，从中心点展开一连串动作产生的涟漪效果。
+
+> 原文：[Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) 翻译：[7heaven](https://github.com/7heaven) 校对：[KongZhen](https://github.com/KongZhen)

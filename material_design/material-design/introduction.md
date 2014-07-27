@@ -4,8 +4,7 @@ title: 概述
 permalink: introduction.html
 ---
 
-概述
-===============
+# 概述
 
 ![](images/materialdesign-goals-landingimage_large_mdpi.png)
 
@@ -23,7 +22,6 @@ permalink: introduction.html
 
 ![materialdesign-goals-cutrectangles](images/materialdesign-goals-cutrectangles_large_mdpi.png)
 
-***
 
 ## 设计原则
 
@@ -55,3 +53,5 @@ Material Design设计语言强调根据用户行为凸显核心功能，进而�
 动效应当在独立的场景呈现。通过动效，让物体的变化以更连续、更平滑的方式呈现给用户，让用户能够充分知晓所发生的变化。
 
 动效应该是有意义的、合理的，动效的目的是为了吸引用户的注意力，以及维持整个系统的连续性体验。动效反馈需细腻、清爽。转场动效需高效、明晰。
+
+> 原文：[Introduction](http://www.google.com/design/spec/material-design/introduction.html) 翻译：[iceskysl](https://github.com/iceskysl) 校对：[siton](https://github.com/siton) 
