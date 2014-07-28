@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: 列表
 permalink: lists.html
@@ -363,3 +363,5 @@ permalink: lists.html
 
 ![](images/components-recommendedthreelinelists-12_large_mdpi.png)   
 内容  
+
+> 原文：[Lists](http://www.google.com/design/spec/components/lists.html) 翻译：[CodeDiving](http://github.com/codediving) 校对：[K0ST](https://github.com/K0ST)

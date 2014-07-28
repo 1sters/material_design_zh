@@ -132,7 +132,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [提示框](SOURCE/components/dialogs.md) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
   * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
   * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
-  * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) 1% by [K0ST](https://github.com/K0ST)
+  * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) √ by [K0ST](https://github.com/K0ST)
   * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html)   1% by [EflakeEver](https://github.com/eflakeever)
   * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) 1% [xieweiqi1860](https://github.com/xieweiqi1860)
   * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) √ [sisyphus60](https://github.com/sisyphus60)
@@ -151,7 +151,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) 1% by [wanningliu](https://github.com/wanningliu)
   * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html) √ by [poppinlp](https://github.com/poppinlp)
 * Usability
-  * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) 1% by [K0ST](https://github.com/K0ST)
+  * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) √ by [K0ST](https://github.com/K0ST)
 * Resources
   * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) √ by [poppinlp](https://github.com/poppinlp)
   * [贴片集](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) √ by [poppinlp](https://github.com/poppinlp)

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: 可达性
 permalink: accessibility.html
@@ -61,4 +61,6 @@ permalink: accessibility.html
 **提供指导手册和帮助文档**。当用户不知道一个元素的意义的时候，她/他是否可以找快速的找到帮助文档？如果一个关键的元素超时了，用户有激活它的方法吗？需要包含清楚明了并且容易找到的帮助文档，提供明确的上下文帮助，这样用户就可以很清楚的知道某个快捷方式或者手势是否可用的并且如何使用它。
 
 **给你的链接赋予意义**。是否每一个链接的目的都清晰易懂？通用的锚文本像“点击这里”并不能很好地说明一个链接的目的。把链接的目的设置成链接的文本内容即可，解决“点击这里”的办法就是是将其改为诸如“设备设置”的这种链接。一些辅助技术可以让用户只是扫描链接，忽略了其他的内容，这样也可以使导航更加有效。
+
+> 原文：[Accessibility](http://www.google.com/design/spec/usability/accessibility.html) 翻译：[fortianwei](https://github.com/fortianwei) 校对：[K0ST](https://github.com/K0ST)
 
