@@ -146,7 +146,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 * Patterns
   * [选择](SOURCE/patterns/selection.md) - [Selection](http://www.google.com/design/spec/patterns/selection.html) 1% by [poppinlp](https://github.com/poppinlp)
   * [手势](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html)（难） 1% by [cxytomo](https://github.com/cxytomo)
-  * [促进的动作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) 1% by [sisyphus60](https://github.com/sisyphus60)
+  * [改进的操作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) √ by [sisyphus60](https://github.com/sisyphus60)
   * [设置](SOURCE/patterns/settings.md) - [Settings](http://www.google.com/design/spec/patterns/settings.html) √ by [poppinlp](https://github.com/poppinlp)
   * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) 1% by [wanningliu](https://github.com/wanningliu)
   * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html) √ by [poppinlp](https://github.com/poppinlp)
