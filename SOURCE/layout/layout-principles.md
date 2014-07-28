@@ -183,4 +183,4 @@ app中的深度应该表达层级和其重要性，并且帮助用户关注手�
 
 ![](images/layout-principles-dimensionality-shadows-07_large_mdpi.png)  
 
-> 原文：[Principles](http://www.google.com/design/spec/layout/layout-principles.html)  翻译：[lightlz](https://github.com/lightlz) 校对:[Jingsha](https://github.com/Jingsha)
+> 原文：[Principles](http://www.google.com/design/spec/layout/layout-principles.html)  翻译：[lightlz](https://github.com/lightlz) 校对：[Jingsha](https://github.com/Jingsha)
