@@ -14,7 +14,7 @@ permalink: progress-activity.html
 
 在操作中，对于完成部分不确定的情况下，用户需要等待一定的时间，无需告知后用户台的情况以及所需时间，这时可以使用不确定的指示器。   
 
-指示器的类型有两种：**线形进度指示器**和**圈形进度指示器**。你可以使用其中任何一项来指示确定性和不确定性的操作。  
+指示器的类型有两种：**线形进度指示器**和**圆形进度指示器**。你可以使用其中任何一项来指示确定性和不确定性的操作。  
 
 ### 线形进度指示器
 
@@ -34,13 +34,13 @@ permalink: progress-activity.html
 <source src="http://materialdesign.qiniudn.com/videos/components-progressandactivity-progressandactivity-6-chrome.mobile.query.load_large_xhdpi.webm" type="video/webm">
 </video>   
 
-### 圈形进度指示器
+### 圆形进度指示器
 
 <video crossorigin="anonymous"  loop  controls width="739" height="308">
 <source src="http://materialdesign.qiniudn.com/videos/components-progressandactivity-progressandactivity-_20spec.circular_201_large_xhdpi.webm" type="video/webm">
 </video>  
 
-### 集合式的圈形进度指示器 
+### 集合式的圆形进度指示器 
 
 <video crossorigin="anonymous"  loop  controls width="739" height="154">
 <source src="http://materialdesign.qiniudn.com/videos/components-progressandactivity-progressandactivity-_20spec.circular_202_large_xhdpi.webm" type="video/webm">
