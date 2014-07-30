@@ -56,4 +56,4 @@ permalink: bottom-sheets.html
 [1]模态：模态的对话框需要用户必须选择一项操作后才会消失，比如Alert确认等；而非模态的对话框并不需要用户必须选择一项操作才会消失，比如页面上弹出的Toast提示。
 
 
-> 原文：[Introduction](http://www.google.com/design/spec/components/bottom-sheets.html) 翻译：[com360](https://github.com/com360) 校对：[阿九(Siton)](https://github.com/siton) 
+> 原文：[Bottom-Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) 翻译：[com360](https://github.com/com360) 校对：[阿九(Siton)](https://github.com/siton) 
