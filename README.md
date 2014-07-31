@@ -125,7 +125,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [cxytomo](https://github.com/cxytomo)
   * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html)
 * Components
-  * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) 1% by [siton](https://github.com/siton)
+  * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) √ by [siton](https://github.com/siton)
   * [按钮](SOURCE/components/buttons.md) - [Buttons](http://www.google.com/design/spec/components/buttons.html) 1% by [siton](https://github.com/siton)
   * [卡片](SOURCE/components/cards.md) - [Cards](http://www.google.com/design/spec/components/cards.html) √ by [xianglifei](https://github.com/xianglifei)
   * [纸片](SOURCE/components/chips.md) - [Chips](http://www.google.com/design/spec/components/chips.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
