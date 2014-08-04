@@ -268,4 +268,4 @@ permalink: gestures.html
 倾斜与拖拽动作（drag）配合使用。
 ![Gestures-TouchActivities-10](images/Patterns-Gestures-TouchActivities-10_large_mdpi.png)
 
-参照了Daqian.Dong对于折叠，展开的解释 http://www.ui.cn/project.php?id=19050 
+> 原文：[Gestures](http://www.google.com/design/spec/patterns/gestures.html) 翻译：[Jingsha](https://github.com/jingsha) 校对：[cxytomo](https://github.com/cxytomo)
