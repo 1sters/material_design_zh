@@ -28,10 +28,10 @@ permalink: imagery-treatment.html
 不要用那种会把白色部分去除的方式调节等级，因为这会造成一种通过相机镜头光圈过度曝光的效果。最好把照片想成是在照片显影过程中逐渐浮现。    
   
 ![](images/patterns-imagetreatment-aperturevsdevelopment1-yes-no_large_mdpi.png)    
-要    
+要这样    
 
 ![](images/patterns-imagetreatment-aperturevsdevelopment2-yes-no_large_mdpi.png)    
-不要   
+不要这样   
   
 ###载入和过渡
 
