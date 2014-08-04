@@ -94,4 +94,4 @@ permalink: meaningful-transitions.html
 <source src="http://materialdesign.qiniudn.com/videos/meaningfultransitions-consistentchoreography_dont3_large_xhdpi.webm" type="video/webm">
 </video>  
 
-> 翻译：[Jingsha](http://github.com/jingsha) 校对：[阿九(Siton)](http://www.isiton.me)
+> 原文：[Meaningful Transitions](http://www.google.com/design/spec/animation/meaningful-transitions.html) 翻译：[Jingsha](http://github.com/jingsha) 校对：[阿九(Siton)](http://www.isiton.me)

@@ -12,11 +12,11 @@ permalink: grids.html
 
 ## 用法 ##
 
-网格列表最适合用于**同类的数据类型（homogeneous data type）**，典型的如图片，并且对，比如数据类型的**可视化理解（visual comprehension ）**和区别进行了优化。
+网格列表最适合用于同类数据（homogeneous data type），典型的如图片，并且对可视化理解（visual comprehension ）和相似数据类型的区别进行了优化。
 
 ![](images/components-grids-usage-spec_grid_drawings_01_large_mdpi.png)  
 
-**网格列表**是一个连续元素（continuous element），该元素由棋盘式、规律性的小格子构成，通常称这些格子为**单元格（cells）**。单元格中包含有**瓦片（tiles）**。
+网格列表是一个连续元素（continuous element），该元素由棋盘式、规律性的小格子构成，通常称这些格子为单元格（cells）,单元格中包含有瓦片（tiles）。
 
 单元格在网格中以垂直和水平的方式排列。
 
@@ -28,11 +28,11 @@ permalink: grids.html
 ![](images/components-grids-usage-spec_grid_drawings_02b_large_mdpi.png)  
 
 
-如果瓦片中的文本需要与其他主要的内容有着足够显著的区别，可以考虑使用一个容器，比如列表（Lists）或者卡片（Cards）。这是显示文本、增强阅读理解的最佳方案。
+如果瓦片中的文本需要与其他主要内容有着足够显著的区别，可以考虑使用一个容器，比如列表（Lists）或者卡片（Cards）。这样可以优化文本显示、增强阅读理解的便利性。
 
-**Lists：**是增强阅读理解的最佳方案，尤其是在比较一组具有多种数据类型的数据时。
+Lists：增强阅读理解的便利性，尤其是在比较一组具有多种数据类型的数据时。
 
-**Cards：**用于不同格式的内容，比如带有不同高度题注的图片，或者应用于不同类内容的数据集合中，比如具有图片、视频和图书的混合式数据集。
+Cards：用于不同格式的内容，比如带有不同长度标题的图片;用于不同类内容的数据集合中，比如具有图片、视频和图书的混合式数据集。
 
 
 ## 内容 ##
@@ -41,7 +41,7 @@ permalink: grids.html
 
 瓦片内容包括主要内容（primary content）和次要内容(secondary content)。主要内容是有着重要区别的内容，典型的如图片。次要内容可以是一个动作按钮或者文本。
 
-为瓦片提供一个不带有主要内容的默认图片。
+为瓦片内容提供一个默认图片。
 
 
 ![](images/components-grids-content-spec_grid_drawings_03_large_mdpi.png)  
@@ -62,7 +62,7 @@ permalink: grids.html
 
 - 通过图标或者文本呈现出来。
 - 在指定的网格中，所有瓦片的动作是一致的。
-- 在指定网格的瓦片中放置的位置是一致的，但是位置可能会在不同的网格（边角或者边界， corners or edges）间有变化。比如，网格中的所有瓦片可能放置在了左下角。
+- 在指定网格的瓦片中放置的位置是一致的，但是位置可能会在不同的网格（边角或者边界， corners or edges）间有变化。比如，所有网格中的标题可以放置在左下角。
 
 
 ![](images/components-grids-content-spec_grid_drawings_04_large_mdpi.png)  
@@ -76,19 +76,18 @@ permalink: grids.html
 
 水平滚动的网格是不鼓励使用的，这通常与用户的阅读习惯有关，影响阅读上的理解。
 
-砍去网格瓦片达到与滚动方向通信的目的会造成内容的溢出。
-
+砍去网格瓦片来通知内容未结束。
 
 ![](images/components-grids-behavior-spec_grid_drawings_06_large_mdpi.png)    
 要  
-（图片用来）说明砍去网格瓦片造成内容溢出   
+（图片用来）说明砍去网格瓦片提示内容未结束   
 
 ![](images/components-grids-behavior-spec_grid_drawings_05_large_mdpi.png)  
 不要   
 
 ### 手势 ###
 
-不允许使用猛击（swipe）手势。选中并移动（pick-up-and-move）动作不鼓励使用。
+不允许使用轻扫(swipe)手势。选中并移动(pick-up-and-move)动作不鼓励使用。
 
 ### 瓦片过滤与排序 ###
 
@@ -100,7 +99,7 @@ permalink: grids.html
 
 重置网格列表的尺寸会导致瓦片在有水平空间可用时重新排序。但是瓦片并不会缩放以填充可用的水平空间。
 
-当水平空间受限时，网格列表不会发生改变。网格列表与列表在强调不同数据类型时时不同的结构：图片优于文本与文本优于图片的区别。   
+当水平空间受限时，网格列表不会转换为列表。网格列表与列表在强调不同数据类型的不同结构：图片优于文本与文本优于图片的区别。   
 
 ## 边框 ##
 
@@ -112,7 +111,7 @@ permalink: grids.html
 
 文本内边距： 16dp
 
-默认字体大小： 16dp
+默认字体大小： 16sp
 
 次要动作与尾右对齐
 
@@ -225,7 +224,7 @@ permalink: grids.html
 
 高： 68dp
 
-文本内边距： 16sp
+文本内边距： 16dp
 
 每行的默认字体大小： 16sp/12sp或14sp/14sp
 
@@ -248,3 +247,6 @@ permalink: grids.html
 
 ![](images/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)   
 内容   
+
+
+原文：[Grids](https://www.google.com/design/spec/components/grids.html#grids-grids-keylines) 翻译：[CodeDiving](https://github.com/codediving) 校对：[huanglizhuo](https://github.com/huanglizhuo)
