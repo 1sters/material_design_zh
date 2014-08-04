@@ -218,4 +218,7 @@ permalink: imagery.html
 **照片网格**
  
 ![](images/style-imagery-integration-imagetypegalleryb_large_mdpi.png)  
-**图集图片**
+**图集图片**  
+
+> 原文：[Imagery](http://www.google.com/design/spec/style/imagery.html) 翻译：[lhyqy5](https://github.com/lhyqy5) 校对：[chenyusi](https://github.com/chenyusi) 
+
