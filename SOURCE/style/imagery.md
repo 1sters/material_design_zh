@@ -41,7 +41,7 @@ permalink: imagery.html
 
 ##使用多种媒体
 
-插画和摄影可以运用在同一个产品中。摄影自动暗含了一定程度的特定性，从而应该用来展示特定的物体和故事。绘画则能有效的表现出概念和隐喻,而这一点是摄影所不具备的。
+插画和摄影可以运用在同一个产品中。摄影自动暗含了一定程度的特定性，从而应该用来展示特定的物体和故事。绘画则能有效的表现出概念和隐喻，而这一点是摄影所不具备的。
 
 ![](images/style-imagery-bestpractices-multiple-mediums-a_large_mdpi.png)  
 要  
@@ -192,9 +192,10 @@ permalink: imagery.html
 
 缩略图暗示着更多的信息，让用户一窥其内容，并协助导航。缩略图让你能把图像放在狭小的空间里。
 
- 
-![](images/style-imagery-integration-imagetypeavatarsa_large_mdpi.png)   
-头像使应用更具个性化而且占用的空间小。  
+
+![](images/style-imagery-integration-imagetypeavatarsa_large_mdpi.png)  
+头像使应用更具个性化而且占用的空间小。
+
 ![](images/style-imagery-integration-imagetypeavatarsb_large_mdpi.png)  
 一个品牌头像能够让人在一眼之内传达信息，缩略图也如此。
 

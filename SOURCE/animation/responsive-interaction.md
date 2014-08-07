@@ -28,7 +28,7 @@ permalink: responsive-interaction.html
 
 ## 表层响应
 
-接收到输入事件，如点击屏幕 接收到输入事件，系统会立即在交互的触点上绘制出一个可视化的图形让用户感知到：如在点击屏幕时、使用麦克风时，或者键盘输入时，会出现类似于墨水扩散那样的视觉效果形状。
+接收到输入事件，如点击屏幕，系统会立即在交互的触点上绘制出一个可视化的图形让用户感知到：如在点击屏幕时、使用麦克风时，或者键盘输入时，会出现类似于墨水扩散那样的视觉效果形状。
 
 触控涟漪是这种触摸效果的核心视觉机制。在进行触摸事件时，设备能清晰而及时地让用户感知触摸按钮和语音输入时的变化。
 
@@ -37,7 +37,7 @@ permalink: responsive-interaction.html
 
 在输入事件对应的位置上，例如：在手指的点击位置或者讲话的时候，屏幕上麦克风的图标位置会出现一个扩散的视觉元素。
 
- 
+
 <video src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-inkreactions-touchripplepressandrelease_large_xhdpi.webm" controls="controls" width="720" loop height="1280"></video>    
 触控涟漪-点击/释放
 
@@ -57,23 +57,23 @@ permalink: responsive-interaction.html
 
 当用户操作生成一个新元素时，元素的动画应该基于触控点展开。
 
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsive-surfaceresponse-pointorigin-do_example_large_xhdpi.mp4" controls="controls" width="720" loop height="810"></video>    
-要     
-元素从触控点展开时， 通过视觉效果将元素与触控点联系起来。
-    
+<video src="http://materialdesign.qiniudn.com/videos/animation-responsive-surfaceresponse-pointorigin-do_example_large_xhdpi.mp4" controls="controls" width="720" loop height="810"></video>  
+要  
+元素从触控点展开时，通过视觉效果将元素与触控点联系起来。
 
-<video src="http://materialdesign.qiniudn.com/videos/animation-responsive-surfaceresponse-pointorigin-dont_example_large_xhdpi.mp4" controls="controls" width="720" loop height="810"></video>    
-不要   
+
+<video src="http://materialdesign.qiniudn.com/videos/animation-responsive-surfaceresponse-pointorigin-dont_example_large_xhdpi.mp4" controls="controls" width="720" loop height="810"></video>  
+不要  
 卡片元素从屏幕正中央出现，用户无法把触控点与卡片元素联系起来。
 
-  
+
 ### 点击浮动
-  
+
 当卡片元素或可分离元素被激活时，应该浮起以表明正处于激活状态。
 
 
 <video src="http://materialdesign.qiniudn.com/videos/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.mp4" controls="controls" width="720" loop height="810"></video>     
-点击浮动  
+点击浮动
 
 ## 径向响应
 
