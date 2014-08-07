@@ -10,15 +10,15 @@ permalink: meaningful-transitions.html
 
 ## 示例
 
-### 示例  
+### 示例
 
 <video crossorigin="anonymous"  loop  controls width="622" height="360">
 <source src="http://materialdesign.qiniudn.com/videos/animations-meaningfultransitions-hierarchical_transitions_topLevel_large_xhdpi.webm" type="video/webm">
-</video>  
+</video>
 
 <video crossorigin="anonymous"  loop  controls width="622" height="360">
 <source src="http://materialdesign.qiniudn.com/videos/animation-meaningfultransitions-view_contact_large_xhdpi.webm" type="video/webm">
-</video>  
+</video>
 
 ## 视觉连贯性
 
@@ -26,15 +26,15 @@ permalink: meaningful-transitions.html
 
 - **新入元素(Incoming elements)**: 完全新的元素需要有新手引导，从已有场景中转变而来的元素需要重新被识别
 - **淡出元素(Outgoing elements)**：与当前场景不相关的元素应当以恰当的方式被移除
-- **通用元素(Shared elements)**：指是那些从转场开始到结束都没有发生变化的元素。可以是细微至单个图标，也可以是显著到占据屏幕的图片展示
+- **通用元素(Shared elements)**：指那些从转场开始到结束都没有发生变化的元素。可以是细微至单个图标，也可以是显著到占据屏幕的图片展示
 
 ### 思考点
 
 在设计动画的时候，可以从以下几点开始考虑：
 
-- 用户的注意力应该被如何引导？什么元素和动画能辅助实现这个目标？新入元素，淡出元素和通用元素在这个转场中应该怎样被强调或弱化？
+- 用户的注意力应该被如何引导？什么元素和动画能辅助实现这个目标？新入元素、淡出元素和通用元素在这个转场中应该怎样被强调或弱化？
 - 在设计场景时考虑到转场，并且尽量通过色彩和通用元素在不同场景转化间建立视觉联系
-- 审慎地添加动画，思考如何移动一个特定的元素，从而使这个转场更明晰并使人愉悦 
+- 审慎地添加动画，思考如何移动一个特定的元素，从而使这个转场更明晰并使人愉悦
 
 ### 示例
 
