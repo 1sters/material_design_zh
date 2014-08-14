@@ -132,5 +132,4 @@ Leave-behind 是在当某一项列表被滑开之后的操作提示。Leave-behi
 
 ![](images/components-listcontrols-typesofmenucontrols-listcontrols_12_large_mdpi.png)    
 
-
-
+> 原文：[List controls](http://www.google.com/design/spec/components/list-controls.html) 翻译：[leiweibo](https://github.com/leiweibo) 校对：[cxytomo](https://github.com/cxytomo)
