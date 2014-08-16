@@ -20,11 +20,11 @@ permalink: subheaders.html
 
 副标题字体为 Roboto Medium 14sp。
 
-副标题应该跟列表中头像或是图标左对齐，除非那个地方有突显操作。
+副标题应该跟列表中头像或是图标左对齐，除非那个地方有进阶操作（promoted action）。
 
 ![p1](images/components-tabs-listsubheaders-subheader_01_large_mdpi.png)
 
-如果有突显操作，它需要跟列表中的头像或图标左对齐。副标题则需要和列表中的文字左对齐。
+如果有跟列表中的头像或图标左对齐的进阶操作（promoted action），副标题则需要和列表中的文字左对齐。
 
 ![p2](images/components-tabs-listsubheaders-subheader_02_large_mdpi.png)
 ![p3](images/components-tabs-listsubheaders-subheader_03_large_mdpi.png)
@@ -39,3 +39,5 @@ permalink: subheaders.html
 
 ![p4](images/components-subheads-gridsubheader-subheader_04_large_mdpi.png)
 ![p5](images/components-subheads-subheader_05_large_mdpi.png)
+
+> 原文：[Subheaders](http://www.google.com/design/spec/components/subheaders.html)  翻译：[marshluca](https://github.com/marshluca)  校对：[PoppinLp](https://github.com/poppinlp)
