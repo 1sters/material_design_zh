@@ -210,4 +210,6 @@ permalink: text-fields.html
 
 ### 在应用程序栏中的全宽文本框
 
-![](images/components-textfields-searchfilter-textfields_filter_06_large_mdpi.png)    
+![](images/components-textfields-searchfilter-textfields_filter_06_large_mdpi.png)   
+
+> 原文：[Text fields](http://www.google.com/design/spec/components/text-fields.html) 翻译：[SamanthaChou](https://github.com/SamanthaChou)  校对：[hyaocuk](https://github.com/hyaocuk) 
