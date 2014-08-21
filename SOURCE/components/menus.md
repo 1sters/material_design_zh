@@ -132,4 +132,4 @@ permalink: menus.html
 
 ![](images/components-menus-metrics-menus-redlines-04_large_mdpi.png)
 
-> 原文：[Tabs](http://www.google.com/design/spec/components/menus.html)  翻译：[codediving](http://github.com/codediving)  校对：[PoppinLp](https://github.com/poppinlp)
+> 原文：[Menus](http://www.google.com/design/spec/components/menus.html)  翻译：[codediving](http://github.com/codediving)  校对：[PoppinLp](https://github.com/poppinlp)
