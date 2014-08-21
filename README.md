@@ -123,7 +123,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 * Layout
   * [准则](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html)（难）√ by [Jingsha](https://github.com/jingsha)
   * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [cxytomo](https://github.com/cxytomo)
-  * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) 1% by [Courtneychow88](https://github.com/Courtneychow88)  
+  * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) 1% by [Courtneychow88](https://github.com/Courtneychow88)
 * Components
   * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) √ by [siton](https://github.com/siton)
   * [按钮](SOURCE/components/buttons.md) - [Buttons](http://www.google.com/design/spec/components/buttons.html) √ by [siton](https://github.com/siton)
@@ -134,7 +134,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
   * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) √ by [K0ST](https://github.com/K0ST)
   * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) √ by [cxytomo](https://github.com/cxytomo)
-  * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) 1% by [poppinlp](https://github.com/poppinlp) 
+  * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) √ by [poppinlp](https://github.com/poppinlp)
   * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) √ [sisyphus60](https://github.com/sisyphus60)
   * [滑块](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [iceskysl](https://github.com/iceskysl)
   * [Snackbars 与 Toasts](SOURCE/components/snackbars-and-toasts.md) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) √ by [poppinlp](https://github.com/poppinlp)
@@ -328,7 +328,7 @@ To git@github.com:IceskYsl/material_design_zh.git
 - [CodeDiving](http://github.com/codediving)
 - [donlianggit](https://github.com/donlianggit)
 - [ThatMrL](https://github.com/ThatMrL)
-- [Kris](https://github.com/krislq)  
+- [Kris](https://github.com/krislq)
 - [siton](https://github.com/siton)
 - [chenzimu7](https://github.com/chenzimu7)
 - [leiweibo](https://github.com/leiweibo)
