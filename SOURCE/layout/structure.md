@@ -73,7 +73,7 @@ permalink: structure.html
 
 ![](images/layout-structure-uiregions-uiregions-02_large_mdpi.png)      
 
-### 电脑桌面
+### 桌面电脑
 
 这个结构包含一个固定的应用烂和一个浮动操作按钮。这个应用栏拥有与平板电脑和手机的底栏的元素。在允许的情况下，应用栏可以把窗口控制吸收进来。而侧边的导航菜单可以临时使用，也可以固定起来一直显示。侧边导航栏可以和内容画布（content canvas)可以拥有他们自己二级标签栏或调色板的工具栏（toolbars)，或者是一些二姐的操作。
 
@@ -229,10 +229,10 @@ iPhone: 264 dp
 移动设备
 
 ![](images/layout-structure-drive_chrome-04_large_mdpi.png)      
-左边选栏的电脑桌面。
+左边选栏的桌面电脑
 
 ![](images/layout-structure-drive_chrome-02_large_mdpi.png)        
-右边选栏的电脑桌面。
+右边选栏的桌面电脑
 
 ## 白框
 
