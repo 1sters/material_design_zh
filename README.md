@@ -117,7 +117,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [打动用户的细节](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) √ by [poppinlp](https://github.com/poppinlp)
 * Style
   * [色彩](SOURCE/style/color.md) - [Color](http://www.google.com/design/spec/style/color.html) √ by [poppinlp](https://github.com/poppinlp)
-  * [字体排版](SOURCE/style/typography.md) - [Typography](http://www.google.com/design/spec/style/typography.html) 1% by [iceskysl](https://github.com/iceskysl)
+  * [字体排版](SOURCE/style/typography.md) - [Typography](http://www.google.com/design/spec/style/typography.html) √ by [chenyusi](https://github.com/chenyusi)
   * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html) √ by [cxytomo](https://github.com/cxytomo)
   * [图像](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html)（难）√ by [chenyusi](https://github.com/chenyusi)
 * Layout
@@ -136,7 +136,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) √ by [cxytomo](https://github.com/cxytomo)
   * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) √ by [poppinlp](https://github.com/poppinlp)
   * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) √ [sisyphus60](https://github.com/sisyphus60)
-  * [滑块](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) 1% by [iceskysl](https://github.com/iceskysl)
+  * [滑块](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) √ by [chenyusi](https://github.com/chenyusi)
   * [Snackbars 与 Toasts](SOURCE/components/snackbars-and-toasts.md) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) √ by [poppinlp](https://github.com/poppinlp)
   * [副标题](SOURCE/components/subheaders.md) - [Subheaders](http://www.google.com/design/spec/components/subheaders.html) √ by [poppinlp](https://github.com/poppinlp)
   * [开关](SOURCE/components/switches.md) - [Switches](http://www.google.com/design/spec/components/switches.html) √ by [poppinlp](https://github.com/poppinlp)
