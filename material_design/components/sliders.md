@@ -38,7 +38,7 @@ permalink: sliders.html
 
 ## 间续滑块(Discrete Slider)
 
-间续滑块会恰好咬合到在滑动条上平均分布的间续标记(tick mark)上。在要求精准、以客观设定为主的设置项中使用间续滑块，让使用者做出更有意义的调整。间续标记(tick mark)应当设定一定的等级区间进行分割，使得其调整效果对于使用者来说显而易见。这些生成区间的值应当是预先设定好的，使用者不可对其进行编辑。
+间续滑块会恰好咬合到在滑动条上平均分布的间续标记(tick mark)上。在要求精准、以客观设定为主的设置项中使用间续滑块，让使用者做出更有意义的调整。应当对每个间续标记(tick mark)设定一定的等级区间进行分割，使得其调整效果对于使用者来说显而易见。这些生成区间的值应当是预先设定好的，使用者不可对其进行编辑。
 
 ### 附带数值标签的滑块
 
@@ -54,4 +54,4 @@ permalink: sliders.html
 <source src="http://materialdesign.qiniudn.com/videos/components-sliders-discrete_large_xhdpi.webm" type="video/webm">
 </video>
 
-> 翻译：[阿九(siton)](http://www.isiton.me) 校对：[待校对](https://design.1sters.com)
+> 原文：[Sliders](http://www.google.com/design/spec/components/sliders.html) 翻译：[阿九(siton)](http://www.isiton.me) 校对：[chenyusi](https://github.com/chenyusi)
