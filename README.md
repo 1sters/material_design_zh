@@ -11,11 +11,6 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 我们欢迎每一个人参与进来一起翻译和校对~~
 
-## 当前进度
-
-2014.07.03  
-启动「校对」，任务认领中... （[如何认领>>](https://github.com/1sters/material_design_zh/blob/master/README.md#%E6%A0%A1%E5%AF%B9%E8%AE%A4%E9%A2%86%E7%AB%A0%E8%8A%82%E8%AE%B0%E5%BD%95%E8%AE%A4%E9%A2%86ing)）
-
 ***
 
 ##一起来参与
@@ -52,7 +47,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 ## 认领章节记录
 
-### 翻译认领章节记录（已经全部被认领）
+### 翻译认领章节记录   
 
 * Material Design 
   * [概述](SOURCE/material-design/introduction.md) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
@@ -104,9 +99,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) √ by [iceskysl](https://github.com/iceskysl)
   * [调色板](SOURCE/resources/color-palettes.md) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html) √ by [iceskysl](https://github.com/iceskysl)
 
-### 校对认领章节记录（认领ing...）
-
-章节认领操作手册：<https://github.com/1sters/material_design_zh/issues/140>
+### 校对认领章节记录  
 
 * Material Design 
   * [概述](SOURCE/material-design/introduction.md) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [siton](https://github.com/siton)
@@ -148,7 +141,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [手势](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html)（难） √ by [cxytomo](https://github.com/cxytomo)
   * [改进的操作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) √ by [sisyphus60](https://github.com/sisyphus60)
   * [设置](SOURCE/patterns/settings.md) - [Settings](http://www.google.com/design/spec/patterns/settings.html) √ by [poppinlp](https://github.com/poppinlp)
-  * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) 1% by [wanningliu](https://github.com/wanningliu)
+  * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) √ by [vincent4j](https://github.com/vincent4j)
   * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html) √ by [poppinlp](https://github.com/poppinlp)
 * Usability
   * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) √ by [K0ST](https://github.com/K0ST)
@@ -315,33 +308,45 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ### 翻译
 
-- [iceskysl](https://github.com/iceskysl)
-- [zhenbeiju](https://github.com/zhenbeiju)
-- [7heaven](https://github.com/7heaven)
-- [Jingsha](https://github.com/jingsha)
-- [com360](https://github.com/com360)
-- [arjinmc](https://github.com/arjinmc)
-- [acely](https://github.com/acely)
-- [Haoxiqiang](https://github.com/haoxiqiang)
-- [lhyqy5](https://github.com/lhyqy5)
-- [lightlz](https://github.com/lightlz)
-- [CodeDiving](http://github.com/codediving)
-- [donlianggit](https://github.com/donlianggit)
-- [ThatMrL](https://github.com/ThatMrL)
-- [Kris](https://github.com/krislq)
-- [siton](https://github.com/siton)
-- [chenzimu7](https://github.com/chenzimu7)
-- [leiweibo](https://github.com/leiweibo)
-- [SamanthaChou](https://github.com/SamanthaChou)
-- [marshluca](https://github.com/marshluca)
-- [vincent4j](https://github.com/vincent4j)
-- [ZeroLu](https://github.com/ZeroLu)
-- [fortianwei](https://github.com/fortianwei)
+- [iceskysl](https://github.com/iceskysl)   
+- [zhenbeiju](https://github.com/zhenbeiju)   
+- [7heaven](https://github.com/7heaven)  
+- [Jingsha](https://github.com/jingsha)  
+- [com360](https://github.com/com360)  
+- [arjinmc](https://github.com/arjinmc)  
+- [acely](https://github.com/acely)   
+- [Haoxiqiang](https://github.com/haoxiqiang)   
+- [lhyqy5](https://github.com/lhyqy5)   
+- [lightlz](https://github.com/lightlz)   
+- [CodeDiving](http://github.com/codediving)   
+- [donlianggit](https://github.com/donlianggit)   
+- [ThatMrL](https://github.com/ThatMrL)   
+- [Kris](https://github.com/krislq)   
+- [leiweibo](https://github.com/leiweibo)   
+- [SamanthaChou](https://github.com/SamanthaChou)   
+- [siton](https://github.com/siton)   
+- [chenzimu7](https://github.com/chenzimu7)   
+- [marshluca](https://github.com/marshluca)   
+- [vincent4j](https://github.com/vincent4j)   
+- [ZeroLu](https://github.com/ZeroLu)   
+- [fortianwei](https://github.com/fortianwei)    
 
 ### 校对
 
-- [siton](https://github.com/siton)
-- 就不一一加了，等校对完成之后，一波给他全加上来
+- [siton](https://github.com/siton)   
+- [iceskysl](https://github.com/iceskysl)   
+- [KongZhen](https://github.com/KongZhen)   
+- [poppinlp](https://github.com/poppinlp)  
+- [chenyusi](https://github.com/chenyusi)  
+- [cxytomo](https://github.com/cxytomo)  
+- [Jingsha](https://github.com/jingsha)  
+- [miaoiyy](https://github.com/miaoiyy)  
+- [xianglifei](https://github.com/xianglifei)  
+- [huanglizhuo](https://github.com/huanglizhuo)  
+- [K0ST](https://github.com/K0ST)  
+- [sisyphus60](https://github.com/sisyphus60)   
+- [hyaocuk](https://github.com/hyaocuk)  
+- [vincent4j](https://github.com/vincent4j)   
 
 ***
 
