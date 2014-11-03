@@ -21,7 +21,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 
 ### 参与步骤（页尾有详细的过程演示）
-* fork主仓库（https://github.com/1sters/material_design_zh）
+* fork主仓库（<https://github.com/1sters/material_design_zh>）
 * 按照章节（页面）认领翻译(每次申请一个章节)，在下面这个`README.md`里找还没有被人申请的章节，写上（@你的github号），给主仓库的`master`分支提pull request；
 * 提的pull request 被确认，合并到主仓库后，代表你申请的章节*占位*完成，开始翻译；
 * 翻译过程请参 *翻译协作规范* ，完成翻译后提交pull request给主仓库的`master`分支；
