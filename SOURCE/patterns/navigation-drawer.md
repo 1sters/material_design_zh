@@ -3,9 +3,9 @@
 **The navigation drawer is a common pattern found in Google apps.  The navigation drawer slides in from the left. It follows the keylines and metrics for lists.**
 
 抽屉式导航是Google应用程序中一种常见的模式。抽屉导航从左侧滑出，它遵循列表的关键线和参阅线。
-<img src="images\patterns_navdrawer_metrics1.png"width="300"/> 
-<img src="images\patterns_navdrawer_metrics2.png"width="300"/> 
-<img src="images\patterns_navdrawer_metrics3.png"width="300"/> 
+<img src="images/patterns_navdrawer_metrics1.png"width="300"/> 
+<img src="images/patterns_navdrawer_metrics2.png"width="300"/> 
+<img src="images/patterns_navdrawer_metrics3.png"width="300"/> 
 
 排版
 Roboto Medium, 14sp, #FFFFFF  
