@@ -51,6 +51,10 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 * Material Design 
   * [概述](SOURCE/material-design/introduction.md) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
+* What is material?
+  * Environment
+  * Material properties
+  * Objects in 3D space
 * Animation 
   * [真实的动作](SOURCE/animation/authentic-motion.md) - [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) √ by [zhenbeiju](https://github.com/zhenbeiju)
   * [交互响应](SOURCE/animation/responsive-interaction.md) - [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
@@ -58,9 +62,9 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [打动用户的细节](SOURCE/animation/delightful-details.md) - [Delightful Details](http://www.google.com/design/spec/animation/delightful-details.html) √ by [com360](https://github.com/com360)
 * Style
   * [色彩](SOURCE/style/color.md) - [Color](http://www.google.com/design/spec/style/color.html) √ by [arjinmc](https://github.com/arjinmc)
-  * [字体排版](SOURCE/style/typography.md) - [Typography](http://www.google.com/design/spec/style/typography.html) √ by [acely](https://github.com/acely)
   * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html) 90% by [Haoxiqiang](https://github.com/haoxiqiang)（还剩一段未翻译）  
   * [图像](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html) 85% by [lhyqy5](https://github.com/lhyqy5)（部分句子未翻译）
+  * [字体排版](SOURCE/style/typography.md) - [Typography](http://www.google.com/design/spec/style/typography.html) √ by [acely](https://github.com/acely)
 * Layout
   * [准则](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) √ by [lightlz](https://github.com/lightlz)
   * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [CodeDiving](http://github.com/codediving)
@@ -85,19 +89,29 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [文本框](SOURCE/components/text-fields.md) - [Text fields](http://www.google.com/design/spec/components/text-fields.html) √ by [SamanthaChou](https://github.com/SamanthaChou)
   * [工具提示](SOURCE/components/tooltips.md) - [Tooltips](http://www.google.com/design/spec/components/tooltips.html) √ by [lhyqy5](https://github.com/lhyqy5)
 * Patterns
-  * [内容选取](SOURCE/patterns/selection.md) - [Selection](http://www.google.com/design/spec/patterns/selection.html) √ by [lhyqy5](https://github.com/lhyqy5)
+  * Data formats
+  * Errors
   * [手势](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html) √ by [Jingsha](https://github.com/jingsha)
-  * [促进的动作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) √ by [ZeroLu](https://github.com/ZeroLu)
-  * [设置](SOURCE/patterns/settings.md) - [Settings](http://www.google.com/design/spec/patterns/settings.html) √ by [ZeroLu](https://github.com/ZeroLu)
-  * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) √ by [ZeroLu](https://github.com/ZeroLu)
+  * Loading images
+  * Navigation drawer
+  * Navigational transitions
+  * Scrolling techniques
   * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html) √ by [lhyqy5](https://github.com/lhyqy5)
+  * [内容选取](SOURCE/patterns/selection.md) - [Selection](http://www.google.com/design/spec/patterns/selection.html) √ by [lhyqy5](https://github.com/lhyqy5)
+  * [设置](SOURCE/patterns/settings.md) - [Settings](http://www.google.com/design/spec/patterns/settings.html) √ by [ZeroLu](https://github.com/ZeroLu)
+  * Swipe to refresh
+  * [促进的动作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) √ by [ZeroLu](https://github.com/ZeroLu)
+  * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) √ by [ZeroLu](https://github.com/ZeroLu)
 * Usability
   * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) √ by [fortianwei](https://github.com/fortianwei)
+  * Bidirectionality
 * Resources
-  * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) √ by [iceskysl](https://github.com/iceskysl)
-  * [贴片集](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) √ by [iceskysl](https://github.com/iceskysl)
-  * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) √ by [iceskysl](https://github.com/iceskysl)
   * [调色板](SOURCE/resources/color-palettes.md) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html) √ by [iceskysl](https://github.com/iceskysl)
+  * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) √ by [iceskysl](https://github.com/iceskysl)
+  * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) √ by [iceskysl](https://github.com/iceskysl)
+  * [贴片集](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) √ by [iceskysl](https://github.com/iceskysl)
+* What's new
+  * [更新记录](SOURCE/whats-new/whats-new.md) - [What's new](http://www.google.com/design/spec/whats-new/whats-new.html) √ by [iceskysl](https://github.com/iceskysl)
 
 ### 校对认领章节记录  
 
