@@ -47,6 +47,11 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 ## 认领章节记录
 
+### 2014.11.3日更新   
+
+* Style
+  * Icons by [Goshin](https://github.com/goshin)
+
 ### 翻译认领章节记录   
 
 * Material Design 
