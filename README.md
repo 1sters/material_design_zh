@@ -97,7 +97,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * Data formats
   * Errors
   * [手势](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html) √ by [Jingsha](https://github.com/jingsha)
-  * Loading images
+  * Loading images √ by [jakollee](https://github.com/jakollee)
   * Navigation drawer
   * Navigational transitions
   * Scrolling techniques
