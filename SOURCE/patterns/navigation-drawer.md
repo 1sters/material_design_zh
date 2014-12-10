@@ -40,6 +40,7 @@
 ##**高度**##
 
 抽屉导航的占据了屏幕的全部高度，并且抽屉导航在状态栏的下方。抽屉下方所有的东西会覆盖一层阴影（scrim）而变暗。阴影下的所有内容依然是可见的。
+
 <img src="images/patterns_navdrawer_elevation1.png"width="360"/> 
 
 **Android上的抽屉导航**
@@ -63,9 +64,11 @@
 在导航抽屉里所有分割线都是完全在抽屉面板内部。此外，在分隔线上方和下方均有8dp的间距。
 
 <img src="images/patterns_navdrawer_dividers1.png"width="360"/> 
+
 **上下文**
 
 <img src="images/patterns_navdrawer_dividers2.png"width="360"/> 
+
 **8 dp 垂直间距**
 
 ##**滚动**##
