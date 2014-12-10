@@ -1,3 +1,9 @@
+---
+layout: page
+title: 抽屉式导航
+permalink: navigation-drawer.html
+---
+
 # 抽屉式导航 #
 
 **抽屉式导航是Google应用程序中一种常见的模式。抽屉导航从左侧滑出，它遵循列表的关键设计线和标准。**
@@ -10,7 +16,6 @@
 2. Roboto Regular, 14sp, #FFFFFF  
 3. 列表项: Roboto Medium, 14sp, 87% #000000  
 4. 副标题: Roboto Medium, 14sp, 54% #000000。对其到16dp关键设计线。 
-
 
 <img src="images/patterns_navdrawer_metrics2.png"width="360"/>   
 
@@ -33,7 +38,7 @@
 2. 56dp  
 3. 8dp  
 4. 48dp  
- 
+
 在每个列表组的顶部和底部添加8dp的间距。一个例外的情况是，当这个列表组有一个副标题的时候顶部不需添加8dp的间距，因为副标题包含有他自己的间距设定。
 
 
@@ -44,6 +49,7 @@
 <img src="images/patterns_navdrawer_elevation1.png"width="360"/> 
 
 **Android上的抽屉导航**
+
 
 ## **选择状态** ##
 
@@ -71,14 +77,13 @@
 
 **8 dp 垂直间距**
 
+
 ##**滚动**##
 
 抽屉导航可以像任何普通视图一样滚动。
 
 <img src="images/patterns_navdrawer_scrolling1.png"width="360"/> 
 <img src="images/patterns_navdrawer_scrolling2.png"width="360"/> 
- 
-
 
 
 ##**设置和支持**##
