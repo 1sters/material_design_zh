@@ -11,53 +11,71 @@ permalink: icons.html
 
 ##产品图标
 
-产品图标作为一个品牌下的产品、服务和工具的一种视觉表现，能够简洁、显眼且友好地传递产品的核心理念与内涵。尽管每个产品图标看上去截然不同，但对于一个给定品牌，产品图标应通过理念和执行统一起来。
+产品图标作为一个品牌下的产品、服务和工具的一种视觉表现，能够简洁、显眼且友好地传递产品的核心理念与内涵。尽管每个产品图标看上去截然不同，但对于一个给定品牌，产品图标应在理念和实践中统一。
 
-产品图标是传达品牌的一个重要载体。从使用以下准则开始，以确保产品图标的颜色和其他关键要素能够正确反映你的品牌标识。
+产品图标是传达品牌的一个重要载体。从使用以下准则开始，确保产品图标的颜色和其他关键要素能够正确反映你的品牌标识。
 
 ![](images/style_logos_product_intro_definition.png)
 
 ###设计途径
 
-产品图标设计在现实材料质感和触感中获得启发。每个图标都像纸张一样被裁剪、折叠和点燃，却只通过一些简单的图形元素来表现。我们通过整洁的褶皱和清晰的边缘来表现结实坚固的质感，通过微妙的亮点和一致的阴影来展现材料的磨砂抛光。
+产品图标设计从现实材料质感和触感中获得启发。每个图标都像纸张一样被裁剪、折叠和点燃，而通过一些简单的图形元素来表现。我们通过干净的折痕和清晰的边缘来表现结实坚固的质感，或是通过微妙的亮点和一致的阴影来展现材料的磨砂抛光。
 
 ![现实原型](images/style_logos_product_intro_material_physical.png)
+现实原型
+
 ![光线考究](images/style_logos_product_intro_material_lighting.png)
+光线考究
+
 ![材料原型](images/style_logos_product_intro_material_material.png)
+材料原型
+
 ![色彩考究](images/style_logos_product_intro_material_color.png)
+色彩考究
+
 
 ###图标网格
-
-产品图标网格已经发展得便捷的一致，且建立一套明确的图形元素定位规则。这种标准化带来了灵活，且连贯的系统。
+产品图标网格已经形成了一致，且建立了一套明确的图形元素定位规则。这种标准化带来了灵活，而连贯的系统。
 
 ![网格](images/style_logos_product_grid_logo_grid.png)
+网格
 ![关键线](images/style_logos_product_grid_logo_keylines.png)
+关键线
 
 ###关键线的形状
 
-关键线的形状是网格的基础。利用这些核心形状做为向导，即可保持整个相关产品的图标一致的视觉比例。
+关键线的形状是网格的基础。利用这些核心形状做为向导，即可使整个相关产品的图标保持一致的视觉比例。
 
 ![方形](images/style_logos_product_grid_shapes_square.png)
+方形
 高&宽: 152
+
 ![圆形](images/style_logos_product_grid_shapes_circle.png)
+圆形
 直径: 176
+
 ![竖直矩形](images/style_logos_product_grid_shapes_vert_rectangle.png)
+竖直矩形
 高:176 宽:128
+
 ![水平矩形](images/style_logos_product_grid_shapes_hori_rectangle.png)
+水平矩形
 高:128 宽:176
 
 ###DP 单位网格
 
-设备的启动器以48dp的尺寸显示产品图标，所以当你创建图标时，请保持48个单位的尺寸，将其放大400%到192 x 192 px。
+设备的启动器以48dp的尺寸显示产品图标，所以当你创建图标时，请使用48dp的尺寸，必要时可将其放大400%到192 x 192 px。
 
 保持这样的放缩比即可在尺寸在缩小时保持边缘的锋利和对齐的正确性。
 
 ![1:1 单元网格](images/style_logos_product_grid_unit_1to1.png)
+1:1 单元网格
 ![4:1 单位网格](images/style_logos_product_grid_unit_1to1.png)
+4:1 单元网格
 
 ###几何
 
-预设规则为几种特定的关键线制定：圆形线、方形线、矩形线、正交线和对角线。这个通用且简洁的元素调板以发展到统一产品图标和规范它们在网格上的布置。
+预设规则为这几种特定的关键线制定：圆形线、方形线、矩形线、正交线和对角线。这个通用且简洁的元素调板形成的目的是统一产品图标和规范它们在网格上的布置。
 
 ![](images/style_logos_product_grid_geometry1.png)
 ![](images/style_logos_product_grid_geometry2.png)
@@ -66,7 +84,7 @@ permalink: icons.html
 
 ###产品图标剖析
 
-产品图标解剖阐述组成产品图标的图形元素。对于一个给定的品牌，这些图标之间元素的一致性是维护一个共享视觉语言的关键。熟悉这些元素可以更容易地理解每个logo 和它们之间的细微差异的特征。它也将帮助你的眼睛识别的logo 设计的底层结构。
+下面我们来解剖那些组成产品图标的图形元素。对于一个给定的品牌，在这些图标中，元素的一致性是形成一个共享视觉语言的关键。熟悉这些元素可以更容易地理解每个logo 和它们之间细微差异的特征。它也将帮助你学会识别logo 设计的底层结构。
 
  1. 表层
  2. 材质背景
@@ -75,25 +93,35 @@ permalink: icons.html
  5. 阴影
 
 ![组件](images/style_logos_product_anatomy_components.png)
-每个组件放置在另一个的上面，总能从上方直接看到。
+组件
+直接从上方看，组件相互重叠。
 ![构建视角](images/style_logos_product_anatomy_components_perspective.png)
-一个展示图标构建时各成分情况的立体分解图。
+构建视角
+显示图标构造中各成分的立体分解图。
 ![材质背景](images/style_logos_product_anatomy_material_background.png)
-最里面的材质元素。
+材质背景
+最里层的材质元素。
 ![材质前景](images/style_logos_product_anatomy_material_foreground.png)
-材质前景使一层材质元素凸起并在下方铺上一层阴影。
+材质前景
+在一层阴影之上的材质。
 ![斑点色](images/style_logos_product_anatomy_color_spot.png)
-施加到元素一小部分的颜色。
+斑点色
+施加到元素中一小部分的颜色。
 ![泛色](images/style_logos_product_anatomy_color_flooding.png)
-边对边施加到整个元素的颜色。
+泛色
+从边到边施加到整个元素的颜色。
 ![亮边](images/style_logos_product_anatomy_edges_tinted.png)
-在一个材质元素的顶部边缘，染上与白色混合的颜色，以减淡了原有的颜色。
+亮边
+在一个材质元素的顶部边缘，染上与亮色混合的颜色，以减淡了原有的颜色。
 ![暗边](images/style_logos_product_anatomy_edges_shaded.png)
-在一个材质元素的底部边缘，染上与黑色混合的颜色，以加深了原有的颜色。
+暗边
+在一个材质元素的底部边缘，染上与暗色混合的颜色，以加深了原有的颜色。
 ![联系阴影](images/style_logos_product_anatomy_shadow.png)
-在一个凸起材质元素的四条边上柔和的阴影。
+联系阴影
+在一个上层材质元素周围的柔和阴影。
 ![表层](images/style_logos_product_anatomy_finish.png)
-所有元素上提供照明的柔和色彩，自左上到右下渐变。
+表层
+在所有元素之上，自左上到右下逐渐变淡，提供照明的柔和色彩。
  
 ## 系统图标
 
@@ -110,6 +138,7 @@ permalink: icons.html
 展示一些黑体的几何形状。
 
 一个简洁的黑体图形在采用对称一致的设计时，一样能够拥有独一无二的品质。
+
 
 ![DesignPrinciples1 icon](images/Style-SystemIcons-design_principlesa_large_mdpi.png)  
 ![DesignPrinciples2 icon](images/Style-SystemIcons-design_principlesb_large_mdpi.png)  
