@@ -11,11 +11,11 @@ permalink: navigation-drawer.html
 <img src="images/patterns_navdrawer_metrics1.png"width="360"/> 
 
 **排版样式**  
-字体，字号，颜色：  
-1. Roboto Medium, 14sp, #FFFFFF  
-2. Roboto Regular, 14sp, #FFFFFF  
-3. 列表项: Roboto Medium, 14sp, 87% #000000  
-4. 副标题: Roboto Medium, 14sp, 54% #000000。对其到16dp关键设计线。 
+字体，字号，颜色：
+1. Roboto Medium, 14sp, #FFFFFF
+2. Roboto Regular, 14sp, #FFFFFF
+3. 列表项: Roboto Medium, 14sp, 87% #000000
+4. 副标题: Roboto Medium, 14sp, 54% #000000。对其到16dp关键设计线。
 
 <img src="images/patterns_navdrawer_metrics2.png"width="360"/>   
 
