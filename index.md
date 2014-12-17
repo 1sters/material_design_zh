@@ -64,6 +64,8 @@ Google I/O 2014 发布的 Material Design 势必将会成为统一 Android Mobil
 - [Calibre](http://calibre-ebook.com/)
 - [Semantic UI](http://semantic-ui.com/)  
 
+## [本站技术实现方案 >](http://blog.4jplus.com/155)
+
 ## 进度记录
 
 - 2014.6.27，Iceskysl 和 4J 商量启动协同翻译，创建 GitHub 仓库，制定协同规范；
