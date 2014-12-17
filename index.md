@@ -69,7 +69,7 @@ Google I/O 2014 发布的 Material Design 势必将会成为统一 Android Mobil
 - 2014.6.27，Iceskysl 和 4J 商量启动协同翻译，创建 GitHub 仓库，制定协同规范；
 - 2014.6.28，zhenbeiju，7heaven，com360，Jingsha，Kris 等人参与进来，开始翻译；
 - 2014.6.29，合计 8 个模块 42 篇正文，其他人员加入，共 20 人参与，全部认领完成；
-- 2014.6.30，完成 <http://design.1sters.com> 网站，具体实现方案为[「GITHUB + JEKYLL + Semantic UI + CALIBRE」](http://blog.4jplus.com/155)；
+- 2014.6.30，完成 <http://design.1sters.com> 网站，具体实现方案为[GitHub + Jekyll + Semantic UI](http://blog.4jplus.com/155)；
 - 2014.7.1，紧张的翻译过程，部分校对的人开始加入，准备后续校对；
 - 2014.7.2，完成全部文章翻译，正式发布第一稿，同时 [启动校对任务](https://github.com/1sters/material_design_zh/issues/140)；
 - 2014.09.09，校对工作全部完成；
