@@ -27,13 +27,13 @@ permalink: selection.html
 在移动平台上，所选文本的前后两端各会添加一个选择操作钮。对于文字相关操作的弹出菜单，所选文本的上方是理想的位置（但最好不要重叠）。
 
 ![](images/patterns-selection-selection-textfields_select_03a_large_mdpi.png)
-![](images/patterns-selection-selection-textfields_select_03b_large_mdpi.png)  
+![](images/patterns-selection-selection-textfields_select_03b_large_mdpi.png)
 文本选择操作钮
 
-![](images/patterns-selection-selection-textfields_select_06_large_mdpi.png)  
+![](images/patterns-selection-selection-textfields_select_06_large_mdpi.png)
 文本选择-明亮主题
 
-![](images/patterns-selection-selection-textfields_select_08_large_mdpi.png)  
+![](images/patterns-selection-selection-textfields_select_08_large_mdpi.png)
 文本选择-深邃主题
 
 包含“剪切”、“复制”、“粘贴”和“更多”操作的弹出菜单显示在所选区域的上方。当用户选择“更多”按钮时，弹出菜单先收缩到“更多”图标，然后以该图标为中心展开更多菜单项。文本选择菜单的字体用Roboto Medium 14 sp，一律大写。
