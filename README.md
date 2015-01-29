@@ -95,7 +95,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [工具提示](SOURCE/components/tooltips.md) - [Tooltips](http://www.google.com/design/spec/components/tooltips.html) √ by [lhyqy5](https://github.com/lhyqy5)
 * Patterns
   * [数据格式](SOURCE/patterns/data-formats.md) - [Data formats](http://www.google.com/design/spec/patterns/data-formats.html) 100% by [IsNoFate](https://github.com/isnofate)
-  * Errors
+  * 错误 - [Errors](http://www.google.com/design/spec/patterns/errors.html) 翻译中 by [IsNoFate](https://github.com/isnofate)
   * [手势](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html) √ by [Jingsha](https://github.com/jingsha)
   * Loading images √ by [jakollee](https://github.com/jakollee)
   * [抽屉式导航](SOURCE/patterns/navigation-drawer.md) - [Navigation drawer](http://www.google.com/design/spec/patterns/navigation-drawer.html) √ by [hcz017](https://github.com/hcz017)
