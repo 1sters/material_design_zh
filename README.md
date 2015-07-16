@@ -129,7 +129,8 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) √ by [iceskysl](https://github.com/iceskysl)
   * [贴片集](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) √ by [iceskysl](https://github.com/iceskysl)
 * What's new
-  * [`更新记录`](SOURCE/whats-new/whats-new.md) - [`What's new`](https://www.google.com/design/spec/whats-new/whats-new.html) 
+  * [`更新记录`](SOURCE/whats-new/whats-new.md) - [`What's new`](https://www.google.com/design/spec/whats-new/whats-new.html)    
+   
 ### 校对认领章节记录  
 
 * Material Design 
