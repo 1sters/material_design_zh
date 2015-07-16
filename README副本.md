@@ -129,7 +129,8 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) √ by [iceskysl](https://github.com/iceskysl)
   * [贴片集](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) √ by [iceskysl](https://github.com/iceskysl)
 * What's new
-  * [`更新记录`](SOURCE/whats-new/whats-new.md) - [`What's new`](https://www.google.com/design/spec/whats-new/whats-new.html) 
+  * [更新记录](SOURCE/whats-new/whats-new.md) - [What's new](http://www.google.com/design/spec/whats-new/whats-new.html) √ by [iceskysl](https://github.com/iceskysl)
+
 ### 校对认领章节记录  
 
 * Material Design 
@@ -151,26 +152,20 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [`书写`](SOURCE/style/writing.md) - [`Writing`](https://www.google.com/design/spec/style/writing.html)
 * Layout
   * [准则](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html)（难）√ by [Jingsha](https://github.com/jingsha)
-  * [`单位和度量`](SOURCE/layout/units-measurements.md) - [`Units and measurements`](https://www.google.com/design/spec/layout/units-measurements.html)
   * [度量与边框](SOURCE/layout/metrics-and-keylines.md) - [Metrics and Keylines](http://www.google.com/design/spec/layout/metrics-and-keylines.html) √ by [cxytomo](https://github.com/cxytomo)
   * [结构](SOURCE/layout/structure.md) - [Structure](http://www.google.com/design/spec/layout/structure.html) √ by [miaoiyy](https://github.com/miaoiyy)
-  * [`自适应 UI`](SOURCE/layout/adaptive-ui.md) - [`Adaptive UI`](https://www.google.com/design/spec/layout/adaptive-ui.html)
 * Components
   * [底部窗口](SOURCE/components/bottom-sheets.md) - [Bottom Sheets](http://www.google.com/design/spec/components/bottom-sheets.html) √ by [siton](https://github.com/siton)
   * [按钮](SOURCE/components/buttons.md) - [Buttons](http://www.google.com/design/spec/components/buttons.html) √ by [siton](https://github.com/siton)
-  * [`按钮：浮动动作按钮`](SOURCE/components/buttons-floating-action-button.md) - [`Buttons: Floating Action Button`](https://www.google.com/design/spec/components/buttons-floating-action-button.html)
   * [卡片](SOURCE/components/cards.md) - [Cards](http://www.google.com/design/spec/components/cards.html) √ by [xianglifei](https://github.com/xianglifei)
   * [纸片](SOURCE/components/chips.md) - [Chips](http://www.google.com/design/spec/components/chips.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
-  * [`数据表格`](SOURCE/components/data-tables.md) - [`Data tables`](https://www.google.com/design/spec/components/data-tables.html)
   * [提示框](SOURCE/components/dialogs.md) - [Dialogs](http://www.google.com/design/spec/components/dialogs.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
   * [分隔线](SOURCE/components/dividers.md) - [Dividers](http://www.google.com/design/spec/components/dividers.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
   * [网格](SOURCE/components/grids.md) - [Grids](http://www.google.com/design/spec/components/grids.html) √ by [huanglizhuo](https://github.com/huanglizhuo)
   * [列表](SOURCE/components/lists.md) - [Lists](http://www.google.com/design/spec/components/lists.html) √ by [K0ST](https://github.com/K0ST)
   * [列表控制](SOURCE/components/list-controls.md) - [List controls](http://www.google.com/design/spec/components/list-controls.html) √ by [cxytomo](https://github.com/cxytomo)
   * [菜单](SOURCE/components/menus.md) - [Menus](http://www.google.com/design/spec/components/menus.html) √ by [poppinlp](https://github.com/poppinlp)
-  * [`选择器`](SOURCE/components/pickers.md) - [`Pickers`](https://www.google.com/design/spec/components/pickers.html)
   * [进度和动态](SOURCE/components/progress-activity.md) - [Progress and Activity](http://www.google.com/design/spec/components/progress-activity.html) √ [sisyphus60](https://github.com/sisyphus60)
-  * [`选择控制`](SOURCE/components/selection-controls.md) - [`Selection controls`](https://www.google.com/design/spec/components/selection-controls.html)
   * [滑块](SOURCE/components/sliders.md) - [Sliders](http://www.google.com/design/spec/components/sliders.html) √ by [chenyusi](https://github.com/chenyusi)
   * [Snackbars 与 Toasts](SOURCE/components/snackbars-and-toasts.md) - [Snackbars and Toasts](http://www.google.com/design/spec/components/snackbars-and-toasts.html) √ by [poppinlp](https://github.com/poppinlp)
   * [副标题](SOURCE/components/subheaders.md) - [Subheaders](http://www.google.com/design/spec/components/subheaders.html) √ by [poppinlp](https://github.com/poppinlp)
@@ -179,28 +174,16 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [文本框](SOURCE/components/text-fields.md) - [Text fields](http://www.google.com/design/spec/components/text-fields.html) √ by [hyaocuk](https://github.com/hyaocuk)
   * [工具提示](SOURCE/components/tooltips.md) - [Tooltips](http://www.google.com/design/spec/components/tooltips.html) √ by [poppinlp](https://github.com/poppinlp)
 * Patterns
-  * [`App 结构`](SOURCE/patterns/app-structure.md) - [`App structure`](https://www.google.com/design/spec/patterns/app-structure.html)
-  * [`数据格式`](SOURCE/patterns/data-formats.md) - [`Data formats`](https://www.google.com/design/spec/patterns/data-formats.html)
-  * [`空状态`](SOURCE/patterns/empty-states.md) - [`Empty states`](https://www.google.com/design/spec/patterns/empty-states.html)
-  * [`错误`](SOURCE/patterns/errors.md) - [`Errors`](https://www.google.com/design/spec/patterns/errors.html)
   * [内容选取](SOURCE/patterns/selection.md) - [Selection](http://www.google.com/design/spec/patterns/selection.html) √ by [poppinlp](https://github.com/poppinlp)
   * [手势](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html)（难） √ by [cxytomo](https://github.com/cxytomo)
-  * [`启动屏幕`](SOURCE/patterns/launch-screens.md) - [`Launch screens`](https://www.google.com/design/spec/patterns/launch-screens.html)
-  * [`加载图像`](SOURCE/patterns/loading-images.md) - [`Loading Images`](https://www.google.com/design/spec/patterns/loading-images.html)
   * [改进的操作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) √ by [sisyphus60](https://github.com/sisyphus60)
   * [设置](SOURCE/patterns/settings.md) - [Settings](http://www.google.com/design/spec/patterns/settings.html) √ by [poppinlp](https://github.com/poppinlp)
   * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) √ by [vincent4j](https://github.com/vincent4j)
-   * [`导航`](SOURCE/patterns/navigation.md) - [`Navigation`](https://www.google.com/design/spec/patterns/navigation.html)
-  * [`导航过渡`](SOURCE/patterns/navigational-transitions.md) - [`Navigational transitions`](https://www.google.com/design/spec/patterns/navigational-transitions.html)
-  * [`滚动技巧`](SOURCE/patterns/scrolling-techniques.md) - [`Scrolling techniques`](https://www.google.com/design/spec/patterns/scrolling-techniques.html)
   * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html) √ by [poppinlp](https://github.com/poppinlp)
-  * [`刷新`](SOURCE/patterns/swipe-to-refresh.md) - [`Swipe to refresh`](https://www.google.com/design/spec/patterns/swipe-to-refresh.html)
 * Usability
   * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) √ by [K0ST](https://github.com/K0ST)
-  * [`双向性`](SOURCE/usability/bidirectionality.md)- [`Bidirectionality`](https://www.google.com/design/spec/usability/bidirectionality.html)
 * Resources
   * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) √ by [poppinlp](https://github.com/poppinlp)
-  * [`设备`](SOURCE/resources/devices.md) - [`Devices`](https://www.google.com/design/spec/resources/devices.html)
   * [贴片集](SOURCE/resources/sticker-sheets.md) - [Sticker Sheets](http://www.google.com/design/spec/resources/sticker-sheets.html) √ by [poppinlp](https://github.com/poppinlp)
   * [Roboto 字体](SOURCE/resources/roboto-font.md) - [Roboto Font](http://www.google.com/design/spec/resources/roboto-font.html) √ by [poppinlp](https://github.com/poppinlp)
   * [调色板](SOURCE/resources/color-palettes.md) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html) √ by [poppinlp](https://github.com/poppinlp)
