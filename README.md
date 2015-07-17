@@ -117,7 +117,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html) √ by [lhyqy5](https://github.com/lhyqy5)
   * [内容选取](SOURCE/patterns/selection.md) - [Selection](http://www.google.com/design/spec/patterns/selection.html) √ by [lhyqy5](https://github.com/lhyqy5)
   * [设置](SOURCE/patterns/settings.md) - [Settings](http://www.google.com/design/spec/patterns/settings.html) √ by [ZeroLu](https://github.com/ZeroLu)
-  * [`刷新`](SOURCE/patterns/swipe-to-refresh.md) - [`Swipe to refresh`](https://www.google.com/design/spec/patterns/swipe-to-refresh.html)
+  * [`刷新`](SOURCE/patterns/swipe-to-refresh.md) - [`Swipe to refresh`](https://www.google.com/design/spec/patterns/swipe-to-refresh.html) √ by [awong1900](https://github.com/awong1900)
   * [促进的动作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) √ by [ZeroLu](https://github.com/ZeroLu)
   * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) √ by [ZeroLu](https://github.com/ZeroLu)
 * Usability
