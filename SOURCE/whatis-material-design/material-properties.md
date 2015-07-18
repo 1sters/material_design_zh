@@ -24,7 +24,7 @@ permalink: material-properties.html
 宜。
 阴影描述材料元件之间的相对高度。
 不宜。
-[*Shadows are never approximated by coloring material.]
+阴影永远不会被着色材料近似。
 
 内容并不会增加材料的厚度。
 
