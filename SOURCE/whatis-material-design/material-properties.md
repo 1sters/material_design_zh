@@ -3,7 +3,7 @@
 
 ---
 layout: page
-title: Material 属性
+title: Material属性
 permalink: material-properties.html
 ---
 #Material 属性
