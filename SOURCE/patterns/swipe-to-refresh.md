@@ -61,17 +61,17 @@ Swipe to refresh should not be used in the following situations:
 * 主屏幕插件
 * Pannable文本
 
-![1](images/patterns_swipetorefresh_dont1.png)
+![1](images/patterns_swipetorefresh_dont1_mdpi.png)
 不宜  
 Navigation drawers (if present in an app) contain navigation destinations, not dynamic content.
 抽屉式导航栏（如果在应用中存在）包括导航选项，不是动态内容。
 
-![2](images/patterns_swipetorefresh_dont2.png)
+![2](images/patterns_swipetorefresh_dont2_mdpi.png)
 不宜
 Home screen widgets should update content automatically.
 主屏幕插件应该阻挡更新内容。
 
-![3](images/patterns_swipetorefresh_dont3.png)
+![3](images/patterns_swipetorefresh_dont3_mdpi.png)
 不宜   
 Pannable content, like in maps, have no primary direction or content origin from which users can presume the swipe to refresh gesture will originate.
 Pannable内容，像地图，没有一个主要的方向或者内容起点，用户能认做滑动刷新的起点。
@@ -84,11 +84,11 @@ Position:
 
 The refresh indicator, when resting, is centered horizontally relative to refreshing content.
 刷新图标，当滑下来时，在刷新内容的垂直正中间位置。
-![postion1](images/patterns_swipetorefresh_position1.png)
+![postion1](images/patterns_swipetorefresh_position1_mdpi.png)
 适合
-![postion2](images/patterns_swipetorefresh_position2.png)
+![postion2](images/patterns_swipetorefresh_position2_mdpi.png)
 不适合   
-![postion3](images/patterns_swipetorefresh_position3.png)
+![postion3](images/patterns_swipetorefresh_position3_mdpi.png)
 不适合
 
 The refresh indicator is located near the top of refreshing content.
@@ -96,9 +96,9 @@ The refresh indicator is located near the top of refreshing content.
 
 Its exact vertical resting position can be adjusted to promote visual harmony with the underlying layout. For example, the indicator may fall on a material edge or grid line, as long as it’s located near the top of the refreshing content.
 
-![postion4](images/patterns_swipetorefresh_position4.png)  
+![postion4](images/patterns_swipetorefresh_position4_mdpi.png)  
 适合
-![postion5](images/patterns_swipetorefresh_position5.png)
+![postion5](images/patterns_swipetorefresh_position5_mdpi.png)
 不适合
 
 Behavior:
