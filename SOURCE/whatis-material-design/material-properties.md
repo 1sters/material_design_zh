@@ -1,11 +1,5 @@
-**********打星号的是不确定的，翻译在纸质上忘记码字了。。。图没来得及配，视频不知道该怎么配。
+**********打星号的是不确定的，翻译在纸质上忘记码字了。。。图和视频不知道该怎么配。
 
-
----
-layout: page
-title: Material属性
-permalink: material-properties.html
----
 #Material 属性
 材料拥有确定不变的特性和固定的行为。了解这些特性将有助于你在一定程度上熟悉材料，这与Material Design的[构想]*the vision of是一致的。
 
