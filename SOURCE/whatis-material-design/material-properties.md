@@ -3,11 +3,15 @@
 <!-- # Material properties -->
 #Material 属性
 ---
+<!-- 
+Material has certain immutable characteristics and inherent behaviors. Understanding these qualities will help you manipulate material in a way that’s consistent with the vision of material design.
+-->
 材料拥有确定不变的特性和固定的行为。了解这些特性将有助于你在一定程度上熟悉材料，这与Material Design的构想是一致的。
-
+<!-- ##Physical properties -->
 ##物理特性
 
-材料具有变化的长宽尺寸（以dp为计）和相同的厚度（1dp）。
+<!-- Material has **varying x & y dimensions** (measured in dp) and a **uniform thickness** (1dp). -->
+材料具有**变化的长宽尺寸**（以dp为计）和**均匀的厚度**（1dp）。
 
 **add video** 
 宜。
