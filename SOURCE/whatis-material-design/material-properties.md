@@ -24,88 +24,99 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 不宜。
 <!-- Material is always 1dp thick. -->
 材料总是1dp厚。
-
+<!-- Material casts shadows. -->
 材料会形成阴影。
-
+<!-- Shadows result naturally from the relative elevation (z-position) between material elements. -->
 阴影是由于材料元件之间的相对高度（Z轴位置）而自然产生的。
-
+<!-- Do. -->
 宜。
-
+<!-- Shadows depict the relative elevation between material elements. -->
 阴影描述材料元件之间的相对高度。
-
+<!-- Don't.-->
 不宜。
-
+<!-- Shadows are never approximated by coloring material. -->
 阴影随着材料高度的变化而产生变化。
-
+<!-- Content is displayed on material, in any shape and color.  -->
+内容可被以任何形状和颜色显示在材料上。
+<!-- Content does not add thickness to material. -->
 内容并不会增加材料的厚度。
 
 **add video** 
-
+<!-- Do. -->
 宜。
-
+<!-- Material can display any shape and color. -->
 材料能展示任何形状和颜色。
-
+<!-- Content can behave independently of the material, but is limited within the bounds of the material. -->
 内容的展示能够独立于材料,但要被限制在材料的范围里。
 
 **add video** 
-
+<!-- Do. -->
 宜。
-
+<!-- Content behavior can be independent of the behavior of material. -->
 内容的行为能独立于材料的行为。
 
+<!-- Material is solid. -->
+材料是实物。
 
-材料是实物。输入事件不能穿过材料。
-
+<!-- Input events cannot pass through material. -->
+输入事件不能穿过材料。
+<!-- Do. -->
 宜。
-
+<!-- Input events only affect the foreground material. -->
 输入事件只影响材料的前景。
-
-不宜。输入事件不能从材料下面穿过。
-
+<!-- Don't -->
+不宜。
+<!-- Input events cannot pass through material. -->
+输入事件不能从材料下面穿过。
+<!-- Multiple material elements cannot occupy the same point in space simultaneously. -->
 多个材料元件不能同时占用相同的空间点。
-
+<!-- Do. -->
 宜。
-
+<!-- 
+Using elevation to separate material elements is one method of preventing multiple material elements from occupying the same point in space simultaneously.
+-->
 利用不同的高度区分材料元件是防止多个材料元件同时占用相同空间点的一个方法。
-
+<!-- Don't -->
 不宜。
-
+<!-- Multiple material elements cannot occupy the same point in space simultaneously. -->
 多个材料元件不能同时占用相同的空间点。
-
-材料不能穿过其他材料。例如，一片材料不能在改变高度时穿过另一片材料。
-
-**add video** 
-
-不宜。
-
+<!-- Material cannot pass through other material. -->
 材料不能穿过其他材料。
-
-##材料的变化
-
-材料能改变形状。
+<!-- For example, one sheet of material cannot pass through another sheet of material when changing elevation. -->
+例如，一片材料不能在改变高度时穿过另一片材料。
 
 **add video** 
-
-材料能改变形状。
-
-**add video** 
-
-宜。
-
-材料仅沿着它的水平面增长和收缩。
-
-材料决不能弯曲或折叠。
-
-**add video** 
-
+<!-- Don't -->
 不宜。
+<!-- Material cannot pass through other material. -->
+材料不能穿过其他材料。
+<!-- ##Transforming material -->
+##材料的变化
+<!-- Material can change shape. -->
+材料能改变形状。
 
+**add video** 
+<!-- Material can change shape. -->
+材料能改变形状。
+
+**add video** 
+<!--Do.-->
+宜。
+<!-- Material grows and shrinks only along its plane. -->
+材料仅沿着它的水平面增长和收缩。
+<!-- Material never bends or folds. -->
 材料决不能弯曲或折叠。
 
+**add video** 
+<!-- Don't. -->
+不宜。
+<!-- Material never bends or folds. -->
+材料决不能弯曲或折叠。
+<!-- Sheets of material can join together to become a single sheet of material. -->
 几片材料能合在一起组成一片材料。
 
 **add video** 
-
+<!-- Multiple sheets of material can join together to become a single sheet. -->
 几片材料能合在一起组成一片材料。
 
 当材料被割开时，它还能自己复原。例如，你从一片材料中移除了一部分，这一片材料将再次变为一块完整的材料。
