@@ -13,13 +13,13 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 <!-- Material has **varying x & y dimensions** (measured in dp) and a **uniform thickness** (1dp). -->
 材料具有**变化的长宽尺寸**（以dp为计）和**均匀的厚度**（1dp）。
 
-**add video** 
+**add image** 
 <!-- Do. -->
 宜。
 <!-- The height and width of material can vary. -->
 材料的高度和宽度是可变的。
 
-**add video** 
+**add image** 
 <!-- Don't. -->
 不宜。
 <!-- Material is always 1dp thick. -->
@@ -60,38 +60,56 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 
 <!-- Input events cannot pass through material. -->
 输入事件不能穿过材料。
+
+**add image** 
 <!-- Do. -->
 宜。
+
 <!-- Input events only affect the foreground material. -->
 输入事件只影响材料的前景。
+
+**add image** 
 <!-- Don't -->
 不宜。
+
 <!-- Input events cannot pass through material. -->
 输入事件不能从材料下面穿过。
+
 <!-- Multiple material elements cannot occupy the same point in space simultaneously. -->
 多个材料元件不能同时占用相同的空间点。
+
+**add image** 
 <!-- Do. -->
 宜。
+
 <!-- 
 Using elevation to separate material elements is one method of preventing multiple material elements from occupying the same point in space simultaneously.
 -->
 利用不同的高度区分材料元件是防止多个材料元件同时占用相同空间点的一个方法。
+
+**add image** 
 <!-- Don't -->
 不宜。
 <!-- Multiple material elements cannot occupy the same point in space simultaneously. -->
 多个材料元件不能同时占用相同的空间点。
+
 <!-- Material cannot pass through other material. -->
 材料不能穿过其他材料。
+
 <!-- For example, one sheet of material cannot pass through another sheet of material when changing elevation. -->
 例如，一片材料不能在改变高度时穿过另一片材料。
 
 **add video** 
 <!-- Don't -->
 不宜。
+
 <!-- Material cannot pass through other material. -->
 材料不能穿过其他材料。
+
 <!-- ##Transforming material -->
 ##材料的变化
+
+
 <!-- Material can change shape. -->
 材料能改变形状。
 
@@ -102,16 +120,20 @@ Using elevation to separate material elements is one method of preventing multip
 **add video** 
 <!--Do.-->
 宜。
+
 <!-- Material grows and shrinks only along its plane. -->
 材料仅沿着它的水平面增长和收缩。
+
 <!-- Material never bends or folds. -->
 材料决不能弯曲或折叠。
 
 **add video** 
 <!-- Don't. -->
 不宜。
+
 <!-- Material never bends or folds. -->
 材料决不能弯曲或折叠。
+
 <!-- Sheets of material can join together to become a single sheet of material. -->
 几片材料能合在一起组成一片材料。
 
@@ -119,30 +141,37 @@ Using elevation to separate material elements is one method of preventing multip
 <!-- Multiple sheets of material can join together to become a single sheet. -->
 几片材料能合在一起组成一片材料。
 
+<!-- 
+When split, material can heal. For example, if you remove a portion of material from a sheet of material, the sheet of material will become a whole sheet again.
+-->
 当材料被割开时，它还能自己复原。例如，你从一片材料中移除了一部分，这一片材料将再次变为一块完整的材料。
 
 **add video** 
-
+<!-- Material can split and become whole again. -->
 材料能被割开，还能再度变为完整。
 
+<!-- ## Movement of material -->
 ##材料的移动
 
+<!-- Material can be spontaneously generated or destroyed anywhere in the environment. -->
 材料能在环境中的任何地方自动产生或消失。
 
 **add video** 
-
+<!-- Material can be spontaneously generated or destroyed. -->
 材料能自动产生或消失。
 
+<!-- Material can move along any axis. -->
 材料能沿任何轴移动。
 
 **add video** 
-
+<!-- Material can move along various axes. -->
 材料可以沿各个轴移动。
 
+<!-- Z-axis motion is typically a result of user interaction with material. -->
 Z轴产生运动一般都是用户与材料交互而产生的。
 
 **add video** 
-
+<!-- Z-axis motion prompted by user interaction. -->
 Z轴的运动是由于用户的交互而产生的提示。
 
 > 原文：[Material properties](https://www.google.com/design/spec/what-is-material/material-properties.html)  翻译：[seermole766](https://github.com/seermole766)  校对：
