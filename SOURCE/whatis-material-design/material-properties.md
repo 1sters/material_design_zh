@@ -12,38 +12,47 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 
 <!-- Material has **varying x & y dimensions** (measured in dp) and a **uniform thickness** (1dp). -->
 材料具有**变化的长宽尺寸**（以dp为计）和**均匀的厚度**（1dp）。
+---
 
 **add image** [whatismaterial_materialproperties_physicalproperties_thickness_01_yes.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B8v7jImPsDi-aTBFT1FDVEstenM/whatismaterial_materialproperties_physicalproperties_thickness_01_yes.png)
 <!-- Do. -->
 宜。
 <!-- The height and width of material can vary. -->
 材料的高度和宽度是可变的。
+---
 
 **add image** [whatismaterial_materialproperties_physicalproperties_thickness_02_no.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B8v7jImPsDi-Sno0Qy1FY3UtaFk/whatismaterial_materialproperties_physicalproperties_thickness_02_no.png)
 <!-- Don't. -->
 不宜。
 <!-- Material is always 1dp thick. -->
 材料总是1dp厚。
+---
+
 <!-- Material casts shadows. -->
 材料会形成阴影。
 <!-- Shadows result naturally from the relative elevation (z-position) between material elements. -->
 阴影是由于材料元件之间的相对高度（Z轴位置）而自然产生的。
+---
 
 **add video**[inline%20whatismaterial-materialprop-physicalprop-PaperShadow_01_xhdpi_008.webm](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsM01aOVkzWXFYb1k/inline%20whatismaterial-materialprop-physicalprop-PaperShadow_01_xhdpi_008.webm)
 <!-- Do. -->
 宜。
 <!-- Shadows depict the relative elevation between material elements. -->
 阴影描述材料元件之间的相对高度。
+---
 
 **add video**[inline%20whatismaterial-materialprop-physicalprop-PaperShadow_02_xhdpi_008.webm](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRGhTci1mN2dWUW8/inline%20whatismaterial-materialprop-physicalprop-PaperShadow_02_xhdpi_008.webm)
 <!-- Don't.-->
 不宜。
 <!-- Shadows are never approximated by coloring material. -->
 阴影随着材料高度的变化而产生变化。
+---
+
 <!-- Content is displayed on material, in any shape and color.  -->
 内容可被以任何形状和颜色显示在材料上。
 <!-- Content does not add thickness to material. -->
 内容并不会增加材料的厚度。
+---
 
 **add video** [whatismaterial-materialprop-physicalprop-InkDisplay_xhdpi_006.webm](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaGVXTFRCVG1iU2M/whatismaterial-materialprop-physicalprop-InkDisplay_xhdpi_006.webm)
 <!-- Do. -->
