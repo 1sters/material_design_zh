@@ -13,7 +13,7 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 <!-- Material has **varying x & y dimensions** (measured in dp) and a **uniform thickness** (1dp). -->
 材料具有**变化的长宽尺寸**（以dp为计）和**均匀的厚度**（1dp）。
 
-**add image** 
+**add image** [1](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aVhXV0EtZ29OSU0/whatismaterial_properties_physical5.png)
 <!-- Do. -->
 宜。
 <!-- The height and width of material can vary. -->
