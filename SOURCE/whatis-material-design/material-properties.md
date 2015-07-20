@@ -13,13 +13,13 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 <!-- Material has **varying x & y dimensions** (measured in dp) and a **uniform thickness** (1dp). -->
 材料具有**变化的长宽尺寸**（以dp为计）和**均匀的厚度**（1dp）。
 
-**add image** [1](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aVhXV0EtZ29OSU0/whatismaterial_properties_physical5.png)
+**add image** [whatismaterial_materialproperties_physicalproperties_thickness_01_yes.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B8v7jImPsDi-aTBFT1FDVEstenM/whatismaterial_materialproperties_physicalproperties_thickness_01_yes.png)
 <!-- Do. -->
 宜。
 <!-- The height and width of material can vary. -->
 材料的高度和宽度是可变的。
 
-**add image** 
+**add image** [whatismaterial_materialproperties_physicalproperties_thickness_02_no.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B8v7jImPsDi-Sno0Qy1FY3UtaFk/whatismaterial_materialproperties_physicalproperties_thickness_02_no.png)
 <!-- Don't. -->
 不宜。
 <!-- Material is always 1dp thick. -->
@@ -28,10 +28,14 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 材料会形成阴影。
 <!-- Shadows result naturally from the relative elevation (z-position) between material elements. -->
 阴影是由于材料元件之间的相对高度（Z轴位置）而自然产生的。
+
+**add video**[inline%20whatismaterial-materialprop-physicalprop-PaperShadow_01_xhdpi_008.webm](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsM01aOVkzWXFYb1k/inline%20whatismaterial-materialprop-physicalprop-PaperShadow_01_xhdpi_008.webm)
 <!-- Do. -->
 宜。
 <!-- Shadows depict the relative elevation between material elements. -->
 阴影描述材料元件之间的相对高度。
+
+**add video**[inline%20whatismaterial-materialprop-physicalprop-PaperShadow_02_xhdpi_008.webm](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRGhTci1mN2dWUW8/inline%20whatismaterial-materialprop-physicalprop-PaperShadow_02_xhdpi_008.webm)
 <!-- Don't.-->
 不宜。
 <!-- Shadows are never approximated by coloring material. -->
@@ -41,7 +45,7 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 <!-- Content does not add thickness to material. -->
 内容并不会增加材料的厚度。
 
-**add video** 
+**add video** [whatismaterial-materialprop-physicalprop-InkDisplay_xhdpi_006.webm](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaGVXTFRCVG1iU2M/whatismaterial-materialprop-physicalprop-InkDisplay_xhdpi_006.webm)
 <!-- Do. -->
 宜。
 <!-- Material can display any shape and color. -->
@@ -49,7 +53,7 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 <!-- Content can behave independently of the material, but is limited within the bounds of the material. -->
 内容的展示能够独立于材料,但要被限制在材料的范围里。
 
-**add video** 
+**add video** [whatismaterial-materialprop-physicalprop-InkBehavior_xhdpi_006.webm](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsdnpyMjVKeFNvVm8/whatismaterial-materialprop-physicalprop-InkBehavior_xhdpi_006.webm)
 <!-- Do. -->
 宜。
 <!-- Content behavior can be independent of the behavior of material. -->
