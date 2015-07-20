@@ -19,13 +19,13 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 
 **add image** [whatismaterial_materialproperties_physicalproperties_thickness_01_yes.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B8v7jImPsDi-aTBFT1FDVEstenM/whatismaterial_materialproperties_physicalproperties_thickness_01_yes.png)
 <!-- Do. -->
-宜。
+要。
 <!-- The height and width of material can vary. -->
 材料的高度和宽度是可变的。
 
 **add image** [whatismaterial_materialproperties_physicalproperties_thickness_02_no.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B8v7jImPsDi-Sno0Qy1FY3UtaFk/whatismaterial_materialproperties_physicalproperties_thickness_02_no.png)
 <!-- Don't. -->
-不宜。
+不要。
 <!-- Material is always 1dp thick. -->
 材料总是1dp厚。
 
@@ -36,13 +36,13 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 
 **add video**[inline%20whatismaterial-materialprop-physicalprop-PaperShadow_01_xhdpi_008.webm](http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsM01aOVkzWXFYb1k/inline%20whatismaterial-materialprop-physicalprop-PaperShadow_01_xhdpi_008.webm)
 <!-- Do. -->
-宜。
+要。
 <!-- Shadows depict the relative elevation between material elements. -->
 阴影描述材料元件之间的相对高度。
 
 **add video**[inline%20whatismaterial-materialprop-physicalprop-PaperShadow_02_xhdpi_008.webm](http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRGhTci1mN2dWUW8/inline%20whatismaterial-materialprop-physicalprop-PaperShadow_02_xhdpi_008.webm)
 <!-- Don't.-->
-不宜。
+不要。
 <!-- Shadows are never approximated by coloring material. -->
 阴影随着材料高度的变化而产生变化。
 
@@ -53,7 +53,7 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 
 **add video** [whatismaterial-materialprop-physicalprop-InkDisplay_xhdpi_006.webm](http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaGVXTFRCVG1iU2M/whatismaterial-materialprop-physicalprop-InkDisplay_xhdpi_006.webm)
 <!-- Do. -->
-宜。
+要。
 <!-- Material can display any shape and color. -->
 材料能展示任何形状和颜色。
 <!-- Content can behave independently of the material, but is limited within the bounds of the material. -->
@@ -61,7 +61,7 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 
 **add video** [whatismaterial-materialprop-physicalprop-InkBehavior_xhdpi_006.webm](http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsdnpyMjVKeFNvVm8/whatismaterial-materialprop-physicalprop-InkBehavior_xhdpi_006.webm)
 <!-- Do. -->
-宜。
+要。
 <!-- Content behavior can be independent of the behavior of material. -->
 内容的行为能独立于材料的行为。
 
@@ -73,13 +73,13 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 
 **add image** [whatismaterial_properties_physical3.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bDZac2JGV2RUNk0/whatismaterial_properties_physical3.png)
 <!-- Do. -->
-宜。
+要。
 <!-- Input events only affect the foreground material. -->
 输入事件只影响材料的前景。
 
 **add image** [whatismaterial_properties_physical4.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RVdsUWRKN2xlaGc/whatismaterial_properties_physical4.png)
 <!-- Don't -->
-不宜。
+不要。
 <!-- Input events cannot pass through material. -->
 输入事件不能从材料下面穿过。
 
@@ -88,7 +88,7 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 
 **add image** [whatismaterial_properties_physical5.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aVhXV0EtZ29OSU0/whatismaterial_properties_physical5.png)
 <!-- Do. -->
-宜。
+要。
 <!-- 
 Using elevation to separate material elements is one method of preventing multiple material elements from occupying the same point in space simultaneously.
 -->
@@ -96,7 +96,7 @@ Using elevation to separate material elements is one method of preventing multip
 
 **add image** [whatismaterial_properties_physical6.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7UFdUMnRKaW5PSXM/whatismaterial_properties_physical6.png)
 <!-- Don't -->
-不宜。
+不要。
 <!-- Multiple material elements cannot occupy the same point in space simultaneously. -->
 多个材料元件不能同时占用相同的空间点。
 
@@ -107,7 +107,7 @@ Using elevation to separate material elements is one method of preventing multip
 
 **add video** [whatismaterial_properties_physical_07_xhdpi_009.webm](http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsekRnTGVlVEQzNXc/whatismaterial_properties_physical_07_xhdpi_009.webm)
 <!-- Don't -->
-不宜。
+不要。
 <!-- Material cannot pass through other material. -->
 材料不能穿过其他材料。
 
@@ -124,7 +124,7 @@ Using elevation to separate material elements is one method of preventing multip
 
 **add video** [whatismaterial-materialprop-transformingmaterial-PaperShapeLinear_xhdpi_005.webm](http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsZWtfWjlEQ0RTcXc/whatismaterial-materialprop-transformingmaterial-PaperShapeLinear_xhdpi_005.webm)
 <!--Do.-->
-宜。
+要。
 <!-- Material grows and shrinks only along its plane. -->
 材料仅沿着它的水平面增长和收缩。
 
@@ -133,7 +133,7 @@ Using elevation to separate material elements is one method of preventing multip
 
 **add video** [whatismaterial-materialprop-transformingmaterial-PaperBendFold_xhdpi_006.webm](http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsMXhFNUo2WmJrLWc/whatismaterial-materialprop-transformingmaterial-PaperBendFold_xhdpi_006.webm)
 <!-- Don't. -->
-不宜。
+不要。
 <!-- Material never bends or folds. -->
 材料决不能弯曲或折叠。
 
