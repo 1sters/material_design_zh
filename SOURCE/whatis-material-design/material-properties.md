@@ -14,15 +14,15 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 材料具有**变化的长宽尺寸**（以dp为计）和**均匀的厚度**（1dp）。
 
 **add video** 
-
+<!-- Do. -->
 宜。
-
+<!-- The height and width of material can vary. -->
 材料的高度和宽度是可变的。
 
 **add video** 
-
+<!-- Don't. -->
 不宜。
-
+<!-- Material is always 1dp thick. -->
 材料总是1dp厚。
 
 材料会形成阴影。
