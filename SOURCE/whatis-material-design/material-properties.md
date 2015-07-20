@@ -65,14 +65,14 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 <!-- Input events cannot pass through material. -->
 输入事件不能穿过材料。
 
-**add image** 
+**add image** [whatismaterial_properties_physical3.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bDZac2JGV2RUNk0/whatismaterial_properties_physical3.png)
 <!-- Do. -->
 宜。
 
 <!-- Input events only affect the foreground material. -->
 输入事件只影响材料的前景。
 
-**add image** 
+**add image** [whatismaterial_properties_physical4.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RVdsUWRKN2xlaGc/whatismaterial_properties_physical4.png)
 <!-- Don't -->
 不宜。
 
@@ -82,7 +82,7 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 <!-- Multiple material elements cannot occupy the same point in space simultaneously. -->
 多个材料元件不能同时占用相同的空间点。
 
-**add image** 
+**add image** [whatismaterial_properties_physical5.png](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aVhXV0EtZ29OSU0/whatismaterial_properties_physical5.png)
 <!-- Do. -->
 宜。
 
@@ -91,7 +91,7 @@ Using elevation to separate material elements is one method of preventing multip
 -->
 利用不同的高度区分材料元件是防止多个材料元件同时占用相同空间点的一个方法。
 
-**add image** 
+**add image** (
 <!-- Don't -->
 不宜。
 <!-- Multiple material elements cannot occupy the same point in space simultaneously. -->
