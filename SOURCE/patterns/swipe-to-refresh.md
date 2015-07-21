@@ -1,4 +1,4 @@
-   ---
+---
 layout: page
 title: 滑动刷新
 permalink: swipe-to-refresh.html
