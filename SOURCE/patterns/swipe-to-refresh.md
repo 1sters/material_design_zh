@@ -57,7 +57,10 @@ Changes may not be immediately obvious to users when this gesture is used in vie
 > [滑动刷新布局](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html)  
 > 通过一个垂直方向的滑动手势刷新视图的内容。
 
-**add video**  
+
+<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRWlsOUFOeG96RnM/components-progressactivity-behavior_Loading_SwipeDown_noload_xhdpi_005.webm">
+</video>
 <!-- Animation showing swipe to refresh -->
 动画，显示滑动刷新
 
@@ -73,17 +76,17 @@ Swipe to refresh should not be used in the following situations:
 * 主屏幕小插件
 * Pannable内容
 
-![1](images/patterns_swipetorefresh_dont1_mdpi.png)
+![1](images/patterns_swipetorefresh_dont1_mdpi.png)  
 不要  
 <!-- Navigation drawers (if present in an app) contain navigation destinations, not dynamic content. -->
 抽屉式导航栏（如果在应用中存在）包括导航选项，不是动态内容。
 
-![2](images/patterns_swipetorefresh_dont2_mdpi.png)
+![2](images/patterns_swipetorefresh_dont2_mdpi.png)  
 不要
 <!-- Home screen widgets should update content automatically.-->
 主屏幕小插件应该自动更新内容。
 
-![3](images/patterns_swipetorefresh_dont3_mdpi.png)
+![3](images/patterns_swipetorefresh_dont3_mdpi.png)  
 不要   
 <!-- Pannable content, like in maps, have no primary direction or content origin from which users can presume the swipe to refresh gesture will originate. -->
 Pannable内容，像地图，没有一个主要的方向或者内容起点，用户能认做滑动刷新的起点。
@@ -97,7 +100,7 @@ Pannable内容，像地图，没有一个主要的方向或者内容起点，用
 <!-- The refresh indicator, when resting, is centered horizontally relative to refreshing content. -->
 刷新图标，当下拉停止时，在刷新内容的垂直正中间位置。
 
-![postion1](images/patterns_swipetorefresh_position1_mdpi.png)  
+![postion1](images/patterns_swipetorefresh_position1_mdpi.png)   
 要  
 ![postion2](images/patterns_swipetorefresh_position2_mdpi.png)  
 不要     
@@ -131,14 +134,18 @@ The refresh indicator remains visible until the refresh activity completes and a
 
 刷新图标保持可见，直到刷新活动完成，并且任何新内容是可见的，或者用户从刷新内容导航出去。
 
-**add video**  
+<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsUkpNWUx6NFI4clE/patterns-swipetorefresh-behavior_do_xhdpi_009.webm">
+</video>
 要
   
 <!--Keeping the refresh indicator in view until the activity is completed provides feedback on the status of the refresh activity.-->
 
 保持刷新图标在视图上直到活动完成，并且反馈刷新后的状态。
 
-**add video**  
+<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsQ295RkQ0ZWFzMms/patterns-swipetorefresh-behavior_dont_xhdpi_009.webm">
+</video>
 不要   
 <!--
 Scrolling the refresh indicator off-screen hides the status of the refresh activity and may imply that the refresh activity is associated with a specific component within the view, such as a card, instead of the entire view.
@@ -167,16 +174,27 @@ When another surface is positioned in front (in z-space) of the material with re
 * 刷新material是在所有其他界面的前面（在z-space）
 * 内容刷新开始从app bar或者菜单扩展操作。
 
-**add video**   
+<video crossorigin="anonymous"  loop  controls width="360" height="171">
+<source src="http://materialdesign.qiniudn.compublish/material_v_4/material_ext_publish/0B6Okdz75tqQsTXlhUU5FT2JzX0U/patterns-swipetorefresh-zspace_refresh_xhdpi_007.webm">
+</video>
 <!-- Refreshing content that is above every other surface in z-space. -->
 刷新内容是在所有其他界面之上，在z－space空间。  
-**add video**   
+
+<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsZHZ1OUJOUFR1ZmM/patterns-swipetorefresh-coplanar_refresh_xhdpi_008.webm">
+</video>
 <!-- Refreshing content that is coplanar with another surface.-->
 刷新内容是另一个界面在同一个面上。   
-**add video**   
+
+<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsVU56bGR1cjZMU1k/patterns-swipetorefresh-zspace_refresh_mobile_xhdpi_002.webm">
+</video>
 <!-- Refreshing content that is below another surface in z-space.-->
 刷新内容是在z－space里另一个界面之下。   
-**add video**   
+
+<video crossorigin="anonymous"  loop  controls width="360" height="640">
+<source src="http://materialdesign.qiniudn.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDZOV1NmRlBVZjQ/patterns_swipetorefresh-appbar_refresh_xhdpi_007.webm">
+</video>
 <!-- Refreshing content via app bar action.-->
 刷新内容通过app bar操作。
 
