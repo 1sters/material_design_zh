@@ -70,7 +70,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [图标](SOURCE/style/icons.md) - [Icons](http://www.google.com/design/spec/style/icons.html) 90% by [Haoxiqiang](https://github.com/haoxiqiang)（还剩一段未翻译）  
   * [图像](SOURCE/style/imagery.md) - [Imagery](http://www.google.com/design/spec/style/imagery.html) 85% by [lhyqy5](https://github.com/lhyqy5)（部分句子未翻译）
   * [字体排版](SOURCE/style/typography.md) - [Typography](http://www.google.com/design/spec/style/typography.html) √ by [acely](https://github.com/acely)
-  * [`书写`](SOURCE/style/writing.md) - [`Writing`](https://www.google.com/design/spec/style/writing.html)
+  * [`书写`](SOURCE/style/writing.md) - [`Writing`](https://www.google.com/design/spec/style/writing.html) √ by [tornoteli](https://github.com/tornoteli)
 * Layout
   * [准则](SOURCE/layout/layout-principles.md) - [Principles](http://www.google.com/design/spec/layout/layout-principles.html) √ by [lightlz](https://github.com/lightlz)
   * [`单位和度量`](SOURCE/layout/units-measurements.md) - [`Units and measurements`](https://www.google.com/design/spec/layout/units-measurements.html)
