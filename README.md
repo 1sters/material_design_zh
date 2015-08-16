@@ -7,6 +7,8 @@ permalink: readme.html
 Material Design 中文协同翻译
 =============================================
 
+**重大消息：于 2015-08-16 更新，新增 20+ 章节，发布在 <http://wiki.jikexueyuan.com/project/material-design/>**   
+
 Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平台的设计语言规范，对从业人员意义重大，我们正通过互联网的方式将其翻译成中文~
 
 我们欢迎每一个人参与进来一起翻译和校对~~
