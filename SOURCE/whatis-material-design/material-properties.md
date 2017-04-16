@@ -5,14 +5,14 @@ permalink: material-properties.html
 ---
 
 <!-- # Material properties -->
-#Material 属性
+# Material 属性
 ---
 <!-- 
 Material has certain immutable characteristics and inherent behaviors. Understanding these qualities will help you manipulate material in a way that’s consistent with the vision of material design.
 -->
 材料拥有确定不变的特性和固定的行为。了解这些特性将有助于你在一定程度上熟悉材料，这与Material Design的构想是一致的。
 <!-- ##Physical properties -->
-##物理特性
+## 物理特性
 
 <!-- Material has **varying x & y dimensions** (measured in dp) and a **uniform thickness** (1dp). -->
 材料具有**变化的长宽尺寸**（以dp为计）和**均匀的厚度**（1dp）。
@@ -122,7 +122,7 @@ Using elevation to separate material elements is one method of preventing multip
 材料不能穿过其他材料。
 
 <!-- ##Transforming material -->
-##材料的变化
+## 材料的变化
 
 
 <!-- Material can change shape. -->
@@ -174,7 +174,7 @@ When split, material can heal. For example, if you remove a portion of material 
 材料能被割开，还能再度变为完整。
 
 <!-- ## Movement of material -->
-##材料的移动
+## 材料的移动
 
 <!-- Material can be spontaneously generated or destroyed anywhere in the environment. -->
 材料能在环境中的任何地方自动产生或消失。

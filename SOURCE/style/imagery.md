@@ -4,13 +4,13 @@ title: 图像(Imagery)
 permalink: imagery.html
 ---
 
-#图像
+# 图像
 
 ![](images/style-imagery-style_philosophy_large_mdpi.png)
 
 **在material design中，图像（无论是绘画还是摄影）都应该是组建而成而并非人为策划的，看起来神奇并且不显得过度制作。这种风格乐观，愉悦，并且坦率。这种风格比较强调场景的实质性（Materiality），质感，深度，让人意想不到的色彩运用， 以及对环境背景的关注。这些原则都旨在创建目的性强，美丽又有深度的用户界面。**
 
-##原则
+## 原则
 
 当使用绘画和摄影提升用户体验时，选择能够表达个人关联、信息和令人喜悦的图像。
 
@@ -26,20 +26,20 @@ permalink: imagery.html
 **闪光点**  
 用相关图像以一种意想不到的方式来取悦用户，让用户觉得不可思议。
 
-###场景赏析
+### 场景赏析
 加入逻辑，确保图像是动感的，并且显示出场景智能性和相关性。带有预测性的视觉效果能够彰显出智能的水准，从而能大大改善用户体验。
 
 ![](images/style-imagery-principles-appreciaton_content_large_mdpi.png)
 
-###身临其境
+### 身临其境
 
 要勇于运用遮盖的方法，或是对色彩和内容的叠加来构成对画面主角的印象，抑或是构成一幅缩略图。
 
 ![](images/style-imagery-principles-immersive_20obscure_large_mdpi.png)
 
-##最佳实践
+## 最佳实践
 
-##使用多种媒体
+## 使用多种媒体
 
 插画和摄影可以运用在同一个产品中。摄影自动暗含了一定程度的特定性，从而应该用来展示特定的物体和故事。绘画则能有效的表现出概念和隐喻，而这一点是摄影所不具备的。
 
@@ -59,7 +59,7 @@ permalink: imagery.html
 不要  
 不要局限于图片库。
 
-###远离图片库(Stay away from stock)
+### 远离图片库(Stay away from stock)
 
 
 利用图像可以表达一种与众不同的心声，还可以展现出绝佳的创意。
@@ -75,7 +75,7 @@ permalink: imagery.html
 ![](images/style-imagery-bestpractices-stock-dont_large_mdpi.png) 
 不要
 
-###有焦点
+### 有焦点
 
 你的图像应当有一个标志性的焦点。小到单一物体，大到整体布局，都可以成为焦点。确保能够用一个让人印象深刻的方法，传递给用户一个清晰的概念。
 
@@ -98,7 +98,7 @@ permalink: imagery.html
 不要
 
 
-###构建叙事(Build narratives)
+### 构建叙事(Build narratives)
 
 创建一个让人感觉身临其境的故事和上下文(context)场景。
 
@@ -114,7 +114,7 @@ permalink: imagery.html
 ![](images/style-imagery-bestpractices-narrative-carseat-dont_large_mdpi.png)  
 不要
 
-###不要过度操作
+### 不要过度操作
 
 保持图像的原始完整性。不要过度使用高度滤镜或高斯模糊，尤其是当试图去隐藏劣化(degradation)的时候。
 
@@ -130,9 +130,9 @@ permalink: imagery.html
 ![](images/style-imagery-bestpractices-manipulate-lake-dont_large_mdpi.png)  
 不要
 
-##用户界面集成(UI Integration)
+## 用户界面集成(UI Integration)
 
-###分辨率
+### 分辨率
 
 确保你的图像大小适应其边框并且支持跨平台。该结构强调大幅图像。理想情况下，素材应该不会出现像素化。要为特定的比率和设备测试合适的分辨率大小。
 	
@@ -145,7 +145,7 @@ permalink: imagery.html
 不要  
 劣化的图像
 
-###调整大小(Introduce Scale)
+### 调整大小(Introduce Scale)
 
 利用不同的大小的图像来创造视觉上的重要性。
 
@@ -155,7 +155,7 @@ permalink: imagery.html
 ![](images/style-imagery-integration-introduce_scaleb_large_mdpi.png)  
 鼓励在同一个生态系统使用多个容器。
 
-###文字保护
+### 文字保护
 
 添加文字保护纱(protection scrims)来使图像上的文字显示清晰易读。
 
@@ -184,7 +184,7 @@ permalink: imagery.html
 ![](images/style-imagery-integration-typetreatment3dont_large_mdpi.png)  
 不要
 
-###头像和缩略图
+### 头像和缩略图
 
 头像和缩略图代表实体或内容，可以是摄影或者概念性的插画。 通常来讲，他们是横置目标（tap targets），可以让人对事物和内容有一个初步印象。
 
@@ -200,7 +200,7 @@ permalink: imagery.html
 一个品牌头像能够让人在一眼之内传达信息，缩略图也如此。
 
 
-###主角图像(Hero Images)
+### 主角图像(Hero Images)
 
 主角图像通常被固定在很明显的位置，大小比普通大小略大，比如屏幕顶部的横幅。主角图像能够吸引用户，提供了内容相关的背景，或加强品牌。
 
@@ -212,7 +212,7 @@ permalink: imagery.html
 **合成的主角图像(Integrated hero image)**  
 合成的主角图像通常在一个样式中包含着混杂特异的部分。 这些部分并不能形成首要的视觉焦点。
 
-###图集
+### 图集
 图集图片（gallery images）通常风格醒目，且他们的布局基本相同，比如网格（grid）布局，或是单一的图像。
  
 ![](images/style-imagery-integration-imagetypegallerya_large_mdpi.png)  

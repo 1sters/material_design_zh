@@ -6,7 +6,7 @@ permalink: promoted-actions.html
 
 # 改进的操作
 
-##浮动按钮
+## 浮动按钮
 
 浮动按钮是一个改进操作的一个特殊例子。它有一个浮在整个界面之上的图标，并且在改变、启动、转换锚点时有特殊的动作，这使得浮动按钮与其他的按钮区别开来。  
 
@@ -17,7 +17,7 @@ permalink: promoted-actions.html
 ![](images/patterns-promotedactions-floatingactionbuttonFAB3_large_mdpi.png)        
 ![](images/patterns-promotedactions-floatingactionbuttonFAB4_large_mdpi.png)         
 
-###相关内容
+### 相关内容
 
 不是每个界面都需要一个浮动按钮。浮动按钮应该包含一个应用里最主要的操作。在屏幕的左侧的界面中，它最主要的操作通过点击屏幕来打开图库里的图片，所以这里不需要浮动按钮。而在屏幕的右侧的界面里，它最主要的功能是添加文件。对于这种情况，放置一个浮动按钮是比较合适的。  
 
@@ -59,7 +59,7 @@ permalink: promoted-actions.html
 ![](images/patterns-promotedactions-associatedcontentFAB08dont_large_mdpi.png)         
 不要              
 
-###相关动作
+### 相关动作
 
 把多出来的操作放在工具栏的“溢出（overflow）”菜单里面，而非浮动按钮里面。   
   
@@ -122,7 +122,7 @@ permalink: promoted-actions.html
 ![](images/patterns-promotedactions-relatedactionsFAB16dont2_large_mdpi.png)      
 不要                  
 
-###特性
+### 特性
 
 使用浮动按钮做一些保护性的操作，像创建、加入我的最爱、分享、导航和浏览。 
   
@@ -150,7 +150,7 @@ permalink: promoted-actions.html
 ![](images/patterns-promotedactions-qualitiesFAB21dont_large_mdpi.png)      
 不要              
 
-###放置位置
+### 放置位置
 
 你可以根据图框的间距规则放置浮动按钮，你也可以把浮动按钮吸附扩展的应用栏（译者注：工具栏、状态栏之类）的边上。   
    

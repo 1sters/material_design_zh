@@ -42,7 +42,7 @@ permalink: navigation-drawer.html
 在每个列表组的顶部和底部添加8dp的间距。一个例外的情况是，当这个列表组有一个副标题的时候顶部不需添加8dp的间距，因为副标题包含有他自己的间距设定。
 
 
-##**高度**##
+## **高度** ##
 
 抽屉导航的占据了屏幕的全部高度，并且抽屉导航在状态栏的下方。抽屉下方所有的东西会覆盖一层阴影（scrim）而变暗。阴影下的所有内容依然是可见的。
 
@@ -65,7 +65,7 @@ permalink: navigation-drawer.html
 <img src="images/patterns_navdrawer_selection6.png"width="360"/> 
 
 
-##**分隔线**##
+## **分隔线** ##
 
 在导航抽屉里所有分割线都是完全在抽屉面板内部。此外，在分隔线上方和下方均有8dp的间距。
 
@@ -78,7 +78,7 @@ permalink: navigation-drawer.html
 **8 dp 垂直间距**
 
 
-##**滚动**##
+## **滚动** ##
 
 抽屉导航可以像任何普通视图一样滚动。
 
@@ -86,7 +86,7 @@ permalink: navigation-drawer.html
 <img src="images/patterns_navdrawer_scrolling2.png"width="360"/> 
 
 
-##**设置和支持**##
+## **设置和支持** ##
 
 设置和支持位于滚动列表的底部，与列表内容的其余部分排成列。 
 

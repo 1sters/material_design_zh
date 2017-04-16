@@ -15,7 +15,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 ***
 
-##一起来参与
+## 一起来参与
 如果想做出贡献(翻译或者校对)的话，请加QQ群：137198122，谢谢！
 
 原文文档：
@@ -135,7 +135,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [`更新记录`](SOURCE/whats-new/whats-new.md) - [`What's new`](https://www.google.com/design/spec/whats-new/whats-new.html)    
    
 ***
-##协作过程演示
+## 协作过程演示
 
 录了一个动作演示，如下
 ![github guide](http://assets-1sters.qiniudn.com/github_guide.gif)
@@ -337,14 +337,14 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ## 常见问题
 
-###代码如何处理
+### 代码如何处理
 使用markdown的代码规范处理，如  
 
 \`\`\`html  
 \<div class="hey"\>...\</div\>  
 \`\`\`
 
-###图片如何处理
+### 图片如何处理
 在章（如components）下创建`images`目录，将图片原文件名（如materialdesign-goals-cutrectangles_large_mdpi.png）存到该目录下，然后在文档中这样调用
 `![ALT文字](images/materialdesign-goals-landingimage_large_mdpi.png)`
 
@@ -352,6 +352,6 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ### 如何添加锚点 [issue#58](https://github.com/1sters/material_design_zh/issues/58)
 
-###视频如何处理 [issue#90](https://github.com/1sters/material_design_zh/issues/90)
+### 视频如何处理 [issue#90](https://github.com/1sters/material_design_zh/issues/90)
 
 
