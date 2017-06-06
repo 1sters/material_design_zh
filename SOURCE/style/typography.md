@@ -70,7 +70,7 @@ permalink: typography.html
 
 “按钮（Button）”样式的例子
 
-###基本色/色彩对比度（Basic colors/Color contrast）
+### 基本色/色彩对比度（Basic colors/Color contrast）
 
 最基本的常识是，相同颜色的背景和文字是很难阅读的。但有些人不知道的是，带有过强对比度的文本会有些炫目，同样难以阅读。这一点在深色背景下尤其明显。
 
