@@ -5,7 +5,6 @@ description: "Google I/O(2014)最新发布的Material Design势必会成为全�
 # baseurl: "http://design.1sters.com"
 baseurl: ""
 highlighter: ""
-relative_permalinks: true
 url: "http://design.1sters.com"
 exclude: ["SOURCE", "script", "Gemfile", "Gemfile.lock","epub_tmp","ebooks"]
 
