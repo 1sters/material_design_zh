@@ -15,6 +15,10 @@ Google I/O 2014 发布的 Material Design 势必将会成为统一 Android Mobil
 
 ![](https://q2.cdn.prodegree.com/default/2019/0404/rDW9rWHcrmmpqmpPheetfWTosWkYiA1WJnlj0z0h.png)
 
+==
+<a href="
+http://plus.jikexueyuan.com/web-jinjie?utm_source=1sters_design&utm_medium=banner&utm_campaign=ying_web_jinjie"><img src="https://q2.cdn.prodegree.com/default/2019/0404/rDW9rWHcrmmpqmpPheetfWTosWkYiA1WJnlj0z0h.png"/></>
+
 ## 参与者（按认领章节排序）
 
 - [iceskysl](https://github.com/iceskysl)  
