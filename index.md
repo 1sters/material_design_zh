@@ -11,13 +11,10 @@ Google I/O 2014 发布的 Material Design 势必将会成为统一 Android Mobil
 想进一步深入交流，请加我们的 [微信群 >>](https://shimo.im/forms/3cF27grKowUnmlSw/fill)
 
 ## 广告时间
-[如果你是 1 - 3 年的 Web 前端工程师，下面的课程可能适合你 >>](http://plus.jikexueyuan.com/web-jinjie?utm_source=1sters_design&utm_medium=banner&utm_campaign=ying_web_jinjie)
+如果你是 1 - 3 年的 Web 前端工程师，下面的课程可能适合你
 
-![](https://q2.cdn.prodegree.com/default/2019/0404/rDW9rWHcrmmpqmpPheetfWTosWkYiA1WJnlj0z0h.png)
-
-==
 <a href="
-http://plus.jikexueyuan.com/web-jinjie?utm_source=1sters_design&utm_medium=banner&utm_campaign=ying_web_jinjie"><img src="https://q2.cdn.prodegree.com/default/2019/0404/rDW9rWHcrmmpqmpPheetfWTosWkYiA1WJnlj0z0h.png"/></>
+http://plus.jikexueyuan.com/web-jinjie?utm_source=1sters_design&utm_medium=banner&utm_campaign=ying_web_jinjie"><img src="https://q2.cdn.prodegree.com/default/2019/0404/rDW9rWHcrmmpqmpPheetfWTosWkYiA1WJnlj0z0h.png"></></>
 
 ## 参与者（按认领章节排序）
 
